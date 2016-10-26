@@ -1,10 +1,10 @@
-Start testing: Sep 08 19:56 UTC
+Start testing: Oct 26 17:36 UTC
 ----------------------------------------------------------
 1/3 Testing: integration.slab
 1/3 Test: integration.slab
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/big-ladder/kiva/build/kiva" "/home/travis/build/big-ladder/kiva/examples/slab.yaml" "/home/travis/build/big-ladder/kiva/weather/USA_DC_Washington.epw" "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/out.csv"
 Directory: /home/travis/build/big-ladder/kiva/scripts
-"integration.slab" start time: Sep 08 19:56 UTC
+"integration.slab" start time: Oct 26 17:36 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -22,21 +22,21 @@ Evaluating contents of /home/travis/build/big-ladder/kiva/build/test/results/lin
   ["/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/USA_DC_Washington.epw", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/slab.yaml", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/stdout.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/out.csv", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/stderr.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/exitcode.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.slab/timings.log"]
 Evaluating contents of /home/travis/build/big-ladder/kiva/build
 - contents:
-  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
+  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/libgroundplot.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.47 sec
+Test time =   4.00 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.slab" end time: Sep 08 19:56 UTC
-"integration.slab" time elapsed: 00:00:02
+"integration.slab" end time: Oct 26 17:36 UTC
+"integration.slab" time elapsed: 00:00:04
 ----------------------------------------------------------
 
 2/3 Testing: integration.basement
 2/3 Test: integration.basement
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/big-ladder/kiva/build/kiva" "/home/travis/build/big-ladder/kiva/examples/basement.yaml" "/home/travis/build/big-ladder/kiva/weather/USA_IL_Chicago.epw" "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/out.csv"
 Directory: /home/travis/build/big-ladder/kiva/scripts
-"integration.basement" start time: Sep 08 19:56 UTC
+"integration.basement" start time: Oct 26 17:36 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -54,21 +54,21 @@ Evaluating contents of /home/travis/build/big-ladder/kiva/build/test/results/lin
   ["/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/stdout.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/USA_IL_Chicago.epw", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/out.csv", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/basement.yaml", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/stderr.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/exitcode.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.basement/timings.log"]
 Evaluating contents of /home/travis/build/big-ladder/kiva/build
 - contents:
-  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
+  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/libgroundplot.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
 run-kiva.rb completed!
 <end of output>
-Test time =   3.73 sec
+Test time =   5.52 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.basement" end time: Sep 08 19:56 UTC
-"integration.basement" time elapsed: 00:00:03
+"integration.basement" end time: Oct 26 17:37 UTC
+"integration.basement" time elapsed: 00:00:05
 ----------------------------------------------------------
 
 3/3 Testing: integration.crawlspace
 3/3 Test: integration.crawlspace
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/big-ladder/kiva/build/kiva" "/home/travis/build/big-ladder/kiva/examples/crawlspace.yaml" "/home/travis/build/big-ladder/kiva/weather/USA_FL_Tampa.epw" "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/out.csv"
 Directory: /home/travis/build/big-ladder/kiva/scripts
-"integration.crawlspace" start time: Sep 08 19:56 UTC
+"integration.crawlspace" start time: Oct 26 17:37 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -86,14 +86,14 @@ Evaluating contents of /home/travis/build/big-ladder/kiva/build/test/results/lin
   ["/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/crawlspace.yaml", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/stdout.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/USA_FL_Tampa.epw", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/out.csv", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/stderr.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/exitcode.log", "/home/travis/build/big-ladder/kiva/build/test/results/linux-gnu-x86_64/integration.crawlspace/timings.log"]
 Evaluating contents of /home/travis/build/big-ladder/kiva/build
 - contents:
-  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
+  ["/home/travis/build/big-ladder/kiva/build/src", "/home/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/home/travis/build/big-ladder/kiva/build/libpng16.a", "/home/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/home/travis/build/big-ladder/kiva/build/Makefile", "/home/travis/build/big-ladder/kiva/build/test", "/home/travis/build/big-ladder/kiva/build/kiva", "/home/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/home/travis/build/big-ladder/kiva/build/libgroundplot.a", "/home/travis/build/big-ladder/kiva/build/Testing", "/home/travis/build/big-ladder/kiva/build/liblis.a", "/home/travis/build/big-ladder/kiva/build/libboost_system.a", "/home/travis/build/big-ladder/kiva/build/libz.a", "/home/travis/build/big-ladder/kiva/build/vendor", "/home/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/home/travis/build/big-ladder/kiva/build/libkiva.so", "/home/travis/build/big-ladder/kiva/build/libmgl.a", "/home/travis/build/big-ladder/kiva/build/yaml-cpp.pc", "/home/travis/build/big-ladder/kiva/build/CMakeFiles", "/home/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/home/travis/build/big-ladder/kiva/build/libboost_date_time.a"]
 run-kiva.rb completed!
 <end of output>
-Test time =   3.23 sec
+Test time =   5.02 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.crawlspace" end time: Sep 08 19:56 UTC
-"integration.crawlspace" time elapsed: 00:00:03
+"integration.crawlspace" end time: Oct 26 17:37 UTC
+"integration.crawlspace" time elapsed: 00:00:05
 ----------------------------------------------------------
 
-End testing: Sep 08 19:56 UTC
+End testing: Oct 26 17:37 UTC
