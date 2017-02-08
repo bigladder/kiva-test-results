@@ -1,10 +1,10 @@
-Start testing: Sep 08 20:16 Coordinated Universal Time
+Start testing: Feb 08 18:16 Coordinated Universal Time
 ----------------------------------------------------------
-1/3 Testing: integration.slab
-1/3 Test: integration.slab
+1/5 Testing: integration.slab
+1/5 Test: integration.slab
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/Release/kiva.exe" "C:/projects/kiva/examples/slab.yaml" "C:/projects/kiva/weather/USA_DC_Washington.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.slab" start time: Sep 08 20:16 Coordinated Universal Time
+"integration.slab" start time: Feb 08 18:16 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -15,28 +15,28 @@ Running with:
   output file  = C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/out.csv
   ... output directory=C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab
   ... exe path        =C:/projects/kiva/build/Release/kiva.exe
-  ... cmd = cd C:/projects/kiva/build/Release && kiva.exe C:/projects/kiva/examples/slab.yaml C:/projects/kiva/weather/USA_DC_Washington.epw C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/out.csv
+  ... cmd = cd C:/projects/kiva/build/Release && "kiva.exe" "C:/projects/kiva/examples/slab.yaml" "C:/projects/kiva/weather/USA_DC_Washington.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/out.csv"
 run_case complete!
 Evaluating contents of C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab
 - contents:
   ["C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/exitcode.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/out.csv", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/slab.yaml", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/stderr.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/stdout.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/timings.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.slab/USA_DC_Washington.epw"]
 Evaluating contents of C:/projects/kiva/build/Release
 - contents:
-  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/lis.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
+  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/groundplot.lib", "C:/projects/kiva/build/Release/gtest.lib", "C:/projects/kiva/build/Release/gtest_main.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/kiva_tests.exe", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.42 sec
+Test time =   4.09 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.slab" end time: Sep 08 20:16 Coordinated Universal Time
-"integration.slab" time elapsed: 00:00:02
+"integration.slab" end time: Feb 08 18:16 Coordinated Universal Time
+"integration.slab" time elapsed: 00:00:04
 ----------------------------------------------------------
 
-2/3 Testing: integration.basement
-2/3 Test: integration.basement
+2/5 Testing: integration.basement
+2/5 Test: integration.basement
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/Release/kiva.exe" "C:/projects/kiva/examples/basement.yaml" "C:/projects/kiva/weather/USA_IL_Chicago.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.basement" start time: Sep 08 20:16 Coordinated Universal Time
+"integration.basement" start time: Feb 08 18:16 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -47,28 +47,28 @@ Running with:
   output file  = C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/out.csv
   ... output directory=C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement
   ... exe path        =C:/projects/kiva/build/Release/kiva.exe
-  ... cmd = cd C:/projects/kiva/build/Release && kiva.exe C:/projects/kiva/examples/basement.yaml C:/projects/kiva/weather/USA_IL_Chicago.epw C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/out.csv
+  ... cmd = cd C:/projects/kiva/build/Release && "kiva.exe" "C:/projects/kiva/examples/basement.yaml" "C:/projects/kiva/weather/USA_IL_Chicago.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/out.csv"
 run_case complete!
 Evaluating contents of C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement
 - contents:
   ["C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/basement.yaml", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/exitcode.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/out.csv", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/stderr.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/stdout.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/timings.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.basement/USA_IL_Chicago.epw"]
 Evaluating contents of C:/projects/kiva/build/Release
 - contents:
-  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/lis.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
+  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/groundplot.lib", "C:/projects/kiva/build/Release/gtest.lib", "C:/projects/kiva/build/Release/gtest_main.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/kiva_tests.exe", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.97 sec
+Test time =   4.81 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.basement" end time: Sep 08 20:16 Coordinated Universal Time
-"integration.basement" time elapsed: 00:00:02
+"integration.basement" end time: Feb 08 18:16 Coordinated Universal Time
+"integration.basement" time elapsed: 00:00:04
 ----------------------------------------------------------
 
-3/3 Testing: integration.crawlspace
-3/3 Test: integration.crawlspace
+3/5 Testing: integration.crawlspace
+3/5 Test: integration.crawlspace
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/Release/kiva.exe" "C:/projects/kiva/examples/crawlspace.yaml" "C:/projects/kiva/weather/USA_FL_Tampa.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.crawlspace" start time: Sep 08 20:16 Coordinated Universal Time
+"integration.crawlspace" start time: Feb 08 18:16 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -79,21 +79,73 @@ Running with:
   output file  = C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/out.csv
   ... output directory=C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace
   ... exe path        =C:/projects/kiva/build/Release/kiva.exe
-  ... cmd = cd C:/projects/kiva/build/Release && kiva.exe C:/projects/kiva/examples/crawlspace.yaml C:/projects/kiva/weather/USA_FL_Tampa.epw C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/out.csv
+  ... cmd = cd C:/projects/kiva/build/Release && "kiva.exe" "C:/projects/kiva/examples/crawlspace.yaml" "C:/projects/kiva/weather/USA_FL_Tampa.epw" "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/out.csv"
 run_case complete!
 Evaluating contents of C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace
 - contents:
   ["C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/crawlspace.yaml", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/exitcode.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/out.csv", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/stderr.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/stdout.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/timings.log", "C:/projects/kiva/build/test/results/windows-msvc-x86_64/integration.crawlspace/USA_FL_Tampa.epw"]
 Evaluating contents of C:/projects/kiva/build/Release
 - contents:
-  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/lis.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
+  ["C:/projects/kiva/build/Release/boost_date_time.lib", "C:/projects/kiva/build/Release/boost_filesystem.lib", "C:/projects/kiva/build/Release/boost_program_options.lib", "C:/projects/kiva/build/Release/boost_system.lib", "C:/projects/kiva/build/Release/groundplot.lib", "C:/projects/kiva/build/Release/gtest.lib", "C:/projects/kiva/build/Release/gtest_main.lib", "C:/projects/kiva/build/Release/kiva.dll", "C:/projects/kiva/build/Release/kiva.exe", "C:/projects/kiva/build/Release/kiva.exp", "C:/projects/kiva/build/Release/kiva.lib", "C:/projects/kiva/build/Release/kiva_tests.exe", "C:/projects/kiva/build/Release/libpng16_static.lib", "C:/projects/kiva/build/Release/libyaml-cppmd.lib", "C:/projects/kiva/build/Release/mgl-static.lib", "C:/projects/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.84 sec
+Test time =   4.56 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.crawlspace" end time: Sep 08 20:16 Coordinated Universal Time
-"integration.crawlspace" time elapsed: 00:00:02
+"integration.crawlspace" end time: Feb 08 18:16 Coordinated Universal Time
+"integration.crawlspace" time elapsed: 00:00:04
 ----------------------------------------------------------
 
-End testing: Sep 08 20:16 Coordinated Universal Time
+4/5 Testing: BESTEST.GC10a
+4/5 Test: BESTEST.GC10a
+Command: "C:/projects/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTEST.GC10a"
+Directory: C:/projects/kiva/build/test/unit
+"BESTEST.GC10a" start time: Feb 08 18:16 Coordinated Universal Time
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTEST.GC10a
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTEST
+[ RUN      ] BESTEST.GC10a
+[       OK ] BESTEST.GC10a (6 ms)
+[----------] 1 test from BESTEST (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BESTEST.GC10a" end time: Feb 08 18:16 Coordinated Universal Time
+"BESTEST.GC10a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: BESTEST.GC30a
+5/5 Test: BESTEST.GC30a
+Command: "C:/projects/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTEST.GC30a"
+Directory: C:/projects/kiva/build/test/unit
+"BESTEST.GC30a" start time: Feb 08 18:16 Coordinated Universal Time
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTEST.GC30a
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTEST
+[ RUN      ] BESTEST.GC30a
+[       OK ] BESTEST.GC30a (4 ms)
+[----------] 1 test from BESTEST (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BESTEST.GC30a" end time: Feb 08 18:16 Coordinated Universal Time
+"BESTEST.GC30a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 08 18:16 Coordinated Universal Time
