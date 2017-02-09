@@ -1,0 +1,1 @@
+sh: line 1:  5884 Segmentation fault: 11  "./kiva" "/Users/travis/build/big-ladder/kiva/examples/crawlspace.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_FL_Tampa.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/macosx-clang-x86_64/integration.crawlspace/out.csv"
