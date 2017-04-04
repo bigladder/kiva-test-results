@@ -1,0 +1,825 @@
+Start testing: Apr 04 04:53 UTC
+----------------------------------------------------------
+1/27 Testing: integration.example.slab
+1/27 Test: integration.example.slab
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/examples/slab.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_DC_Washington.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.example.slab" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/examples/slab.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/weather/USA_DC_Washington.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/examples/slab.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_DC_Washington.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/slab.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/USA_DC_Washington.epw"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   4.36 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Apr 04 04:53 UTC
+"integration.example.slab" time elapsed: 00:00:04
+----------------------------------------------------------
+
+2/27 Testing: integration.example.basement
+2/27 Test: integration.example.basement
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/examples/basement.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_IL_Chicago.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.example.basement" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/examples/basement.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/weather/USA_IL_Chicago.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/examples/basement.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_IL_Chicago.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/basement.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.basement/USA_IL_Chicago.epw"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   5.88 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Apr 04 04:53 UTC
+"integration.example.basement" time elapsed: 00:00:05
+----------------------------------------------------------
+
+3/27 Testing: integration.example.crawlspace
+3/27 Test: integration.example.crawlspace
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/examples/crawlspace.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_FL_Tampa.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.example.crawlspace" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/examples/crawlspace.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/weather/USA_FL_Tampa.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/examples/crawlspace.yaml" "/Users/travis/build/big-ladder/kiva/weather/USA_FL_Tampa.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/crawlspace.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.example.crawlspace/USA_FL_Tampa.epw"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   5.11 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.crawlspace" end time: Apr 04 04:53 UTC
+"integration.example.crawlspace" time elapsed: 00:00:05
+----------------------------------------------------------
+
+4/27 Testing: integration.BESTEST.GC10a
+4/27 Test: integration.BESTEST.GC10a
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC10a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC10a" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC10a.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC10a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC10a/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.68 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC10a" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC10a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/27 Testing: integration.BESTEST.GC30a
+5/27 Test: integration.BESTEST.GC30a
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC30a" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC30a.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30a/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.66 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30a" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC30a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/27 Testing: integration.BESTEST.GC30b
+6/27 Test: integration.BESTEST.GC30b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC30b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC30b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30b/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC30b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/27 Testing: integration.BESTEST.GC30c
+7/27 Test: integration.BESTEST.GC30c
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC30c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC30c.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC30c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC30c/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30c" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC30c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/27 Testing: integration.BESTEST.GC40a
+8/27 Test: integration.BESTEST.GC40a
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC40a" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC40a.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40a.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40a/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.88 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC40a" time elapsed: 00:00:01
+----------------------------------------------------------
+
+9/27 Testing: integration.BESTEST.GC40b
+9/27 Test: integration.BESTEST.GC40b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC40b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC40b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.66 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC40b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+10/27 Testing: integration.BESTEST.GC40c
+10/27 Test: integration.BESTEST.GC40c
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC40c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC40c.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC40c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/GC40c.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC40c/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.90 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC40c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+11/27 Testing: integration.BESTEST.GC45b
+11/27 Test: integration.BESTEST.GC45b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC45b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC45b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC45b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC45b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/GC45b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.68 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC45b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+12/27 Testing: integration.BESTEST.GC45c
+12/27 Test: integration.BESTEST.GC45c
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC45c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC45c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC45c.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC45c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC45c/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.91 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC45c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+13/27 Testing: integration.BESTEST.GC50b
+13/27 Test: integration.BESTEST.GC50b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC50b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC50b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC50b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC50b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC50b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.03 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC50b" time elapsed: 00:00:02
+----------------------------------------------------------
+
+14/27 Testing: integration.BESTEST.GC55b
+14/27 Test: integration.BESTEST.GC55b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC55b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC55b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC55b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC55b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.61 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC55b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+15/27 Testing: integration.BESTEST.GC55c
+15/27 Test: integration.BESTEST.GC55c
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC55c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC55c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC55c.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC55c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC55c/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.91 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC55c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+16/27 Testing: integration.BESTEST.GC60b
+16/27 Test: integration.BESTEST.GC60b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC60b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC60b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC60b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC60b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/GC60b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC60b/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC60b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC60b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/27 Testing: integration.BESTEST.GC65b
+17/27 Test: integration.BESTEST.GC65b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC65b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC65b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC65b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W01TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC65b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/timings.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC65b/Y-Slice"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.84 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC65b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC65b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/27 Testing: integration.BESTEST.GC70b
+18/27 Test: integration.BESTEST.GC70b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC70b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC70b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC70b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W01TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC70b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.84 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC70b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+19/27 Testing: integration.BESTEST.GC80b
+19/27 Test: integration.BESTEST.GC80b
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC80b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC80b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC80b.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC80b.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/GC80b.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80b/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.76 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC80b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+20/27 Testing: integration.BESTEST.GC80c
+20/27 Test: integration.BESTEST.GC80c
+Command: "/Users/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/Users/travis/build/big-ladder/kiva/build/kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC80c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/out.csv"
+Directory: /Users/travis/build/big-ladder/kiva/scripts
+"integration.BESTEST.GC80c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/travis/build/big-ladder/kiva/build/kiva
+  input file = /Users/travis/build/big-ladder/kiva/test/bestest/GC80c.yaml
+  weather file = /Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/out.csv
+  ... output directory=/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c
+  ... exe path        =/Users/travis/build/big-ladder/kiva/build/kiva
+  ... cmd = cd /Users/travis/build/big-ladder/kiva/build && "./kiva" "/Users/travis/build/big-ladder/kiva/test/bestest/GC80c.yaml" "/Users/travis/build/big-ladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/out.csv"
+run_case complete!
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/exitcode.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/GC80c.yaml", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/out.csv", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/stderr.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/stdout.log", "/Users/travis/build/big-ladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC80c/timings.log"]
+Evaluating contents of /Users/travis/build/big-ladder/kiva/build
+- contents:
+  ["/Users/travis/build/big-ladder/kiva/build/arch.c", "/Users/travis/build/big-ladder/kiva/build/arch.txt", "/Users/travis/build/big-ladder/kiva/build/cmake_install.cmake", "/Users/travis/build/big-ladder/kiva/build/CMakeCache.txt", "/Users/travis/build/big-ladder/kiva/build/CMakeFiles", "/Users/travis/build/big-ladder/kiva/build/CPackConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CPackSourceConfig.cmake", "/Users/travis/build/big-ladder/kiva/build/CTestTestfile.cmake", "/Users/travis/build/big-ladder/kiva/build/kiva", "/Users/travis/build/big-ladder/kiva/build/kiva_tests", "/Users/travis/build/big-ladder/kiva/build/libboost_date_time.a", "/Users/travis/build/big-ladder/kiva/build/libboost_filesystem.a", "/Users/travis/build/big-ladder/kiva/build/libboost_program_options.a", "/Users/travis/build/big-ladder/kiva/build/libboost_system.a", "/Users/travis/build/big-ladder/kiva/build/libgroundplot.a", "/Users/travis/build/big-ladder/kiva/build/libgtest.a", "/Users/travis/build/big-ladder/kiva/build/libgtest_main.a", "/Users/travis/build/big-ladder/kiva/build/libkiva.dylib", "/Users/travis/build/big-ladder/kiva/build/libmgl.a", "/Users/travis/build/big-ladder/kiva/build/libpng16.a", "/Users/travis/build/big-ladder/kiva/build/libyaml-cpp.a", "/Users/travis/build/big-ladder/kiva/build/libz.a", "/Users/travis/build/big-ladder/kiva/build/Makefile", "/Users/travis/build/big-ladder/kiva/build/src", "/Users/travis/build/big-ladder/kiva/build/test", "/Users/travis/build/big-ladder/kiva/build/Testing", "/Users/travis/build/big-ladder/kiva/build/vendor"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.62 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Apr 04 04:53 UTC
+"integration.BESTEST.GC80c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+21/27 Testing: unit.BESTEST.GC10a
+21/27 Test: unit.BESTEST.GC10a
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC10a" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC10a
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC10a
+[       OK ] BESTESTFixture.GC10a (6 ms)
+[----------] 1 test from BESTESTFixture (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (7 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC10a" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC10a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/27 Testing: unit.BESTEST.GC30a
+22/27 Test: unit.BESTEST.GC30a
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC30a" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30a
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30a
+[       OK ] BESTESTFixture.GC30a (4 ms)
+[----------] 1 test from BESTESTFixture (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30a" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC30a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/27 Testing: unit.BESTEST.GC30b
+23/27 Test: unit.BESTEST.GC30b
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC30b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30b
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30b
+[       OK ] BESTESTFixture.GC30b (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30b" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC30b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/27 Testing: unit.BESTEST.GC30c
+24/27 Test: unit.BESTEST.GC30c
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC30c" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30c
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30c
+[       OK ] BESTESTFixture.GC30c (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30c" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC30c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/27 Testing: unit.BESTEST.GC60b
+25/27 Test: unit.BESTEST.GC60b
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC60b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC60b
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC60b
+[       OK ] BESTESTFixture.GC60b (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC60b" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC60b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/27 Testing: unit.BESTEST.GC65b
+26/27 Test: unit.BESTEST.GC65b
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.GC65b" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC65b
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC65b
+[       OK ] BESTESTFixture.GC65b (4 ms)
+[----------] 1 test from BESTESTFixture (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC65b" end time: Apr 04 04:53 UTC
+"unit.BESTEST.GC65b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/27 Testing: unit.BESTEST.1D
+27/27 Test: unit.BESTEST.1D
+Command: "/Users/travis/build/big-ladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
+Directory: /Users/travis/build/big-ladder/kiva/build/test/unit
+"unit.BESTEST.1D" start time: Apr 04 04:53 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.1D
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.1D
+[       OK ] BESTESTFixture.1D (1 ms)
+[----------] 1 test from BESTESTFixture (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.1D" end time: Apr 04 04:53 UTC
+"unit.BESTEST.1D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 04 04:53 UTC
