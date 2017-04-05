@@ -1,7 +1,7 @@
 kiva v0.4.0-ga236cd2 (windows-gnu-64bit)
 Copyright (C) 2012-2017 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2017-Apr-05 00:58:53.663877
+Starting Program: 2017-Apr-05 01:27:01.798066
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,5 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2017-Apr-05 00:58:54.398251
-Elapsed Time: 00:00:00.734374
+Finished Program: 2017-Apr-05 01:27:02.516816
+Elapsed Time: 00:00:00.718750
