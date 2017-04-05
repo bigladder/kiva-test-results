@@ -1,14 +1,13 @@
-kiva v0.3.1-ga236cd2 (linux-gnu-64bit)
+kiva v0.4.0-ga236cd2 (linux-gnu-64bit)
 Copyright (C) 2012-2017 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2017-Apr-04 22:48:16.810913
+Starting Program: 2017-Apr-04 23:31:14.428113
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2017-Apr-04 22:48:17.253735
-Elapsed Time: 00:00:00.442822
+Finished Program: 2017-Apr-04 23:31:14.826468
+Elapsed Time: 00:00:00.398355
