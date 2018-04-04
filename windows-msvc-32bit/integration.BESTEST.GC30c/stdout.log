@@ -1,7 +1,7 @@
-kiva v0.4.0-g593256e (windows-msvc-32bit)
-Copyright (C) 2012-2017 Big Ladder Software LLC
+kiva v0.4.0-gb36ea76 (windows-msvc-32bit)
+Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2017-May-09 00:48:26.024523
+Starting Program: 2018-Apr-04 21:46:37.236640
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,5 +9,5 @@ Creating Domain...
   Total Cells: 592
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2017-May-09 00:48:26.680771
-Elapsed Time: 00:00:00.656248
+Finished Program: 2018-Apr-04 21:46:37.955391
+Elapsed Time: 00:00:00.718751
