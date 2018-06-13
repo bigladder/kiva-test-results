@@ -1,10 +1,10 @@
-Start testing: May 09 00:49 UTC
+Start testing: Jun 13 22:30 UTC
 ----------------------------------------------------------
 1/27 Testing: integration.example.slab
 1/27 Test: integration.example.slab
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/examples/slab.yaml" "/home/travis/build/bigladder/kiva/weather/USA_DC_Washington.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.example.slab" start time: May 09 00:49 UTC
+"integration.example.slab" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -19,16 +19,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   4.66 sec
+Test time =   4.55 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.slab" end time: May 09 00:49 UTC
+"integration.example.slab" end time: Jun 13 22:30 UTC
 "integration.example.slab" time elapsed: 00:00:04
 ----------------------------------------------------------
 
@@ -36,7 +36,7 @@ Test Passed.
 2/27 Test: integration.example.basement
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/examples/basement.yaml" "/home/travis/build/bigladder/kiva/weather/USA_IL_Chicago.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.example.basement" start time: May 09 00:49 UTC
+"integration.example.basement" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -51,16 +51,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   6.38 sec
+Test time =   6.48 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.basement" end time: May 09 00:49 UTC
+"integration.example.basement" end time: Jun 13 22:30 UTC
 "integration.example.basement" time elapsed: 00:00:06
 ----------------------------------------------------------
 
@@ -68,7 +68,7 @@ Test Passed.
 3/27 Test: integration.example.crawlspace
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/examples/crawlspace.yaml" "/home/travis/build/bigladder/kiva/weather/USA_FL_Tampa.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.example.crawlspace" start time: May 09 00:49 UTC
+"integration.example.crawlspace" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -83,16 +83,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   5.87 sec
+Test time =   5.98 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.crawlspace" end time: May 09 00:49 UTC
+"integration.example.crawlspace" end time: Jun 13 22:30 UTC
 "integration.example.crawlspace" time elapsed: 00:00:05
 ----------------------------------------------------------
 
@@ -100,7 +100,7 @@ Test Passed.
 4/27 Test: integration.BESTEST.GC10a
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC10a.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC10a" start time: May 09 00:49 UTC
+"integration.BESTEST.GC10a" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -115,16 +115,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.46 sec
+Test time =   0.51 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC10a" end time: May 09 00:49 UTC
+"integration.BESTEST.GC10a" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -132,7 +132,7 @@ Test Passed.
 5/27 Test: integration.BESTEST.GC30a
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC30a.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC30a" start time: May 09 00:49 UTC
+"integration.BESTEST.GC30a" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -147,16 +147,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.47 sec
+Test time =   0.55 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30a" end time: May 09 00:49 UTC
+"integration.BESTEST.GC30a" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -164,7 +164,7 @@ Test Passed.
 6/27 Test: integration.BESTEST.GC30b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC30b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC30b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC30b" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -179,16 +179,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.52 sec
+Test time =   0.59 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC30b" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -196,7 +196,7 @@ Test Passed.
 7/27 Test: integration.BESTEST.GC30c
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC30c.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC30c" start time: May 09 00:49 UTC
+"integration.BESTEST.GC30c" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -211,16 +211,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.53 sec
+Test time =   0.57 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30c" end time: May 09 00:49 UTC
+"integration.BESTEST.GC30c" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -228,7 +228,7 @@ Test Passed.
 8/27 Test: integration.BESTEST.GC40a
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC40a.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC40a" start time: May 09 00:49 UTC
+"integration.BESTEST.GC40a" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -243,16 +243,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.88 sec
+Test time =   1.65 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40a" end time: May 09 00:49 UTC
+"integration.BESTEST.GC40a" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -260,7 +260,7 @@ Test Passed.
 9/27 Test: integration.BESTEST.GC40b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC40b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC40b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC40b" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -275,16 +275,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.66 sec
+Test time =   1.48 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC40b" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC40b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -292,7 +292,7 @@ Test Passed.
 10/27 Test: integration.BESTEST.GC40c
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC40c.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC40c" start time: May 09 00:49 UTC
+"integration.BESTEST.GC40c" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -307,16 +307,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.64 sec
+Test time =   1.49 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40c" end time: May 09 00:49 UTC
+"integration.BESTEST.GC40c" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -324,7 +324,7 @@ Test Passed.
 11/27 Test: integration.BESTEST.GC45b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC45b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC45b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC45b" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -339,16 +339,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.61 sec
+Test time =   1.45 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC45b" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -356,7 +356,7 @@ Test Passed.
 12/27 Test: integration.BESTEST.GC45c
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC45c.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC45c" start time: May 09 00:49 UTC
+"integration.BESTEST.GC45c" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -371,16 +371,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.55 sec
+Test time =   1.39 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45c" end time: May 09 00:49 UTC
+"integration.BESTEST.GC45c" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -388,7 +388,7 @@ Test Passed.
 13/27 Test: integration.BESTEST.GC50b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC50b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC50b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC50b" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -403,16 +403,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.85 sec
+Test time =   1.63 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC50b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC50b" end time: Jun 13 22:30 UTC
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -420,7 +420,7 @@ Test Passed.
 14/27 Test: integration.BESTEST.GC55b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC55b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC55b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC55b" start time: Jun 13 22:30 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -435,16 +435,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.42 sec
+Test time =   1.18 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC55b" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC55b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -452,7 +452,7 @@ Test Passed.
 15/27 Test: integration.BESTEST.GC55c
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC55c.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC55c" start time: May 09 00:49 UTC
+"integration.BESTEST.GC55c" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -467,16 +467,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.55 sec
+Test time =   1.34 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55c" end time: May 09 00:49 UTC
+"integration.BESTEST.GC55c" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC55c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -484,7 +484,7 @@ Test Passed.
 16/27 Test: integration.BESTEST.GC60b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC60b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC60b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC60b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -499,16 +499,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.59 sec
+Test time =   0.61 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC60b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC60b" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -516,7 +516,7 @@ Test Passed.
 17/27 Test: integration.BESTEST.GC65b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC65b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC65b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC65b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -531,16 +531,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.53 sec
+Test time =   0.62 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC65b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC65b" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -548,7 +548,7 @@ Test Passed.
 18/27 Test: integration.BESTEST.GC70b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC70b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC70b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC70b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -563,16 +563,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.67 sec
+Test time =   1.51 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC70b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC70b" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -580,7 +580,7 @@ Test Passed.
 19/27 Test: integration.BESTEST.GC80b
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC80b.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC80b" start time: May 09 00:49 UTC
+"integration.BESTEST.GC80b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -595,16 +595,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.69 sec
+Test time =   1.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80b" end time: May 09 00:49 UTC
+"integration.BESTEST.GC80b" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -612,7 +612,7 @@ Test Passed.
 20/27 Test: integration.BESTEST.GC80c
 Command: "/home/travis/.rvm/rubies/ruby-2.0.0-p648/bin/ruby" "run-kiva.rb" "/home/travis/build/bigladder/kiva/build/kiva" "/home/travis/build/bigladder/kiva/test/bestest/GC80c.yaml" "/home/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /home/travis/build/bigladder/kiva/scripts
-"integration.BESTEST.GC80c" start time: May 09 00:49 UTC
+"integration.BESTEST.GC80c" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -627,16 +627,16 @@ Running with:
 run_case complete!
 Evaluating contents of /home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log"]
+  ["/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/timings.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/exitcode.log", "/home/travis/build/bigladder/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log"]
 Evaluating contents of /home/travis/build/bigladder/kiva/build
 - contents:
-  ["/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/src", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/test"]
+  ["/home/travis/build/bigladder/kiva/build/CMakeCache.txt", "/home/travis/build/bigladder/kiva/build/arch.c", "/home/travis/build/bigladder/kiva/build/CMakeFiles", "/home/travis/build/bigladder/kiva/build/libz.a", "/home/travis/build/bigladder/kiva/build/libboost_program_options.a", "/home/travis/build/bigladder/kiva/build/Makefile", "/home/travis/build/bigladder/kiva/build/vendor", "/home/travis/build/bigladder/kiva/build/Testing", "/home/travis/build/bigladder/kiva/build/libboost_filesystem.a", "/home/travis/build/bigladder/kiva/build/CPackSourceConfig.cmake", "/home/travis/build/bigladder/kiva/build/kiva", "/home/travis/build/bigladder/kiva/build/cmake_install.cmake", "/home/travis/build/bigladder/kiva/build/CTestTestfile.cmake", "/home/travis/build/bigladder/kiva/build/CPackConfig.cmake", "/home/travis/build/bigladder/kiva/build/test", "/home/travis/build/bigladder/kiva/build/libpng16.a", "/home/travis/build/bigladder/kiva/build/kiva_tests", "/home/travis/build/bigladder/kiva/build/libyaml-cpp.a", "/home/travis/build/bigladder/kiva/build/libkiva.so", "/home/travis/build/bigladder/kiva/build/libgtest_main.a", "/home/travis/build/bigladder/kiva/build/arch.txt", "/home/travis/build/bigladder/kiva/build/libboost_system.a", "/home/travis/build/bigladder/kiva/build/libgroundplot.a", "/home/travis/build/bigladder/kiva/build/libboost_date_time.a", "/home/travis/build/bigladder/kiva/build/libgtest.a", "/home/travis/build/bigladder/kiva/build/libmgl.a", "/home/travis/build/bigladder/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.67 sec
+Test time =   1.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80c" end time: May 09 00:49 UTC
+"integration.BESTEST.GC80c" end time: Jun 13 22:31 UTC
 "integration.BESTEST.GC80c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -644,25 +644,18 @@ Test Passed.
 21/27 Test: unit.BESTEST.GC10a
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC10a" start time: May 09 00:49 UTC
+"unit.BESTEST.GC10a" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
-[==========] Running 1 test from 1 test case.
-[----------] Global test environment set-up.
-[----------] 1 test from BESTESTFixture
-[ RUN      ] BESTESTFixture.GC10a
-[       OK ] BESTESTFixture.GC10a (4 ms)
-[----------] 1 test from BESTESTFixture (4 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (4 ms total)
-[  PASSED  ] 1 test.
+[==========] Running 0 tests from 0 test cases.
+[==========] 0 tests from 0 test cases ran. (0 ms total)
+[  PASSED  ] 0 tests.
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC10a" end time: May 09 00:49 UTC
+"unit.BESTEST.GC10a" end time: Jun 13 22:31 UTC
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -670,7 +663,7 @@ Test Passed.
 22/27 Test: unit.BESTEST.GC30a
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC30a" start time: May 09 00:49 UTC
+"unit.BESTEST.GC30a" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -688,7 +681,7 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30a" end time: May 09 00:49 UTC
+"unit.BESTEST.GC30a" end time: Jun 13 22:31 UTC
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -696,7 +689,7 @@ Test Passed.
 23/27 Test: unit.BESTEST.GC30b
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC30b" start time: May 09 00:49 UTC
+"unit.BESTEST.GC30b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -704,17 +697,17 @@ Note: Google Test filter = BESTESTFixture.GC30b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30b
-[       OK ] BESTESTFixture.GC30b (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
+[       OK ] BESTESTFixture.GC30b (4 ms)
+[----------] 1 test from BESTESTFixture (4 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (2 ms total)
+[==========] 1 test from 1 test case ran. (4 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30b" end time: May 09 00:49 UTC
+"unit.BESTEST.GC30b" end time: Jun 13 22:31 UTC
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -722,7 +715,7 @@ Test Passed.
 24/27 Test: unit.BESTEST.GC30c
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: May 09 00:49 UTC
+"unit.BESTEST.GC30c" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -730,33 +723,7 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30c
-[       OK ] BESTESTFixture.GC30c (2 ms)
-[----------] 1 test from BESTESTFixture (3 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (3 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.00 sec
-----------------------------------------------------------
-Test Passed.
-"unit.BESTEST.GC30c" end time: May 09 00:49 UTC
-"unit.BESTEST.GC30c" time elapsed: 00:00:00
-----------------------------------------------------------
-
-25/27 Testing: unit.BESTEST.GC60b
-25/27 Test: unit.BESTEST.GC60b
-Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
-Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC60b" start time: May 09 00:49 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = BESTESTFixture.GC60b
-[==========] Running 1 test from 1 test case.
-[----------] Global test environment set-up.
-[----------] 1 test from BESTESTFixture
-[ RUN      ] BESTESTFixture.GC60b
-[       OK ] BESTESTFixture.GC60b (3 ms)
+[       OK ] BESTESTFixture.GC30c (3 ms)
 [----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
@@ -766,7 +733,33 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC60b" end time: May 09 00:49 UTC
+"unit.BESTEST.GC30c" end time: Jun 13 22:31 UTC
+"unit.BESTEST.GC30c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/27 Testing: unit.BESTEST.GC60b
+25/27 Test: unit.BESTEST.GC60b
+Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
+Directory: /home/travis/build/bigladder/kiva/build/test/unit
+"unit.BESTEST.GC60b" start time: Jun 13 22:31 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC60b
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC60b
+[       OK ] BESTESTFixture.GC60b (4 ms)
+[----------] 1 test from BESTESTFixture (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC60b" end time: Jun 13 22:31 UTC
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -774,7 +767,7 @@ Test Passed.
 26/27 Test: unit.BESTEST.GC65b
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.GC65b" start time: May 09 00:49 UTC
+"unit.BESTEST.GC65b" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -792,7 +785,7 @@ Note: Google Test filter = BESTESTFixture.GC65b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC65b" end time: May 09 00:49 UTC
+"unit.BESTEST.GC65b" end time: Jun 13 22:31 UTC
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -800,7 +793,7 @@ Test Passed.
 27/27 Test: unit.BESTEST.1D
 Command: "/home/travis/build/bigladder/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /home/travis/build/bigladder/kiva/build/test/unit
-"unit.BESTEST.1D" start time: May 09 00:49 UTC
+"unit.BESTEST.1D" start time: Jun 13 22:31 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -818,8 +811,8 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.1D" end time: May 09 00:49 UTC
+"unit.BESTEST.1D" end time: Jun 13 22:31 UTC
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 09 00:49 UTC
+End testing: Jun 13 22:31 UTC
