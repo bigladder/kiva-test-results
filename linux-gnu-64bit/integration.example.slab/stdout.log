@@ -1,18 +1,19 @@
-kiva v0.4.0-g593256e (linux-gnu-64bit)
-Copyright (C) 2012-2017 Big Ladder Software LLC
+kiva v0.4.0-gc23d45a (linux-gnu-64bit)
+Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2017-May-09 00:49:07.019386
+Starting Program: 2018-Jun-19 21:47:38.784044
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
-  2014-May-19 09:00:00
-  2014-Nov-15 09:00:00
+  2014-Jan-05 23:00:00
+  2014-Jul-12 19:00:00
 Beginning Simulation...
-  2015-Apr-22 11:00:00 (30.5%)
-  2015-Sep-26 08:00:00 (73.5%)
+  2015-Jan-13 23:00:00 (3.6%)
+  2015-Jun-30 20:00:00 (49.5%)
+  2015-Dec-17 14:00:00 (96.1%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2017-May-09 00:49:11.617304
-Elapsed Time: 00:00:04.597918
+Finished Program: 2018-Jun-19 21:47:43.088858
+Elapsed Time: 00:00:04.304814
