@@ -1,13 +1,14 @@
-kiva v0.4.0-gfaf1067 (linux-gnu-64bit)
+kiva v0.4.0-g139c238 (linux-gnu-64bit)
 Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2018-Jun-20 19:36:24.246860
+Starting Program: 2018-Jun-21 00:39:42.627324
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2018-Jun-20 19:36:24.686699
-Elapsed Time: 00:00:00.439839
+Finished Program: 2018-Jun-21 00:39:43.045076
+Elapsed Time: 00:00:00.417752
