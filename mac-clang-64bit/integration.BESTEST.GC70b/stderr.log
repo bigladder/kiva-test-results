@@ -1,0 +1,1 @@
+sh: line 1:  8828 Segmentation fault: 11  "./kiva" "/Users/travis/build/bigladder/kiva/test/bestest/GC70b.yaml" "/Users/travis/build/bigladder/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/travis/build/bigladder/kiva/build/test/results/mac-clang-64bit/integration.BESTEST.GC70b/out.csv"
