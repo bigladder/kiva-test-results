@@ -1,10 +1,10 @@
-Start testing: Jun 21 21:26 Coordinated Universal Time
+Start testing: Jun 29 23:34 Coordinated Universal Time
 ----------------------------------------------------------
 1/27 Testing: integration.example.slab
 1/27 Test: integration.example.slab
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/examples/slab.yaml" "C:/projects/kiva/weather/USA_DC_Washington.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.example.slab/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.example.slab" start time: Jun 21 21:26 Coordinated Universal Time
+"integration.example.slab" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -25,18 +25,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   5.69 sec
+Test time =   4.72 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.slab" end time: Jun 21 21:26 Coordinated Universal Time
-"integration.example.slab" time elapsed: 00:00:05
+"integration.example.slab" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.example.slab" time elapsed: 00:00:04
 ----------------------------------------------------------
 
 2/27 Testing: integration.example.basement
 2/27 Test: integration.example.basement
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/examples/basement.yaml" "C:/projects/kiva/weather/USA_IL_Chicago.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.example.basement/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.example.basement" start time: Jun 21 21:26 Coordinated Universal Time
+"integration.example.basement" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -57,18 +57,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   6.39 sec
+Test time =   5.42 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.basement" end time: Jun 21 21:26 Coordinated Universal Time
-"integration.example.basement" time elapsed: 00:00:06
+"integration.example.basement" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.example.basement" time elapsed: 00:00:05
 ----------------------------------------------------------
 
 3/27 Testing: integration.example.crawlspace
 3/27 Test: integration.example.crawlspace
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/examples/crawlspace.yaml" "C:/projects/kiva/weather/USA_FL_Tampa.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.example.crawlspace/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.example.crawlspace" start time: Jun 21 21:26 Coordinated Universal Time
+"integration.example.crawlspace" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -89,10 +89,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   5.97 sec
+Test time =   5.04 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.crawlspace" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.example.crawlspace" end time: Jun 29 23:34 Coordinated Universal Time
 "integration.example.crawlspace" time elapsed: 00:00:05
 ----------------------------------------------------------
 
@@ -100,7 +100,7 @@ Test Passed.
 4/27 Test: integration.BESTEST.GC10a
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC10a.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC10a" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC10a" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -121,10 +121,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.96 sec
+Test time =   0.75 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC10a" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC10a" end time: Jun 29 23:34 Coordinated Universal Time
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -132,7 +132,7 @@ Test Passed.
 5/27 Test: integration.BESTEST.GC30a
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC30a.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC30a" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC30a" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -153,10 +153,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.91 sec
+Test time =   0.74 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30a" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC30a" end time: Jun 29 23:34 Coordinated Universal Time
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -164,7 +164,7 @@ Test Passed.
 6/27 Test: integration.BESTEST.GC30b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC30b.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC30b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC30b" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -185,18 +185,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.02 sec
+Test time =   0.89 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC30b" time elapsed: 00:00:01
+"integration.BESTEST.GC30b" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 7/27 Testing: integration.BESTEST.GC30c
 7/27 Test: integration.BESTEST.GC30c
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC30c.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC30c" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC30c" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -217,18 +217,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.04 sec
+Test time =   0.80 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30c" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC30c" time elapsed: 00:00:01
+"integration.BESTEST.GC30c" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 8/27 Testing: integration.BESTEST.GC40a
 8/27 Test: integration.BESTEST.GC40a
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC40a.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC40a" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC40a" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -249,10 +249,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.57 sec
+Test time =   2.06 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40a" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC40a" end time: Jun 29 23:34 Coordinated Universal Time
 "integration.BESTEST.GC40a" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -260,7 +260,7 @@ Test Passed.
 9/27 Test: integration.BESTEST.GC40b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC40b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC40b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC40b" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -281,18 +281,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.19 sec
+Test time =   1.87 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC40b" time elapsed: 00:00:02
+"integration.BESTEST.GC40b" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC40b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 10/27 Testing: integration.BESTEST.GC40c
 10/27 Test: integration.BESTEST.GC40c
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC40c.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC40c" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC40c" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -313,18 +313,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.20 sec
+Test time =   1.79 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40c" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC40c" time elapsed: 00:00:02
+"integration.BESTEST.GC40c" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 11/27 Testing: integration.BESTEST.GC45b
 11/27 Test: integration.BESTEST.GC45b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC45b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC45b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC45b" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -345,18 +345,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.12 sec
+Test time =   1.84 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC45b" time elapsed: 00:00:02
+"integration.BESTEST.GC45b" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC45b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 12/27 Testing: integration.BESTEST.GC45c
 12/27 Test: integration.BESTEST.GC45c
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC45c.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC45c" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC45c" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -377,18 +377,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.10 sec
+Test time =   1.76 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45c" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC45c" time elapsed: 00:00:02
+"integration.BESTEST.GC45c" end time: Jun 29 23:34 Coordinated Universal Time
+"integration.BESTEST.GC45c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 13/27 Testing: integration.BESTEST.GC50b
 13/27 Test: integration.BESTEST.GC50b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC50b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC50b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC50b" start time: Jun 29 23:34 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -409,10 +409,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.39 sec
+Test time =   2.02 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC50b" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC50b" end time: Jun 29 23:35 Coordinated Universal Time
 "integration.BESTEST.GC50b" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -420,7 +420,7 @@ Test Passed.
 14/27 Test: integration.BESTEST.GC55b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC55b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC55b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC55b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -441,10 +441,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.88 sec
+Test time =   1.52 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55b" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC55b" end time: Jun 29 23:35 Coordinated Universal Time
 "integration.BESTEST.GC55b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -452,7 +452,7 @@ Test Passed.
 15/27 Test: integration.BESTEST.GC55c
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC55c.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC55c" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC55c" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -473,10 +473,10 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.95 sec
+Test time =   1.58 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55c" end time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC55c" end time: Jun 29 23:35 Coordinated Universal Time
 "integration.BESTEST.GC55c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -484,7 +484,7 @@ Test Passed.
 16/27 Test: integration.BESTEST.GC60b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC60b.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC60b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC60b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -505,18 +505,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.00 sec
+Test time =   0.79 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC60b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC60b" time elapsed: 00:00:01
+"integration.BESTEST.GC60b" end time: Jun 29 23:35 Coordinated Universal Time
+"integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 17/27 Testing: integration.BESTEST.GC65b
 17/27 Test: integration.BESTEST.GC65b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC65b.yaml" "C:/projects/kiva/test/bestest/weather/GCSS-W01TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC65b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC65b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -537,18 +537,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.01 sec
+Test time =   0.84 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC65b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC65b" time elapsed: 00:00:01
+"integration.BESTEST.GC65b" end time: Jun 29 23:35 Coordinated Universal Time
+"integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 18/27 Testing: integration.BESTEST.GC70b
 18/27 Test: integration.BESTEST.GC70b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC70b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W01TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC70b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC70b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -569,18 +569,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.31 sec
+Test time =   1.88 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC70b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC70b" time elapsed: 00:00:02
+"integration.BESTEST.GC70b" end time: Jun 29 23:35 Coordinated Universal Time
+"integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 19/27 Testing: integration.BESTEST.GC80b
 19/27 Test: integration.BESTEST.GC80b
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC80b.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W20TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC80b" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC80b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -601,18 +601,18 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.27 sec
+Test time =   1.84 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80b" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC80b" time elapsed: 00:00:02
+"integration.BESTEST.GC80b" end time: Jun 29 23:35 Coordinated Universal Time
+"integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 20/27 Testing: integration.BESTEST.GC80c
 20/27 Test: integration.BESTEST.GC80c
 Command: "C:/Ruby200/bin/ruby.exe" "run-kiva.rb" "C:/projects/kiva/build/kiva.exe" "C:/projects/kiva/test/bestest/GC80c.yaml" "C:/projects/kiva/test/bestest/weather/GCSP-W40TM2.epw" "C:/projects/kiva/build/test/results/windows-gnu-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: C:/projects/kiva/scripts
-"integration.BESTEST.GC80c" start time: Jun 21 21:27 Coordinated Universal Time
+"integration.BESTEST.GC80c" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -633,36 +633,29 @@ Evaluating contents of C:/projects/kiva/build
   ["C:/projects/kiva/build/arch.c", "C:/projects/kiva/build/arch.txt", "C:/projects/kiva/build/CMakeCache.txt", "C:/projects/kiva/build/CMakeFiles", "C:/projects/kiva/build/cmake_install.cmake", "C:/projects/kiva/build/CPackConfig.cmake", "C:/projects/kiva/build/CPackSourceConfig.cmake", "C:/projects/kiva/build/CTestTestfile.cmake", "C:/projects/kiva/build/kiva.exe", "C:/projects/kiva/build/kiva_tests.exe", "C:/projects/kiva/build/libboost_date_time.a", "C:/projects/kiva/build/libboost_filesystem.a", "C:/projects/kiva/build/libboost_program_options.a", "C:/projects/kiva/build/libboost_system.a", "C:/projects/kiva/build/libgroundplot.a", "C:/projects/kiva/build/libgtest.a", "C:/projects/kiva/build/libgtest_main.a", "C:/projects/kiva/build/libkiva.dll", "C:/projects/kiva/build/libkiva.dll.a", "C:/projects/kiva/build/libmgl.a", "C:/projects/kiva/build/libpng16.a", "C:/projects/kiva/build/libyaml-cpp.a", "C:/projects/kiva/build/libzlibstatic.a", "C:/projects/kiva/build/Makefile", "C:/projects/kiva/build/src", "C:/projects/kiva/build/test", "C:/projects/kiva/build/Testing", "C:/projects/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.23 sec
+Test time =   1.80 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80c" end time: Jun 21 21:27 Coordinated Universal Time
-"integration.BESTEST.GC80c" time elapsed: 00:00:02
+"integration.BESTEST.GC80c" end time: Jun 29 23:35 Coordinated Universal Time
+"integration.BESTEST.GC80c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 21/27 Testing: unit.BESTEST.GC10a
 21/27 Test: unit.BESTEST.GC10a
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC10a" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC10a" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
-[==========] Running 1 test from 1 test case.
-[----------] Global test environment set-up.
-[----------] 1 test from BESTESTFixture
-[ RUN      ] BESTESTFixture.GC10a
-[       OK ] BESTESTFixture.GC10a (15 ms)
-[----------] 1 test from BESTESTFixture (15 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (15 ms total)
-[  PASSED  ] 1 test.
+[==========] Running 0 tests from 0 test cases.
+[==========] 0 tests from 0 test cases ran. (0 ms total)
+[  PASSED  ] 0 tests.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC10a" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC10a" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -670,7 +663,7 @@ Test Passed.
 22/27 Test: unit.BESTEST.GC30a
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC30a" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30a" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -688,7 +681,7 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30a" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30a" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -696,7 +689,7 @@ Test Passed.
 23/27 Test: unit.BESTEST.GC30b
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC30b" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -714,7 +707,7 @@ Note: Google Test filter = BESTESTFixture.GC30b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30b" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30b" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -722,7 +715,7 @@ Test Passed.
 24/27 Test: unit.BESTEST.GC30c
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30c" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -730,17 +723,17 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30c
-[       OK ] BESTESTFixture.GC30c (15 ms)
-[----------] 1 test from BESTESTFixture (15 ms total)
+[       OK ] BESTESTFixture.GC30c (0 ms)
+[----------] 1 test from BESTESTFixture (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (15 ms total)
+[==========] 1 test from 1 test case ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30c" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC30c" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -748,7 +741,7 @@ Test Passed.
 25/27 Test: unit.BESTEST.GC60b
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC60b" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC60b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -766,7 +759,7 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC60b" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC60b" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -774,7 +767,7 @@ Test Passed.
 26/27 Test: unit.BESTEST.GC65b
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.GC65b" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC65b" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -782,17 +775,17 @@ Note: Google Test filter = BESTESTFixture.GC65b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC65b
-[       OK ] BESTESTFixture.GC65b (0 ms)
-[----------] 1 test from BESTESTFixture (0 ms total)
+[       OK ] BESTESTFixture.GC65b (16 ms)
+[----------] 1 test from BESTESTFixture (16 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test case ran. (0 ms total)
+[==========] 1 test from 1 test case ran. (16 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC65b" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.GC65b" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -800,7 +793,7 @@ Test Passed.
 27/27 Test: unit.BESTEST.1D
 Command: "C:/projects/kiva/build/kiva_tests.exe" "--gtest_filter=BESTESTFixture.1D"
 Directory: C:/projects/kiva/build/test/unit
-"unit.BESTEST.1D" start time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.1D" start time: Jun 29 23:35 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -818,8 +811,8 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.1D" end time: Jun 21 21:27 Coordinated Universal Time
+"unit.BESTEST.1D" end time: Jun 29 23:35 Coordinated Universal Time
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jun 21 21:27 Coordinated Universal Time
+End testing: Jun 29 23:35 Coordinated Universal Time
