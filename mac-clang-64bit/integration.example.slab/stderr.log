@@ -1,0 +1,1 @@
+sh: line 1:  8759 Segmentation fault: 11  "./kiva" "/Users/travis/build/bigladder/kiva/examples/slab.yaml" "/Users/travis/build/bigladder/kiva/weather/USA_DC_Washington.epw" "/Users/travis/build/bigladder/kiva/build/test/results/mac-clang-64bit/integration.example.slab/out.csv"
