@@ -1,16 +1,15 @@
-kiva v0.4.0-g20ef0a5 (mac-clang-64bit)
+kiva v0.4.0-g156d89b (mac-clang-64bit)
 Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2018-Jul-31 19:19:09.881924
+Starting Program: 2018-Aug-01 20:58:00.891723
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-  2098-Oct-22 23:00:00
 Beginning Simulation...
-  2100-Nov-24 02:00:00 (89.6%)
+  2100-Nov-29 18:00:00 (91.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2018-Jul-31 19:19:11.064593
-Elapsed Time: 00:00:01.182669
+Finished Program: 2018-Aug-01 20:58:02.061891
+Elapsed Time: 00:00:01.170168
