@@ -1,7 +1,7 @@
 kiva v0.4.0-g20ef0a5 (mac-clang-64bit)
 Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2018-Jul-31 19:19:04.046927
+Starting Program: 2018-Jul-31 20:06:38.129606
 Creating Domain...
   X Cells: 36
   Y Cells: 1
@@ -9,7 +9,7 @@ Creating Domain...
   Total Cells: 576
 Initializing Temperatures...
 Beginning Simulation...
-  2100-Sep-05 10:00:00 (67.8%)
+  2100-Jun-05 12:00:00 (42.6%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2018-Jul-31 19:19:05.194880
-Elapsed Time: 00:00:01.147953
+Finished Program: 2018-Jul-31 20:06:39.350512
+Elapsed Time: 00:00:01.220906
