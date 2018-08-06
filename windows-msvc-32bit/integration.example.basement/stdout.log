@@ -1,19 +1,20 @@
-kiva v0.4.0+HEAD.429c889.89 (windows-msvc-32bit)
+kiva v0.4.0+HEAD.65a014c.124 (windows-msvc-32bit)
 Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2018-Aug-06 20:49:00.988392
+Starting Program: 2018-Aug-06 22:59:09.644907
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
-  2014-Apr-26 07:00:00
-  2014-Sep-29 00:00:00
+  2014-Jan-04 20:00:00
+  2014-May-20 09:00:00
+  2014-Oct-03 22:00:00
 Beginning Simulation...
-  2015-Feb-28 18:00:00 (16.1%)
-  2015-Jul-14 11:00:00 (53.3%)
-  2015-Dec-03 16:00:00 (92.2%)
+  2015-Feb-14 01:00:00 (12.1%)
+  2015-Jun-15 11:00:00 (45.3%)
+  2015-Oct-14 15:00:00 (78.5%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2018-Aug-06 20:49:06.191515
-Elapsed Time: 00:00:05.203123
+Finished Program: 2018-Aug-06 22:59:15.629142
+Elapsed Time: 00:00:05.984235
