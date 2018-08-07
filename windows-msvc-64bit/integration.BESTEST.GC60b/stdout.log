@@ -1,14 +1,13 @@
-kiva v0.5.0 (windows-msvc-64bit)
+kiva v0.4.0+HEAD.c42ebdc.126 (windows-msvc-64bit)
 Copyright (C) 2012-2018 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2018-Aug-07 01:08:20.630654
+Starting Program: 2018-Aug-07 20:02:20.259529
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2018-Aug-07 01:08:21.083782
-Elapsed Time: 00:00:00.453128
+Finished Program: 2018-Aug-07 20:02:20.884528
+Elapsed Time: 00:00:00.624999
