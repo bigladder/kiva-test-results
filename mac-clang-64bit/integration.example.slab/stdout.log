@@ -1,19 +1,16 @@
-kiva v0.6.1+gh-actions.3e37605.unknown-build-number (mac-clang-64bit)
+kiva v0.6.1+gh-actions.00caec9.unknown-build-number (mac-clang-64bit)
 Copyright (C) 2012-2021 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2021-Nov-24 16:52:29.814318
+Starting Program: 2021-Nov-24 17:10:18.081972
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
-  2013-Nov-26 23:00:00
-  2014-Aug-04 21:00:00
+  2014-Sep-29 23:00:00
 Beginning Simulation...
-  2015-Feb-09 16:00:00 (10.9%)
-  2015-Jul-29 15:00:00 (57.4%)
-  2015-Nov-21 13:00:00 (88.9%)
+  2015-Jul-16 14:00:00 (53.9%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2021-Nov-24 16:52:34.238851
-Elapsed Time: 00:00:04.424533
+Finished Program: 2021-Nov-24 17:10:20.705696
+Elapsed Time: 00:00:02.623724
