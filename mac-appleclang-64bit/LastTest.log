@@ -1,0 +1,1266 @@
+Start testing: Nov 29 17:49 UTC
+----------------------------------------------------------
+1/44 Testing: integration.example.slab
+1/44 Test: integration.example.slab
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/slab.yaml" "/Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.example.slab" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/examples/slab.yaml
+  weather file = /Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/examples/slab.yaml" "/Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/slab.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/USA_DC_Washington.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.55 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Nov 29 17:49 UTC
+"integration.example.slab" time elapsed: 00:00:02
+----------------------------------------------------------
+
+2/44 Testing: integration.example.basement
+2/44 Test: integration.example.basement
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/basement.yaml" "/Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.example.basement" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/examples/basement.yaml
+  weather file = /Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/examples/basement.yaml" "/Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/basement.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/USA_IL_Chicago.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   3.03 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Nov 29 17:49 UTC
+"integration.example.basement" time elapsed: 00:00:03
+----------------------------------------------------------
+
+3/44 Testing: integration.example.crawlspace
+3/44 Test: integration.example.crawlspace
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/crawlspace.yaml" "/Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.example.crawlspace" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/examples/crawlspace.yaml
+  weather file = /Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/examples/crawlspace.yaml" "/Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/crawlspace.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/USA_FL_Tampa.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.82 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.crawlspace" end time: Nov 29 17:49 UTC
+"integration.example.crawlspace" time elapsed: 00:00:02
+----------------------------------------------------------
+
+4/44 Testing: integration.BESTEST.GC10a
+4/44 Test: integration.BESTEST.GC10a
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC10a" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC10a.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/GC10a.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC10a" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC10a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/44 Testing: integration.BESTEST.GC30a
+5/44 Test: integration.BESTEST.GC30a
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC30a" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC30a.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30a" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC30a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/44 Testing: integration.BESTEST.GC30b
+6/44 Test: integration.BESTEST.GC30b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC30b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC30b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC30b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/44 Testing: integration.BESTEST.GC30c
+7/44 Test: integration.BESTEST.GC30c
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC30c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC30c.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30c" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC30c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/44 Testing: integration.BESTEST.GC40a
+8/44 Test: integration.BESTEST.GC40a
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC40a" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC40a.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.28 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC40a" time elapsed: 00:00:01
+----------------------------------------------------------
+
+9/44 Testing: integration.BESTEST.GC40b
+9/44 Test: integration.BESTEST.GC40b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC40b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC40b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/GC40b.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.11 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC40b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+10/44 Testing: integration.BESTEST.GC40c
+10/44 Test: integration.BESTEST.GC40c
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC40c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC40c.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/GC40c.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.09 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC40c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+11/44 Testing: integration.BESTEST.GC45b
+11/44 Test: integration.BESTEST.GC45b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC45b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/GC45b.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.10 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC45b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+12/44 Testing: integration.BESTEST.GC45c
+12/44 Test: integration.BESTEST.GC45c
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC45c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/GC45c.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.06 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC45c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+13/44 Testing: integration.BESTEST.GC50b
+13/44 Test: integration.BESTEST.GC50b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC50b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.19 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC50b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+14/44 Testing: integration.BESTEST.GC55b
+14/44 Test: integration.BESTEST.GC55b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC55b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.03 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC55b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+15/44 Testing: integration.BESTEST.GC55c
+15/44 Test: integration.BESTEST.GC55c
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC55c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.08 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC55c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+16/44 Testing: integration.BESTEST.GC60b
+16/44 Test: integration.BESTEST.GC60b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC60b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/GC60b.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC60b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC60b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/44 Testing: integration.BESTEST.GC65b
+17/44 Test: integration.BESTEST.GC65b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC65b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/Y-Slice", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/GC65b.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC65b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC65b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/44 Testing: integration.BESTEST.GC70b
+18/44 Test: integration.BESTEST.GC70b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC70b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.16 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC70b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+19/44 Testing: integration.BESTEST.GC80b
+19/44 Test: integration.BESTEST.GC80b
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC80b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/GC80b.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.19 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC80b" time elapsed: 00:00:01
+----------------------------------------------------------
+
+20/44 Testing: integration.BESTEST.GC80c
+20/44 Test: integration.BESTEST.GC80c
+Command: "/Users/runner/hostedtoolcache/Ruby/2.7.5/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv"
+Directory: /Users/runner/work/kiva/kiva/scripts
+"integration.BESTEST.GC80c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Running Kiva!!!
+Running with:
+  kiva path  = /Users/runner/work/kiva/kiva/build/kiva
+  input file = /Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml
+  weather file = /Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw
+  output file  = /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv
+  ... output directory=/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c
+  ... exe path        =/Users/runner/work/kiva/kiva/build/kiva
+  ... cmd = cd /Users/runner/work/kiva/kiva/build && "./kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv"
+run_case complete!
+Evaluating contents of /Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/stderr.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/stdout.log", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv", "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/GC80c.yaml"]
+Evaluating contents of /Users/runner/work/kiva/kiva/build
+- contents:
+  ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libmgl.dylib", "/Users/runner/work/kiva/kiva/build/libz-ng.dylib", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/libpng.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/libz-ng.2.1.0.devel.dylib", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/libz-ng.2.dylib", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/libmgl.7.5.0.dylib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/libz-ng.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.09 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Nov 29 17:49 UTC
+"integration.BESTEST.GC80c" time elapsed: 00:00:01
+----------------------------------------------------------
+
+21/44 Testing: unit.GC10aFixture.calculateADI
+21/44 Test: unit.GC10aFixture.calculateADI
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calculateADI" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calculateADI
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calculateADI
+Note: 2607.32
+[       OK ] GC10aFixture.calculateADI (15 ms)
+[----------] 1 test from GC10aFixture (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateADI" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/44 Testing: unit.GC10aFixture.calculateImplicit
+22/44 Test: unit.GC10aFixture.calculateImplicit
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calculateImplicit" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calculateImplicit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calculateImplicit
+Note: 2601.25
+[       OK ] GC10aFixture.calculateImplicit (191 ms)
+[----------] 1 test from GC10aFixture (191 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (191 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateImplicit" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/44 Testing: unit.GC10aFixture.calculateCrankN
+23/44 Test: unit.GC10aFixture.calculateCrankN
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calculateCrankN" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calculateCrankN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calculateCrankN
+Note: 2600.87
+[       OK ] GC10aFixture.calculateCrankN (185 ms)
+[----------] 1 test from GC10aFixture (186 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (186 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateCrankN" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/44 Testing: unit.GC10aFixture.calculateADE
+24/44 Test: unit.GC10aFixture.calculateADE
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calculateADE" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calculateADE
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calculateADE
+Note: 2615.19
+[       OK ] GC10aFixture.calculateADE (11 ms)
+[----------] 1 test from GC10aFixture (11 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateADE" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/44 Testing: unit.GC10aFixture.GC10a_calculateSteadyState
+25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.GC10a_calculateSteadyState
+Note: 3107.57
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (214 ms)
+[----------] 1 test from GC10aFixture (214 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (214 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/44 Testing: unit.GC10aFixture.calcCellADI
+26/44 Test: unit.GC10aFixture.calcCellADI
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calcCellADI" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calcCellADI
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calcCellADI
+[       OK ] GC10aFixture.calcCellADI (15 ms)
+[----------] 1 test from GC10aFixture (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellADI" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/44 Testing: unit.GC10aFixture.calcCellMatrix
+27/44 Test: unit.GC10aFixture.calcCellMatrix
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calcCellMatrix" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calcCellMatrix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calcCellMatrix
+[       OK ] GC10aFixture.calcCellMatrix (191 ms)
+[----------] 1 test from GC10aFixture (191 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (192 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellMatrix" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/44 Testing: unit.GC10aFixture.calcCellMatrixSS
+28/44 Test: unit.GC10aFixture.calcCellMatrixSS
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calcCellMatrixSS" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calcCellMatrixSS
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calcCellMatrixSS
+[       OK ] GC10aFixture.calcCellMatrixSS (211 ms)
+[----------] 1 test from GC10aFixture (211 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (211 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellMatrixSS" end time: Nov 29 17:49 UTC
+"unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/44 Testing: unit.BESTEST.GC10a
+29/44 Test: unit.BESTEST.GC10a
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC10a" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC10a
+[==========] Running 0 tests from 0 test suites.
+[==========] 0 tests from 0 test suites ran. (0 ms total)
+[  PASSED  ] 0 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC10a" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC10a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/44 Testing: unit.BESTEST.GC30a
+30/44 Test: unit.BESTEST.GC30a
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC30a" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30a
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30a
+[       OK ] BESTESTFixture.GC30a (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30a" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC30a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/44 Testing: unit.BESTEST.GC30b
+31/44 Test: unit.BESTEST.GC30b
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC30b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30b
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30b
+[       OK ] BESTESTFixture.GC30b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30b" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC30b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/44 Testing: unit.BESTEST.GC30c
+32/44 Test: unit.BESTEST.GC30c
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC30c" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC30c
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC30c
+[       OK ] BESTESTFixture.GC30c (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC30c" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC30c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/44 Testing: unit.BESTEST.GC60b
+33/44 Test: unit.BESTEST.GC60b
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC60b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC60b
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC60b
+[       OK ] BESTESTFixture.GC60b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC60b" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC60b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/44 Testing: unit.BESTEST.GC65b
+34/44 Test: unit.BESTEST.GC65b
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.GC65b" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.GC65b
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.GC65b
+[       OK ] BESTESTFixture.GC65b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.GC65b" end time: Nov 29 17:49 UTC
+"unit.BESTEST.GC65b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/44 Testing: unit.BESTEST.1D
+35/44 Test: unit.BESTEST.1D
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.BESTEST.1D" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BESTESTFixture.1D
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BESTESTFixture
+[ RUN      ] BESTESTFixture.1D
+[       OK ] BESTESTFixture.1D (0 ms)
+[----------] 1 test from BESTESTFixture (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit.BESTEST.1D" end time: Nov 29 17:49 UTC
+"unit.BESTEST.1D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/44 Testing: unit.DomainFixture.domain_basics
+36/44 Test: unit.DomainFixture.domain_basics
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.domain_basics" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.domain_basics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.domain_basics
+[       OK ] DomainFixture.domain_basics (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.DomainFixture.domain_basics" end time: Nov 29 17:49 UTC
+"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/44 Testing: unit.DomainFixture.surface_indices
+37/44 Test: unit.DomainFixture.surface_indices
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.surface_indices" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.surface_indices
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.surface_indices
+[       OK ] DomainFixture.surface_indices (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.DomainFixture.surface_indices" end time: Nov 29 17:49 UTC
+"unit.DomainFixture.surface_indices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/44 Testing: unit.DomainFixture.surface_tilt
+38/44 Test: unit.DomainFixture.surface_tilt
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.surface_tilt" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.surface_tilt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.surface_tilt
+[       OK ] DomainFixture.surface_tilt (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.DomainFixture.surface_tilt" end time: Nov 29 17:49 UTC
+"unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/44 Testing: unit.DomainFixture.cell_vector
+39/44 Test: unit.DomainFixture.cell_vector
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.cell_vector" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.cell_vector
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.cell_vector
+[       OK ] DomainFixture.cell_vector (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.DomainFixture.cell_vector" end time: Nov 29 17:49 UTC
+"unit.DomainFixture.cell_vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/44 Testing: unit.CellFixture.cell_basics
+40/44 Test: unit.CellFixture.cell_basics
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.CellFixture.cell_basics" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CellFixture.cell_basics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CellFixture
+[ RUN      ] CellFixture.cell_basics
+[       OK ] CellFixture.cell_basics (2 ms)
+[----------] 1 test from CellFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.CellFixture.cell_basics" end time: Nov 29 17:49 UTC
+"unit.CellFixture.cell_basics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/44 Testing: unit.AggregatorFixture.validation
+41/44 Test: unit.AggregatorFixture.validation
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.AggregatorFixture.validation" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AggregatorFixture.validation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AggregatorFixture
+[ RUN      ] AggregatorFixture.validation
+Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
+[       OK ] AggregatorFixture.validation (22 ms)
+[----------] 1 test from AggregatorFixture (22 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (22 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"unit.AggregatorFixture.validation" end time: Nov 29 17:49 UTC
+"unit.AggregatorFixture.validation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/44 Testing: unit.TypicalFixture.convectionCallback
+42/44 Test: unit.TypicalFixture.convectionCallback
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.TypicalFixture.convectionCallback" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TypicalFixture.convectionCallback
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypicalFixture
+[ RUN      ] TypicalFixture.convectionCallback
+[       OK ] TypicalFixture.convectionCallback (0 ms)
+[----------] 1 test from TypicalFixture (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit.TypicalFixture.convectionCallback" end time: Nov 29 17:49 UTC
+"unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/44 Testing: unit.FoundationFixture.foundationSurfaces
+43/44 Test: unit.FoundationFixture.foundationSurfaces
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.FoundationFixture.foundationSurfaces" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FoundationFixture.foundationSurfaces
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FoundationFixture
+[ RUN      ] FoundationFixture.foundationSurfaces
+[       OK ] FoundationFixture.foundationSurfaces (4 ms)
+[----------] 1 test from FoundationFixture (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.FoundationFixture.foundationSurfaces" end time: Nov 29 17:49 UTC
+"unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/44 Testing: unit.FoundationFixture.foundationSurfaces2
+44/44 Test: unit.FoundationFixture.foundationSurfaces2
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.FoundationFixture.foundationSurfaces2" start time: Nov 29 17:49 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FoundationFixture.foundationSurfaces2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FoundationFixture
+[ RUN      ] FoundationFixture.foundationSurfaces2
+[       OK ] FoundationFixture.foundationSurfaces2 (4 ms)
+[----------] 1 test from FoundationFixture (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.FoundationFixture.foundationSurfaces2" end time: Nov 29 17:49 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 29 17:49 UTC
