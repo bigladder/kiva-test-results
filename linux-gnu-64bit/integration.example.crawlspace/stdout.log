@@ -1,17 +1,16 @@
-kiva v0.6.1+update-dependencies.14f3430.unknown-build-number (linux-gnu-64bit)
+kiva v0.6.1+update-dependencies.61986c5.unknown-build-number (linux-gnu-64bit)
 Copyright (C) 2012-2021 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2021-Nov-30 01:05:27.431027
+Starting Program: 2021-Dec-01 20:25:46.507234
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
-  2014-May-12 19:00:00
+  2014-May-15 11:00:00
 Beginning Simulation...
-  2015-Feb-28 19:00:00 (16.1%)
-  2015-Nov-21 18:00:00 (89%)
+  2015-May-02 10:00:00 (33.3%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2021-Nov-30 01:05:30.154071
-Elapsed Time: 00:00:02.723044
+Finished Program: 2021-Dec-01 20:25:48.736031
+Elapsed Time: 00:00:02.228797
