@@ -1,7 +1,7 @@
-kiva v0.6.1+update-dependencies.14f3430.unknown-build-number (mac-appleclang-64bit)
+kiva v0.6.1+update-dependencies.1abd0fd.unknown-build-number (mac-appleclang-64bit)
 Copyright (C) 2012-2021 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2021-Nov-30 01:10:24.675633
+Starting Program: 2021-Dec-01 03:27:12.977457
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,7 +9,6 @@ Creating Domain...
   Total Cells: 418
 Initializing Temperatures...
 Beginning Simulation...
-  2100-Jan-12 23:00:00 (3.3%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2021-Nov-30 01:10:25.433824
-Elapsed Time: 00:00:00.758191
+Finished Program: 2021-Dec-01 03:27:13.842480
+Elapsed Time: 00:00:00.865023
