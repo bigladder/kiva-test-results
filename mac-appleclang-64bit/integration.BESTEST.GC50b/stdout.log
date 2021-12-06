@@ -1,0 +1,15 @@
+kiva v0.6.1+develop.825d874.unknown-build-number (mac-appleclang-64bit)
+Copyright (C) 2012-2021 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2021-Dec-06 18:15:19.793663
+Creating Domain...
+  X Cells: 42
+  Y Cells: 1
+  Z Cells: 16
+  Total Cells: 672
+Initializing Temperatures...
+  2099-Apr-28 19:00:00
+Beginning Simulation...
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2021-Dec-06 18:15:20.856821
+Elapsed Time: 00:00:01.063158
