@@ -1,18 +1,18 @@
-kiva v0.6.2+fix-zero-convection.b97bd72.1 (windows-msvc-64bit)
+kiva v0.6.2+fix-zero-convection.e987f60.2 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Feb-18 18:28:54.194402
+Starting Program: 2022-Feb-21 21:22:34.793342
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
-  2014-Apr-27 13:00:00
-  2014-Nov-14 17:00:00
+  2013-Oct-08 23:00:00
+  2014-Aug-12 15:00:00
 Beginning Simulation...
-  2015-May-30 02:00:00 (40.8%)
-  2015-Dec-07 05:00:00 (93.2%)
+  2015-Mar-23 01:00:00 (22.2%)
+  2015-Oct-15 15:00:00 (78.8%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Feb-18 18:28:58.133878
-Elapsed Time: 00:00:03.939476
+Finished Program: 2022-Feb-21 21:22:38.372195
+Elapsed Time: 00:00:03.578853
