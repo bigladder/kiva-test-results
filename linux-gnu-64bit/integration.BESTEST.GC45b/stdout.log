@@ -1,15 +1,15 @@
-kiva v0.6.2+fix-zero-convection.b97bd72.1 (linux-gnu-64bit)
+kiva v0.6.2+fix-zero-convection.e987f60.2 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Feb-18 18:20:06.798275
+Starting Program: 2022-Feb-21 21:19:58.316212
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-Apr-19 13:00:00
 Beginning Simulation...
+  2100-Apr-17 13:00:00 (29.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Feb-18 18:20:07.725225
-Elapsed Time: 00:00:00.926950
+Finished Program: 2022-Feb-21 21:19:59.351807
+Elapsed Time: 00:00:01.035595
