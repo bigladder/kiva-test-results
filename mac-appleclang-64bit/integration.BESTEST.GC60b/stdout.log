@@ -1,14 +1,13 @@
-kiva v0.6.2+fix-w4-warnings.b742547.26 (mac-appleclang-64bit)
+kiva v0.6.2+fix-w4-warnings.0846c60.33 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-11 18:25:47.819398
+Starting Program: 2022-Mar-14 17:49:08.196794
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Mar-11 18:25:48.064240
-Elapsed Time: 00:00:00.244842
+Finished Program: 2022-Mar-14 17:49:08.453508
+Elapsed Time: 00:00:00.256714
