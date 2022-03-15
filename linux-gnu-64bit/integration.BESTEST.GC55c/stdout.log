@@ -1,7 +1,7 @@
-kiva v0.6.2+fix-w4-warnings.b483a132.41 (linux-gnu-64bit)
+kiva v0.6.2+fix-w4-warnings.197a6384.43 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-15 17:55:48.169904
+Starting Program: 2022-Mar-15 18:07:03.158100
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -10,5 +10,5 @@ Creating Domain...
 Initializing Temperatures...
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-15 17:55:48.923837
-Elapsed Time: 00:00:00.753933
+Finished Program: 2022-Mar-15 18:07:03.979197
+Elapsed Time: 00:00:00.821097
