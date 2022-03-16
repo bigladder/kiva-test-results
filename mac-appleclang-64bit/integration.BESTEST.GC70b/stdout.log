@@ -1,7 +1,7 @@
-kiva v0.6.2+pragma-warning-solution.d0df402c.51 (mac-appleclang-64bit)
+kiva v0.6.2+pragma-warning-solution.1a29a015.53 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-16 16:13:14.939000
+Starting Program: 2022-Mar-16 16:44:04.219975
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,6 +9,7 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+  2100-Aug-06 07:00:00 (59.5%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-16 16:13:15.868426
-Elapsed Time: 00:00:00.929426
+Finished Program: 2022-Mar-16 16:44:05.224694
+Elapsed Time: 00:00:01.004719
