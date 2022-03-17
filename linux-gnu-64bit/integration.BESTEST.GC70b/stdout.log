@@ -1,15 +1,15 @@
-kiva v0.6.3+pragma-warning-solution.ead9ba4a.47 (linux-gnu-64bit)
+kiva v0.6.3+pragma-warning-solution.571286b3.51 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-17 20:10:25.817528
+Starting Program: 2022-Mar-17 20:21:27.823347
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-  2099-May-16 19:00:00
+  2099-Mar-08 00:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-17 20:10:26.565030
-Elapsed Time: 00:00:00.747502
+Finished Program: 2022-Mar-17 20:21:28.887595
+Elapsed Time: 00:00:01.064248
