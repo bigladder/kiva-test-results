@@ -1,16 +1,32 @@
+<<<<<<< HEAD
 kiva v0.6.3+develop.a4456d7f.59 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Mar-18 22:10:07.769061
+=======
+kiva v0.6.3+develop.1d8b0e0b.60 (windows-msvc-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Mar-18 22:12:32.372349
+>>>>>>> 10ec30f4 (Update version number. [windows-msvc-64bit])
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Initializing Temperatures...
+<<<<<<< HEAD
   2099-Feb-07 10:00:00
+=======
+  2099-Nov-24 06:00:00
+>>>>>>> 10ec30f4 (Update version number. [windows-msvc-64bit])
 Beginning Simulation...
   2100-Oct-05 00:00:00 (75.9%)
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Mar-18 22:10:09.156236
 Elapsed Time: 00:00:01.387175
+=======
+Finished Program: 2022-Mar-18 22:12:33.676572
+Elapsed Time: 00:00:01.304223
+>>>>>>> 10ec30f4 (Update version number. [windows-msvc-64bit])
