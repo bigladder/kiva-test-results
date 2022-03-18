@@ -1,31 +1,15 @@
-<<<<<<< HEAD
-kiva v0.6.3+fix-compiler-check.81c0fcb4.56 (windows-msvc-64bit)
+kiva v0.6.3+fix-compiler-check.c1526a2b.58 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-18 20:24:51.289417
-=======
-kiva v0.6.3+fix-compiler-check.105f231e.57 (windows-msvc-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Mar-18 20:31:14.759900
->>>>>>> dd12d703 (Add boolean to preprocessor macro. [windows-msvc-64bit])
+Starting Program: 2022-Mar-18 21:59:30.336263
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-<<<<<<< HEAD
+  2099-Nov-13 02:00:00
 Beginning Simulation...
-  2100-Jan-10 03:00:00 (2.5%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-18 20:24:52.689191
-Elapsed Time: 00:00:01.399774
-=======
-  2099-Feb-20 00:00:00
-Beginning Simulation...
-  2100-Sep-17 17:00:00 (71.2%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-18 20:31:16.206508
-Elapsed Time: 00:00:01.446608
->>>>>>> dd12d703 (Add boolean to preprocessor macro. [windows-msvc-64bit])
+Finished Program: 2022-Mar-18 21:59:31.802369
+Elapsed Time: 00:00:01.466106
