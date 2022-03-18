@@ -1,7 +1,7 @@
-kiva v0.6.3+fix-compiler-check.dfa14d07.55 (mac-appleclang-64bit)
+kiva v0.6.3+fix-compiler-check.105f231e.57 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-18 19:57:01.232971
+Starting Program: 2022-Mar-18 20:29:14.928757
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +9,7 @@ Creating Domain...
   Total Cells: 481
 Initializing Temperatures...
 Beginning Simulation...
-  2100-Nov-11 02:00:00 (86.1%)
+  2100-Aug-06 22:00:00 (59.7%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-18 19:57:02.066411
-Elapsed Time: 00:00:00.833440
+Finished Program: 2022-Mar-18 20:29:16.343151
+Elapsed Time: 00:00:01.414394
