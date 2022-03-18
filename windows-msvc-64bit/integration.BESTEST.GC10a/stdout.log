@@ -1,14 +1,13 @@
-kiva v0.6.3+fix-compiler-check.dfa14d07.55 (windows-msvc-64bit)
+kiva v0.6.3+fix-compiler-check.105f231e.57 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-18 19:55:06.846648
+Starting Program: 2022-Mar-18 20:31:10.425019
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Mar-18 19:55:07.157209
-Elapsed Time: 00:00:00.310561
+Finished Program: 2022-Mar-18 20:31:10.749020
+Elapsed Time: 00:00:00.324001
