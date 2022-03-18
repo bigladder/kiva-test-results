@@ -1,15 +1,15 @@
-kiva v0.6.3+fix-ep-warning.1c699e7f.52 (windows-msvc-64bit)
+kiva v0.6.3+fix-ep-warning.657d5bf4.54 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Mar-18 15:23:16.434684
+Starting Program: 2022-Mar-18 15:38:04.388149
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-Oct-30 22:00:00
 Beginning Simulation...
+  2100-Mar-15 04:00:00 (20%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Mar-18 15:23:17.656295
-Elapsed Time: 00:00:01.221611
+Finished Program: 2022-Mar-18 15:38:05.369716
+Elapsed Time: 00:00:00.981567
