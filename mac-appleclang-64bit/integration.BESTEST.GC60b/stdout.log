@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 kiva v0.6.3+develop.a4456d7f.59 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Mar-18 22:08:58.681216
+=======
+kiva v0.6.3+develop.1d8b0e0b.60 (mac-appleclang-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Mar-18 22:11:29.036363
+>>>>>>> 468c9523 (Update version number. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,5 +16,10 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Mar-18 22:08:58.921312
 Elapsed Time: 00:00:00.240096
+=======
+Finished Program: 2022-Mar-18 22:11:29.269936
+Elapsed Time: 00:00:00.233573
+>>>>>>> 468c9523 (Update version number. [mac-appleclang-64bit])
