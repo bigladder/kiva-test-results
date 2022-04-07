@@ -1,7 +1,7 @@
-kiva v0.6.3+clean-gcc11-warning.07f23243.63 (linux-gnu-64bit)
+kiva v0.6.3+clean-gcc11-warning.69441db0.64 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Apr-07 20:51:44.966606
+Starting Program: 2022-Apr-07 21:10:37.273986
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,6 +9,7 @@ Creating Domain...
   Total Cells: 481
 Initializing Temperatures...
 Beginning Simulation...
+  2100-Oct-19 14:00:00 (79.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Apr-07 20:51:45.658617
-Elapsed Time: 00:00:00.692011
+Finished Program: 2022-Apr-07 21:10:38.083007
+Elapsed Time: 00:00:00.809021
