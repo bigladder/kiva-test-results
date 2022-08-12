@@ -1,15 +1,16 @@
-kiva v0.6.3+fix-plotting.01ee7f4d.65 (windows-msvc-64bit)
+kiva v0.6.3+fix-plotting.bc6461cb.66 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-12 17:37:23.899879
+Starting Program: 2022-Aug-12 20:58:07.676162
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2098-Oct-15 23:00:00
+  2099-Apr-25 16:00:00
 Beginning Simulation...
+  2100-Dec-10 04:00:00 (94%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-12 17:37:24.759744
-Elapsed Time: 00:00:00.859865
+Finished Program: 2022-Aug-12 20:58:09.037431
+Elapsed Time: 00:00:01.361269
