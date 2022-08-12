@@ -1,13 +1,14 @@
-kiva v0.6.3+develop.01ee7f4d.65 (windows-msvc-64bit)
+kiva v0.6.3+fix-plotting.01ee7f4d.65 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Jul-06 16:10:32.573197
+Starting Program: 2022-Aug-12 17:37:29.811712
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Jul-06 16:10:32.915211
-Elapsed Time: 00:00:00.342014
+Finished Program: 2022-Aug-12 17:37:30.077385
+Elapsed Time: 00:00:00.265673
