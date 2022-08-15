@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.3+ci-gcc-11.095ab68a.69 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -9,6 +10,12 @@ Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Aug-15 20:19:27.823306
 >>>>>>> 36516c96 (Use GCC-11 Test V5. [linux-gnu-64bit])
+=======
+kiva v0.6.3+ci-gcc-11.e8156cec.71 (linux-gnu-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Aug-15 20:22:25.463803
+>>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 42
   Y Cells: 1
@@ -16,9 +23,14 @@ Creating Domain...
   Total Cells: 672
 Initializing Temperatures...
 <<<<<<< HEAD
+<<<<<<< HEAD
   2099-Aug-06 20:00:00
+=======
+>>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
 Beginning Simulation...
+  2100-Feb-16 21:00:00 (12.8%)
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Aug-15 20:14:12.617323
 Elapsed Time: 00:00:00.934868
 =======
@@ -28,3 +40,7 @@ Beginning Simulation...
 Finished Program: 2022-Aug-15 20:19:28.940114
 Elapsed Time: 00:00:01.116808
 >>>>>>> 36516c96 (Use GCC-11 Test V5. [linux-gnu-64bit])
+=======
+Finished Program: 2022-Aug-15 20:22:26.395952
+Elapsed Time: 00:00:00.932149
+>>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
