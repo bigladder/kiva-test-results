@@ -1,46 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.095ab68a.69 (linux-gnu-64bit)
+kiva v0.6.3+ci-gcc-11.03fb2c52.73 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-15 20:14:10.796621
-=======
-kiva v0.6.3+ci-gcc-11.0dd0f5bd.70 (linux-gnu-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-15 20:19:26.742804
->>>>>>> 36516c96 (Use GCC-11 Test V5. [linux-gnu-64bit])
-=======
-kiva v0.6.3+ci-gcc-11.e8156cec.71 (linux-gnu-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-15 20:22:24.579263
->>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
+Starting Program: 2022-Aug-15 20:42:58.219444
 Creating Domain...
   X Cells: 36
   Y Cells: 1
   Z Cells: 16
   Total Cells: 576
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2099-May-20 03:00:00
-=======
->>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
 Beginning Simulation...
-  2100-Jan-07 14:00:00 (1.8%)
+  2100-Nov-10 00:00:00 (85.8%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Aug-15 20:14:11.599422
-Elapsed Time: 00:00:00.802801
-=======
-  2099-May-15 17:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-15 20:19:27.725027
-Elapsed Time: 00:00:00.982223
->>>>>>> 36516c96 (Use GCC-11 Test V5. [linux-gnu-64bit])
-=======
-Finished Program: 2022-Aug-15 20:22:25.381001
-Elapsed Time: 00:00:00.801738
->>>>>>> db8f313e (Use GCC-11 Test V6. [linux-gnu-64bit])
+Finished Program: 2022-Aug-15 20:42:59.066930
+Elapsed Time: 00:00:00.847486
