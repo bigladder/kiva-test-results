@@ -1,31 +1,15 @@
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.ff81c126.83 (mac-appleclang-64bit)
+kiva v0.6.3+ci-gcc-11.e4368fa9.85 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:53:26.562845
-=======
-kiva v0.6.3+ci-gcc-11.5bd655d1.82 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:55:33.957301
->>>>>>> 73df4f68 (Test different ways to set gcc-10. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-16 21:10:28.190273
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Nov-30 23:00:00
-=======
->>>>>>> 73df4f68 (Test different ways to set gcc-10. [mac-appleclang-64bit])
 Beginning Simulation...
-  2100-Dec-04 17:00:00 (92.5%)
+  2100-Jul-20 22:00:00 (55%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Aug-16 20:53:27.639475
-Elapsed Time: 00:00:01.076630
-=======
-Finished Program: 2022-Aug-16 20:55:35.045533
-Elapsed Time: 00:00:01.088232
->>>>>>> 73df4f68 (Test different ways to set gcc-10. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-16 21:10:29.280250
+Elapsed Time: 00:00:01.089977
