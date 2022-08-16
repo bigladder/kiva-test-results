@@ -1,30 +1,15 @@
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.5bd655d1.82 (windows-msvc-64bit)
+kiva v0.6.3+ci-gcc-11.e4368fa9.85 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:49:35.601316
-=======
-kiva v0.6.3+ci-gcc-11.ff81c126.83 (windows-msvc-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:52:51.183470
->>>>>>> 85e036e0 (Test different ways to set gcc-10 V2. [windows-msvc-64bit])
+Starting Program: 2022-Aug-16 21:14:11.080854
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Sep-05 07:00:00
 Beginning Simulation...
+  2100-Apr-17 00:00:00 (29%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 20:49:36.585866
-Elapsed Time: 00:00:00.984550
-=======
-Beginning Simulation...
-  2100-Sep-01 16:00:00 (66.8%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 20:52:52.153924
-Elapsed Time: 00:00:00.970454
->>>>>>> 85e036e0 (Test different ways to set gcc-10 V2. [windows-msvc-64bit])
+Finished Program: 2022-Aug-16 21:14:12.503250
+Elapsed Time: 00:00:01.422396
