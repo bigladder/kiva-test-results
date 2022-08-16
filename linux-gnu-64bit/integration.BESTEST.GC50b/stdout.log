@@ -1,29 +1,15 @@
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.56542b45.76 (linux-gnu-64bit)
+kiva v0.6.3+ci-gcc-11.3fe7643b.78 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 18:20:55.322749
-=======
-kiva v0.6.3+ci-gcc-11.9475b112.77 (linux-gnu-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 18:22:36.343500
->>>>>>> f003b7c7 (Change build-and-test release version V2. [linux-gnu-64bit])
+Starting Program: 2022-Aug-16 19:39:01.611192
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
+  2099-Sep-22 20:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Mar-13 12:00:00 (19.6%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 18:20:56.438144
-Elapsed Time: 00:00:01.115395
-=======
-  2100-May-25 21:00:00 (39.7%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 18:22:37.273613
-Elapsed Time: 00:00:00.930113
->>>>>>> f003b7c7 (Change build-and-test release version V2. [linux-gnu-64bit])
+Finished Program: 2022-Aug-16 19:39:02.610083
+Elapsed Time: 00:00:00.998891
