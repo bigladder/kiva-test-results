@@ -1,13 +1,26 @@
+<<<<<<< HEAD
 kiva v0.6.3+ci-gcc-11.56542b45.76 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Aug-16 18:25:28.674763
+=======
+kiva v0.6.3+ci-gcc-11.9475b112.77 (windows-msvc-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Aug-16 18:27:47.789623
+>>>>>>> bf37ddd8 (Change build-and-test release version V2. [windows-msvc-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Aug-16 18:25:28.956023
 Elapsed Time: 00:00:00.281260
+=======
+Finished Program: 2022-Aug-16 18:27:48.086524
+Elapsed Time: 00:00:00.296901
+>>>>>>> bf37ddd8 (Change build-and-test release version V2. [windows-msvc-64bit])
