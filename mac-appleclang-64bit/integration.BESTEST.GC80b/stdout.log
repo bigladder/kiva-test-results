@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.3+ci-gcc-11.278a6945.87 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -9,6 +10,12 @@ Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Aug-16 21:45:02.761399
 >>>>>>> d87a8d25 (Configure the enviroment depending on the compiler of choice. [mac-appleclang-64bit])
+=======
+kiva v0.6.3+ci-gcc-11.e9598b18.89 (mac-appleclang-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Aug-16 21:54:37.554179
+>>>>>>> 932d6207 (Add CC and CXX options for release. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -17,6 +24,7 @@ Creating Domain...
 Initializing Temperatures...
   2099-Jun-13 12:00:00
 Beginning Simulation...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2100-Oct-19 07:00:00 (79.8%)
   2100-Dec-31 23:00:00 (100%)
@@ -27,3 +35,9 @@ Elapsed Time: 00:00:01.018417
 Finished Program: 2022-Aug-16 21:45:03.823108
 Elapsed Time: 00:00:01.061709
 >>>>>>> d87a8d25 (Configure the enviroment depending on the compiler of choice. [mac-appleclang-64bit])
+=======
+  2100-Jan-24 13:00:00 (6.4%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-16 21:54:38.511202
+Elapsed Time: 00:00:00.957023
+>>>>>>> 932d6207 (Add CC and CXX options for release. [mac-appleclang-64bit])
