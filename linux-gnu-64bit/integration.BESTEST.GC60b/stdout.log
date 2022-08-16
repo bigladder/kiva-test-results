@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.5bd655d1.82 (linux-gnu-64bit)
+kiva v0.6.3+ci-gcc-11.e4368fa9.85 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:47:58.889129
-=======
-kiva v0.6.3+ci-gcc-11.ff81c126.83 (linux-gnu-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 20:49:50.523065
->>>>>>> d9d828cf (Test different ways to set gcc-10 V2. [linux-gnu-64bit])
+Starting Program: 2022-Aug-16 21:08:02.782800
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -17,10 +10,5 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Aug-16 20:47:59.172162
-Elapsed Time: 00:00:00.283033
-=======
-Finished Program: 2022-Aug-16 20:49:50.759127
-Elapsed Time: 00:00:00.236062
->>>>>>> d9d828cf (Test different ways to set gcc-10 V2. [linux-gnu-64bit])
+Finished Program: 2022-Aug-16 21:08:03.057463
+Elapsed Time: 00:00:00.274663
