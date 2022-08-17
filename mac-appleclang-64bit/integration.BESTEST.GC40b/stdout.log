@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -9,6 +10,12 @@ Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2022-Aug-17 19:47:09.221866
 >>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+=======
+kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
+Copyright (C) 2012-2022 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2022-Aug-17 19:47:31.053854
+>>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -16,6 +23,7 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-17 19:44:40.934891
@@ -26,3 +34,9 @@ Elapsed Time: 00:00:00.988342
 Finished Program: 2022-Aug-17 19:47:10.212328
 Elapsed Time: 00:00:00.990462
 >>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+=======
+  2100-Oct-20 22:00:00 (80.3%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-17 19:47:32.126417
+Elapsed Time: 00:00:01.072563
+>>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
