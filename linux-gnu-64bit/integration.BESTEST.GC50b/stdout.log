@@ -1,27 +1,15 @@
-kiva v0.6.3+specify-runner-images.129a01dd.94 (linux-gnu-64bit)
+kiva v0.6.3+specify-runner-images.d0cbbdcb.95 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-17 19:42:36.827369
-=======
-Starting Program: 2022-Aug-17 19:43:07.771609
->>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
+Starting Program: 2022-Aug-17 21:08:00.351331
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Apr-04 17:00:00
 Beginning Simulation...
+  2100-May-17 01:00:00 (37.3%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:42:37.718682
-Elapsed Time: 00:00:00.891313
-=======
-  2099-May-22 21:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:43:08.690623
-Elapsed Time: 00:00:00.919014
->>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
+Finished Program: 2022-Aug-17 21:08:01.290202
+Elapsed Time: 00:00:00.938871
