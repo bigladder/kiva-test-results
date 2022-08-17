@@ -1,7 +1,11 @@
 kiva v0.6.3+specify-runner-images.9e1007e9.97 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-17 21:43:35.460331
+=======
+Starting Program: 2022-Aug-17 21:44:01.353296
+>>>>>>> 0d74ee18 (Fix matrix variable name. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 481
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-May-08 07:00:00 (34.9%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-17 21:43:36.346147
 Elapsed Time: 00:00:00.885816
+=======
+  2100-Jul-19 07:00:00 (54.6%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-17 21:44:02.249936
+Elapsed Time: 00:00:00.896640
+>>>>>>> 0d74ee18 (Fix matrix variable name. [mac-appleclang-64bit])
