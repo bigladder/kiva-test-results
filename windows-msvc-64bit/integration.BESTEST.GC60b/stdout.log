@@ -1,14 +1,13 @@
-kiva v0.6.3+specify-runner-images.d0cbbdcb.95 (windows-msvc-64bit)
+kiva v0.6.3+specify-runner-images.9e1007e9.97 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 21:11:44.815703
+Starting Program: 2022-Aug-17 21:42:21.594535
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Aug-17 21:11:45.176600
-Elapsed Time: 00:00:00.360897
+Finished Program: 2022-Aug-17 21:42:21.891411
+Elapsed Time: 00:00:00.296876
