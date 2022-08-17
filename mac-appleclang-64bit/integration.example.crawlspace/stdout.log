@@ -1,67 +1,17 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
+kiva v0.6.3+specify-runner-images.d0cbbdcb.95 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:44:34.244292
-=======
-kiva v0.6.3+specify-runner-images.129a01dd.94 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:47:03.210736
->>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
-=======
-kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:47:24.587880
->>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
-=======
-kiva v0.6.3+specify-runner-images.129a01dd.94 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:48:46.638910
->>>>>>> 3b1bdb38 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-17 21:12:53.630011
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2014-Jul-18 21:00:00
+  2014-Mar-10 03:00:00
+  2014-Nov-28 04:00:00
 Beginning Simulation...
-  2015-May-07 22:00:00 (34.8%)
+  2015-Aug-01 06:00:00 (58.2%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:44:36.921019
-Elapsed Time: 00:00:02.676727
-=======
-  2014-Jul-19 05:00:00
-Beginning Simulation...
-  2015-Mar-24 22:00:00 (22.7%)
-  2015-Nov-27 19:00:00 (90.6%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:47:06.224730
-Elapsed Time: 00:00:03.013994
->>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
-=======
-  2014-Mar-25 23:00:00
-Beginning Simulation...
-  2015-Jan-30 11:00:00 (8.1%)
-  2015-Sep-02 16:00:00 (67%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:47:27.477099
-Elapsed Time: 00:00:02.889219
->>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
-=======
-  2014-Mar-16 09:00:00
-Beginning Simulation...
-  2015-Jan-13 18:00:00 (3.5%)
-  2015-Oct-03 10:00:00 (75.5%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 19:48:49.339897
-Elapsed Time: 00:00:02.700987
->>>>>>> 3b1bdb38 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-17 21:12:56.700999
+Elapsed Time: 00:00:03.070988

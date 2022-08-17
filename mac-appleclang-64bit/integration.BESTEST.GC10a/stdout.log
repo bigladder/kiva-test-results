@@ -1,49 +1,14 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
+kiva v0.6.3+specify-runner-images.d0cbbdcb.95 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:44:37.068064
-=======
-kiva v0.6.3+specify-runner-images.129a01dd.94 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:47:06.363737
->>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
-=======
-kiva v0.6.3+specify-runner-images.df08fa7b.93 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:47:27.606998
->>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
-=======
-kiva v0.6.3+specify-runner-images.129a01dd.94 (mac-appleclang-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-17 19:48:49.463528
->>>>>>> 3b1bdb38 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-17 21:12:56.843840
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Finished Program: 2022-Aug-17 19:44:37.308974
-Elapsed Time: 00:00:00.240910
-=======
-Finished Program: 2022-Aug-17 19:47:06.572717
-Elapsed Time: 00:00:00.208980
->>>>>>> 58195d75 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
-=======
-Finished Program: 2022-Aug-17 19:47:27.830522
-Elapsed Time: 00:00:00.223524
->>>>>>> 5407d70e (Specify OS version and add ubuntu 22.04 and mac-12 to the matrix. [mac-appleclang-64bit])
-=======
-Finished Program: 2022-Aug-17 19:48:49.667565
-Elapsed Time: 00:00:00.204037
->>>>>>> 3b1bdb38 (Change if statement for installing linux libraries. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-17 21:12:57.058527
+Elapsed Time: 00:00:00.214687
