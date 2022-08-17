@@ -1,28 +1,15 @@
-<<<<<<< HEAD
-kiva v0.6.3+ci-gcc-11.e93a1189.91 (linux-gnu-64bit)
+kiva v0.6.3+ci-gcc-11.381505eb.93 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 23:09:20.960345
-=======
-kiva v0.6.3+ci-gcc-11.dfc39577.92 (linux-gnu-64bit)
-Copyright (C) 2012-2022 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2022-Aug-16 23:16:21.396387
->>>>>>> 38356124 (Set up clang 13 for Mac OS. [linux-gnu-64bit])
+Starting Program: 2022-Aug-17 21:01:11.545754
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
+  2099-Nov-27 20:00:00
 Beginning Simulation...
-<<<<<<< HEAD
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 23:09:21.833226
-Elapsed Time: 00:00:00.872881
-=======
-  2100-Feb-11 04:00:00 (11.3%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-16 23:16:22.489509
-Elapsed Time: 00:00:01.093122
->>>>>>> 38356124 (Set up clang 13 for Mac OS. [linux-gnu-64bit])
+Finished Program: 2022-Aug-17 21:01:12.569005
+Elapsed Time: 00:00:01.023251
