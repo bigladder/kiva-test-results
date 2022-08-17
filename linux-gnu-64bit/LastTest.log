@@ -25,7 +25,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.08 sec
+=======
+Test time =   2.14 sec
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Aug 17 19:42 UTC
@@ -57,7 +61,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.76 sec
+=======
+Test time =   2.81 sec
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Aug 17 19:42 UTC
@@ -89,10 +97,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.57 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Aug 17 19:42 UTC
+=======
+Test time =   2.58 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.crawlspace" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.example.crawlspace" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -100,7 +115,11 @@ Test Passed.
 4/44 Test: integration.BESTEST.GC10a
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC10a" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC10a" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -121,10 +140,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.28 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC10a" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC10a" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -132,7 +158,11 @@ Test Passed.
 5/44 Test: integration.BESTEST.GC30a
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30a" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC30a" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -153,10 +183,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.28 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30a" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -164,7 +201,11 @@ Test Passed.
 6/44 Test: integration.BESTEST.GC30b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC30b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -185,10 +226,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.31 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -196,7 +244,11 @@ Test Passed.
 7/44 Test: integration.BESTEST.GC30c
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30c" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC30c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -217,10 +269,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.31 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -228,7 +287,11 @@ Test Passed.
 8/44 Test: integration.BESTEST.GC40a
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40a" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC40a" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -249,18 +312,30 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.00 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Aug 17 19:42 UTC
 "integration.BESTEST.GC40a" time elapsed: 00:00:00
+=======
+Test time =   1.03 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Aug 17 19:43 UTC
+"integration.BESTEST.GC40a" time elapsed: 00:00:01
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 9/44 Testing: integration.BESTEST.GC40b
 9/44 Test: integration.BESTEST.GC40b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC40b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -281,10 +356,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.90 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.93 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC40b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -292,7 +374,11 @@ Test Passed.
 10/44 Test: integration.BESTEST.GC40c
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40c" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC40c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -313,10 +399,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.87 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.90 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC40c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -324,7 +417,11 @@ Test Passed.
 11/44 Test: integration.BESTEST.GC45b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC45b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -345,10 +442,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.88 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.90 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC45b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -356,7 +460,11 @@ Test Passed.
 12/44 Test: integration.BESTEST.GC45c
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45c" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC45c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -377,10 +485,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.85 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.88 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC45c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -388,7 +503,11 @@ Test Passed.
 13/44 Test: integration.BESTEST.GC50b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC50b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC50b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -409,18 +528,30 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.97 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC50b" end time: Aug 17 19:42 UTC
 "integration.BESTEST.GC50b" time elapsed: 00:00:00
+=======
+Test time =   1.01 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Aug 17 19:43 UTC
+"integration.BESTEST.GC50b" time elapsed: 00:00:01
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 14/44 Testing: integration.BESTEST.GC55b
 14/44 Test: integration.BESTEST.GC55b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC55b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -441,10 +572,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.67 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.70 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -452,7 +590,11 @@ Test Passed.
 15/44 Test: integration.BESTEST.GC55c
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55c" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC55c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -473,10 +615,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.74 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -484,7 +633,11 @@ Test Passed.
 16/44 Test: integration.BESTEST.GC60b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC60b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC60b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -505,10 +658,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.31 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC60b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC60b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -516,7 +676,11 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC65b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC65b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -537,10 +701,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.31 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC65b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC65b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -548,7 +719,11 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC70b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC70b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -569,10 +744,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.89 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.92 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC70b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -580,7 +762,11 @@ Test Passed.
 19/44 Test: integration.BESTEST.GC80b
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80b" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC80b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -601,10 +787,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.89 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.92 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC80b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -612,7 +805,11 @@ Test Passed.
 20/44 Test: integration.BESTEST.GC80c
 Command: "/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80c" start time: Aug 17 19:42 UTC
+=======
+"integration.BESTEST.GC80c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -633,10 +830,17 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/Makefile"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.87 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Aug 17 19:42 UTC
+=======
+Test time =   0.90 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "integration.BESTEST.GC80c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -644,7 +848,11 @@ Test Passed.
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateADI" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -663,7 +871,11 @@ Note: 2607.32
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" end time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateADI" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -671,7 +883,11 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateImplicit" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -680,6 +896,7 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (236 ms)
 [----------] 1 test from GC10aFixture (236 ms total)
 
@@ -691,6 +908,19 @@ Test time =   0.24 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateImplicit" end time: Aug 17 19:42 UTC
+=======
+[       OK ] GC10aFixture.calculateImplicit (231 ms)
+[----------] 1 test from GC10aFixture (231 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (231 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateImplicit" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -698,7 +928,11 @@ Test Passed.
 23/44 Test: unit.GC10aFixture.calculateCrankN
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateCrankN" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateCrankN
@@ -707,6 +941,7 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (234 ms)
 [----------] 1 test from GC10aFixture (234 ms total)
 
@@ -718,6 +953,19 @@ Test time =   0.24 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Aug 17 19:42 UTC
+=======
+[       OK ] GC10aFixture.calculateCrankN (227 ms)
+[----------] 1 test from GC10aFixture (227 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (227 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateCrankN" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -725,7 +973,11 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateADE" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -734,17 +986,29 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (8 ms)
 [----------] 1 test from GC10aFixture (8 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (8 ms total)
+=======
+[       OK ] GC10aFixture.calculateADE (11 ms)
+[----------] 1 test from GC10aFixture (11 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11 ms total)
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" end time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calculateADE" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -752,7 +1016,11 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -761,17 +1029,29 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (260 ms)
 [----------] 1 test from GC10aFixture (260 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (261 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (254 ms)
+[----------] 1 test from GC10aFixture (254 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (254 ms total)
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -779,7 +1059,11 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calcCellADI" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -797,7 +1081,11 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" end time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calcCellADI" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -805,7 +1093,11 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -813,6 +1105,7 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (237 ms)
 [----------] 1 test from GC10aFixture (237 ms total)
 
@@ -824,6 +1117,19 @@ Test time =   0.24 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrix" end time: Aug 17 19:42 UTC
+=======
+[       OK ] GC10aFixture.calcCellMatrix (230 ms)
+[----------] 1 test from GC10aFixture (230 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (230 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellMatrix" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -831,7 +1137,11 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" start time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -839,17 +1149,29 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (262 ms)
 [----------] 1 test from GC10aFixture (262 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (262 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (253 ms)
+[----------] 1 test from GC10aFixture (253 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (253 ms total)
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" end time: Aug 17 19:42 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -857,7 +1179,11 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC10a" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -868,7 +1194,11 @@ Note: Google Test filter = BESTESTFixture.GC10a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC10a" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -876,7 +1206,11 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30a" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -894,7 +1228,11 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30a" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -902,7 +1240,11 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -920,7 +1262,11 @@ Note: Google Test filter = BESTESTFixture.GC30b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -928,7 +1274,11 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30c" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -946,7 +1296,11 @@ Note: Google Test filter = BESTESTFixture.GC30c
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC30c" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -954,7 +1308,11 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC60b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -972,7 +1330,11 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC60b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -980,7 +1342,11 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC65b" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -998,7 +1364,11 @@ Note: Google Test filter = BESTESTFixture.GC65b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.GC65b" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1006,7 +1376,11 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.1D" start time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.1D" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -1024,7 +1398,11 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.1D" end time: Aug 17 19:42 UTC
+=======
+"unit.BESTEST.1D" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1032,7 +1410,11 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" start time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.domain_basics" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -1050,7 +1432,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" end time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.domain_basics" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1058,7 +1444,11 @@ Test Passed.
 37/44 Test: unit.DomainFixture.surface_indices
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" start time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.surface_indices" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_indices
@@ -1076,7 +1466,11 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" end time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.surface_indices" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1478,11 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" start time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.surface_tilt" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -1102,7 +1500,11 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" end time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.surface_tilt" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1110,7 +1512,11 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" start time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.cell_vector" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -1128,7 +1534,11 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" end time: Aug 17 19:42 UTC
+=======
+"unit.DomainFixture.cell_vector" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1136,7 +1546,11 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" start time: Aug 17 19:42 UTC
+=======
+"unit.CellFixture.cell_basics" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -1154,7 +1568,11 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" end time: Aug 17 19:42 UTC
+=======
+"unit.CellFixture.cell_basics" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1162,7 +1580,11 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" start time: Aug 17 19:42 UTC
+=======
+"unit.AggregatorFixture.validation" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -1171,17 +1593,29 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
+<<<<<<< HEAD
 [       OK ] AggregatorFixture.validation (14 ms)
 [----------] 1 test from AggregatorFixture (14 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
+=======
+[       OK ] AggregatorFixture.validation (15 ms)
+[----------] 1 test from AggregatorFixture (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" end time: Aug 17 19:42 UTC
+=======
+"unit.AggregatorFixture.validation" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1623,11 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" start time: Aug 17 19:42 UTC
+=======
+"unit.TypicalFixture.convectionCallback" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1207,7 +1645,11 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" end time: Aug 17 19:42 UTC
+=======
+"unit.TypicalFixture.convectionCallback" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1215,7 +1657,11 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" start time: Aug 17 19:42 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1233,7 +1679,11 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" end time: Aug 17 19:42 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" end time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1241,7 +1691,11 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" start time: Aug 17 19:42 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" start time: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1259,8 +1713,16 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" end time: Aug 17 19:42 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 End testing: Aug 17 19:42 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" end time: Aug 17 19:43 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 17 19:43 UTC
+>>>>>>> 01a9e812 (Change if statement for installing linux libraries. [linux-gnu-64bit])
