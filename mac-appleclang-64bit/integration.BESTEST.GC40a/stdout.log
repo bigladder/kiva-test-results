@@ -1,26 +1,15 @@
-kiva v0.6.3+specify-runner-images.9e1007e9.97 (mac-appleclang-64bit)
+kiva v0.6.3+specify-runner-images.6304d24c.98 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-17 21:43:27.196481
-=======
-Starting Program: 2022-Aug-17 21:43:53.500516
->>>>>>> 0d74ee18 (Fix matrix variable name. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-18 16:23:15.732968
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Initializing Temperatures...
-  2099-Dec-25 16:00:00
+  2099-Jun-17 22:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Jun-21 13:00:00 (47%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 21:43:28.349638
-Elapsed Time: 00:00:01.153157
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-17 21:43:54.642955
-Elapsed Time: 00:00:01.142439
->>>>>>> 0d74ee18 (Fix matrix variable name. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-18 16:23:16.841493
+Elapsed Time: 00:00:01.108525
