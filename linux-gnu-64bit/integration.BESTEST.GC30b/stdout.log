@@ -1,7 +1,7 @@
-kiva v0.6.3+develop.01ee7f4d.65 (linux-gnu-64bit)
+kiva v0.6.3+add-werror-option.01ee7f4d.65 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Jul-06 16:06:23.334820
+Starting Program: 2022-Aug-18 19:56:44.253357
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,5 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Jul-06 16:06:23.567406
-Elapsed Time: 00:00:00.232586
+Finished Program: 2022-Aug-18 19:56:44.496647
+Elapsed Time: 00:00:00.243290
