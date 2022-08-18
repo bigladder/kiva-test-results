@@ -1,15 +1,28 @@
 kiva v0.6.3+specify-runner-images.6304d24c.98 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-18 16:19:16.924364
+=======
+Starting Program: 2022-Aug-18 16:21:18.133926
+>>>>>>> 3c27ce91 (Remove kiva_suppress_warnings list as it is not use anywhere. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
+<<<<<<< HEAD
   2099-Jan-07 03:00:00
+=======
+>>>>>>> 3c27ce91 (Remove kiva_suppress_warnings list as it is not use anywhere. [linux-gnu-64bit])
 Beginning Simulation...
+  2100-Aug-05 08:00:00 (59.3%)
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Aug-18 16:19:17.739801
 Elapsed Time: 00:00:00.815437
+=======
+Finished Program: 2022-Aug-18 16:21:19.228204
+Elapsed Time: 00:00:01.094278
+>>>>>>> 3c27ce91 (Remove kiva_suppress_warnings list as it is not use anywhere. [linux-gnu-64bit])
