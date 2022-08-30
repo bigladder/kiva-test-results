@@ -1,7 +1,11 @@
 kiva v0.6.3+add-werror-option.6ba01e5e.111 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-30 19:12:35.013667
+=======
+Starting Program: 2022-Aug-30 19:12:59.257380
+>>>>>>> 258fcf10 (Fix README. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 592
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Nov-04 11:00:00 (84.2%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-30 19:12:36.091392
 Elapsed Time: 00:00:01.077725
+=======
+  2100-Jun-09 02:00:00 (43.6%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-30 19:13:00.302314
+Elapsed Time: 00:00:01.044934
+>>>>>>> 258fcf10 (Fix README. [linux-gnu-64bit])
