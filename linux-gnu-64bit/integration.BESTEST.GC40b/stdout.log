@@ -1,24 +1,15 @@
-kiva v0.6.3+add-werror-option.478d825c.106 (linux-gnu-64bit)
+kiva v0.6.3+add-werror-option.e13b18ac.109 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-19 21:30:00.910286
-=======
-Starting Program: 2022-Aug-19 21:30:48.954633
->>>>>>> 847c4a45 (Change default on KIVA_WERROR to OFF. [linux-gnu-64bit])
+Starting Program: 2022-Aug-30 17:13:17.374612
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-  2099-Jan-18 09:00:00
 Beginning Simulation...
+  2100-Jun-26 22:00:00 (48.5%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Aug-19 21:30:01.724395
-Elapsed Time: 00:00:00.814109
-=======
-Finished Program: 2022-Aug-19 21:30:49.969183
-Elapsed Time: 00:00:01.014550
->>>>>>> 847c4a45 (Change default on KIVA_WERROR to OFF. [linux-gnu-64bit])
+Finished Program: 2022-Aug-30 17:13:18.206532
+Elapsed Time: 00:00:00.831920
