@@ -1,7 +1,11 @@
 kiva v0.6.3+add-werror-option.7a3bb6bd.110 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-30 18:16:05.449124
+=======
+Starting Program: 2022-Aug-30 18:16:31.536734
+>>>>>>> 6a795701 (Organize targets from groundplot and kiva targets. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 592
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-May-11 16:00:00 (35.8%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-30 18:16:06.252784
 Elapsed Time: 00:00:00.803660
+=======
+  2100-Feb-14 06:00:00 (12.1%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-30 18:16:32.348271
+Elapsed Time: 00:00:00.811537
+>>>>>>> 6a795701 (Organize targets from groundplot and kiva targets. [linux-gnu-64bit])
