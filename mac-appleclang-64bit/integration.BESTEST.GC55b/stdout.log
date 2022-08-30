@@ -1,11 +1,7 @@
-kiva v0.6.3+add-werror-option.e13b18ac.109 (mac-appleclang-64bit)
+kiva v0.6.3+add-werror-option.7a3bb6bd.110 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-30 17:20:19.512157
-=======
-Starting Program: 2022-Aug-30 17:21:35.022505
->>>>>>> d2e607f3 (Change groundplot to public. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-30 18:23:03.027785
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,13 +9,7 @@ Creating Domain...
   Total Cells: 418
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-May-25 08:00:00 (39.5%)
+  2100-Dec-16 21:00:00 (95.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-30 17:20:20.287008
-Elapsed Time: 00:00:00.774851
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-30 17:21:35.782997
-Elapsed Time: 00:00:00.760492
->>>>>>> d2e607f3 (Change groundplot to public. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-30 18:23:04.028572
+Elapsed Time: 00:00:01.000787
