@@ -1,14 +1,13 @@
-kiva v0.6.3+add-werror-option.e13b18ac.109 (windows-msvc-64bit)
+kiva v0.6.3+add-werror-option.7a3bb6bd.110 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Aug-30 17:16:23.730895
+Starting Program: 2022-Aug-30 18:23:32.502178
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Aug-30 17:16:24.043546
-Elapsed Time: 00:00:00.312651
+Finished Program: 2022-Aug-30 18:23:32.799138
+Elapsed Time: 00:00:00.296960
