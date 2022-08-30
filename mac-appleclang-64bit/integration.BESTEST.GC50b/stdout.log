@@ -1,28 +1,15 @@
-kiva v0.6.3+add-werror-option.7a3bb6bd.110 (mac-appleclang-64bit)
+kiva v0.6.3+add-werror-option.6ba01e5e.111 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-30 18:22:59.986795
-=======
-Starting Program: 2022-Aug-30 18:23:33.950053
->>>>>>> a9e5a092 (Organize targets from groundplot and kiva targets. [mac-appleclang-64bit])
+Starting Program: 2022-Aug-30 19:15:16.118155
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Oct-27 07:00:00
 Beginning Simulation...
-  2100-Aug-18 19:00:00 (63%)
+  2100-Aug-23 10:00:00 (64.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-30 18:23:02.852915
-Elapsed Time: 00:00:02.866120
-=======
-Beginning Simulation...
-  2100-Dec-25 01:00:00 (98.1%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-30 18:23:35.011460
-Elapsed Time: 00:00:01.061407
->>>>>>> a9e5a092 (Organize targets from groundplot and kiva targets. [mac-appleclang-64bit])
+Finished Program: 2022-Aug-30 19:15:17.211851
+Elapsed Time: 00:00:01.093696
