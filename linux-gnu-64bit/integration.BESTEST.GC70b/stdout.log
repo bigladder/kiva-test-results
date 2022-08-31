@@ -1,7 +1,11 @@
 kiva v0.6.4 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-31 23:05:30.391630
+=======
+Starting Program: 2022-Aug-31 23:07:33.934813
+>>>>>>> 30da8ec6 (Merge pull request #56 from bigladder/fix-plotting)
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Jul-01 06:00:00 (49.7%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-31 23:05:31.198784
 Elapsed Time: 00:00:00.807154
+=======
+  2100-Dec-10 14:00:00 (94.1%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-31 23:07:35.038984
+Elapsed Time: 00:00:01.104171
+>>>>>>> 30da8ec6 (Merge pull request #56 from bigladder/fix-plotting)
