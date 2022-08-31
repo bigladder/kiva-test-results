@@ -1,15 +1,26 @@
 kiva v0.6.3+fix-plotting.42d56b76.118 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Aug-31 22:53:34.208348
+=======
+Starting Program: 2022-Aug-31 22:54:50.752958
+>>>>>>> 7571c5bc (Fix flags for AppleClang. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Initializing Temperatures...
+  2099-May-31 14:00:00
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Jul-09 14:00:00 (51.9%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Aug-31 22:53:35.288623
 Elapsed Time: 00:00:01.080275
+=======
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Aug-31 22:54:51.978087
+Elapsed Time: 00:00:01.225129
+>>>>>>> 7571c5bc (Fix flags for AppleClang. [mac-appleclang-64bit])
