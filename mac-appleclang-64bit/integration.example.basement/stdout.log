@@ -1,31 +1,17 @@
-kiva v0.6.3+develop.4ab6361b.112 (mac-appleclang-64bit)
+kiva v0.6.3+develop.460fcd4d.119 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-31 22:10:47.958751
-=======
-Starting Program: 2022-Aug-31 22:12:30.076803
->>>>>>> 4ab4bd58 (Merge pull request #55 from bigladder/add-werror-option)
+Starting Program: 2022-Aug-31 23:07:15.641743
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
-<<<<<<< HEAD
-  2014-Sep-17 04:00:00
+  2014-Mar-07 10:00:00
+  2014-Nov-03 13:00:00
 Beginning Simulation...
-  2015-May-10 06:00:00 (35.4%)
-  2015-Aug-29 19:00:00 (66%)
+  2015-Jun-15 15:00:00 (45.4%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 22:10:51.925621
-Elapsed Time: 00:00:03.966870
-=======
-  2014-Jul-24 18:00:00
-  2014-Nov-30 19:00:00
-Beginning Simulation...
-  2015-May-19 13:00:00 (38%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 22:12:33.972488
-Elapsed Time: 00:00:03.895685
->>>>>>> 4ab4bd58 (Merge pull request #55 from bigladder/add-werror-option)
+Finished Program: 2022-Aug-31 23:07:18.927455
+Elapsed Time: 00:00:03.285712
