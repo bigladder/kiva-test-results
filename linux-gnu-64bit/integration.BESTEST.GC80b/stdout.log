@@ -1,27 +1,15 @@
-kiva v0.6.3+develop.4ab6361b.112 (linux-gnu-64bit)
+kiva v0.6.4 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-31 22:06:29.694129
-=======
-Starting Program: 2022-Aug-31 22:06:59.864980
->>>>>>> 6f232b6c (Merge pull request #55 from bigladder/add-werror-option)
+Starting Program: 2022-Aug-31 23:05:31.282757
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Aug-29 21:00:00
 Beginning Simulation...
+  2100-Oct-11 10:00:00 (77.6%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 22:06:30.529369
-Elapsed Time: 00:00:00.835240
-=======
-  2099-Mar-10 05:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 22:07:00.683444
-Elapsed Time: 00:00:00.818464
->>>>>>> 6f232b6c (Merge pull request #55 from bigladder/add-werror-option)
+Finished Program: 2022-Aug-31 23:05:32.090457
+Elapsed Time: 00:00:00.807700
