@@ -1,31 +1,17 @@
-kiva v0.6.3+develop.460fcd4d.119 (mac-appleclang-64bit)
+kiva v0.6.4 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-31 23:07:19.051789
-=======
-Starting Program: 2022-Aug-31 23:09:21.026126
->>>>>>> 4b70c00b (Merge pull request #56 from bigladder/fix-plotting)
+Starting Program: 2022-Sep-22 21:58:23.731617
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
-<<<<<<< HEAD
-  2014-Sep-17 23:00:00
+  2014-Feb-14 11:00:00
 Beginning Simulation...
-  2015-Apr-29 11:00:00 (32.5%)
-  2015-Nov-27 08:00:00 (90.5%)
+  2015-Jan-23 12:00:00 (6.2%)
+  2015-Oct-22 11:00:00 (80.7%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 23:07:22.134232
-Elapsed Time: 00:00:03.082443
-=======
-  2014-Aug-27 18:00:00
-Beginning Simulation...
-  2015-May-04 21:00:00 (33.9%)
-  2015-Dec-30 05:00:00 (99.5%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Aug-31 23:09:24.006798
-Elapsed Time: 00:00:02.980672
->>>>>>> 4b70c00b (Merge pull request #56 from bigladder/fix-plotting)
+Finished Program: 2022-Sep-22 21:58:26.255460
+Elapsed Time: 00:00:02.523843
