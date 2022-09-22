@@ -3,6 +3,7 @@ Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Starting Program: 2022-Sep-22 21:56:58.665606
 =======
 Starting Program: 2022-Sep-22 21:58:34.920497
@@ -10,14 +11,17 @@ Starting Program: 2022-Sep-22 21:58:34.920497
 =======
 Starting Program: 2022-Sep-22 22:09:35.456537
 >>>>>>> 9b59addc (Fix sky emissivity calculation. [mac-appleclang-64bit])
+=======
+Starting Program: 2022-Sep-22 22:11:56.653159
+>>>>>>> 2996738a (Fix sky emissivity calculation. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Finished Program: 2022-Sep-22 21:56:58.954855
@@ -30,3 +34,7 @@ Elapsed Time: 00:00:00.230742
 Finished Program: 2022-Sep-22 22:09:35.687043
 Elapsed Time: 00:00:00.230506
 >>>>>>> 9b59addc (Fix sky emissivity calculation. [mac-appleclang-64bit])
+=======
+Finished Program: 2022-Sep-22 22:11:56.890123
+Elapsed Time: 00:00:00.236964
+>>>>>>> 2996738a (Fix sky emissivity calculation. [mac-appleclang-64bit])
