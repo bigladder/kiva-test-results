@@ -1,7 +1,11 @@
 kiva v0.6.4 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-22 21:55:52.383460
+=======
+Starting Program: 2022-Sep-22 21:55:57.296726
+>>>>>>> a600ca3d (Merge pull request #56 from bigladder/fix-plotting)
 Creating Domain...
   X Cells: 41
   Y Cells: 1
@@ -9,5 +13,10 @@ Creating Domain...
   Total Cells: 779
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Sep-22 21:55:52.581535
 Elapsed Time: 00:00:00.198075
+=======
+Finished Program: 2022-Sep-22 21:55:57.501645
+Elapsed Time: 00:00:00.204919
+>>>>>>> a600ca3d (Merge pull request #56 from bigladder/fix-plotting)
