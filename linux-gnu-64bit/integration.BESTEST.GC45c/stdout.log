@@ -1,7 +1,11 @@
 kiva v0.6.4+fix-convection-input.9bc46e76.2 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-22 22:03:34.376279
+=======
+Starting Program: 2022-Sep-22 22:05:25.381455
+>>>>>>> 245719fd (Fix sky emissivity calculation. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 36
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 576
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Aug-19 01:00:00 (63%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Sep-22 22:03:35.140184
 Elapsed Time: 00:00:00.763905
+=======
+  2100-Mar-04 16:00:00 (17.2%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Sep-22 22:05:26.444174
+Elapsed Time: 00:00:01.062719
+>>>>>>> 245719fd (Fix sky emissivity calculation. [linux-gnu-64bit])
