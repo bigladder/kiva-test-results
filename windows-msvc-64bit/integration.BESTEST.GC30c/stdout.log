@@ -1,14 +1,13 @@
-kiva v0.6.4 (windows-msvc-64bit)
+kiva v0.6.4+fix-convection-input.9bc46e76.2 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Sep-22 21:54:05.790940
+Starting Program: 2022-Sep-22 22:07:13.905238
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2022-Sep-22 21:54:06.087811
-Elapsed Time: 00:00:00.296871
+Finished Program: 2022-Sep-22 22:07:14.249515
+Elapsed Time: 00:00:00.344277
