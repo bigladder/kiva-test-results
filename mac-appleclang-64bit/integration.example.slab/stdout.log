@@ -1,11 +1,15 @@
-kiva v0.6.4 (mac-appleclang-64bit)
+kiva v0.6.4+fix-convection-input.9bc46e76.2 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 <<<<<<< HEAD
 Starting Program: 2022-Sep-22 21:56:48.722166
 =======
 Starting Program: 2022-Sep-22 21:58:26.186375
 >>>>>>> 52324b5f (Merge pull request #56 from bigladder/fix-plotting)
+=======
+Starting Program: 2022-Sep-22 22:09:25.045474
+>>>>>>> 9b59addc (Fix sky emissivity calculation. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 48
   Y Cells: 1
@@ -13,11 +17,15 @@ Creating Domain...
   Total Cells: 1632
 Initializing Temperatures...
 <<<<<<< HEAD
+<<<<<<< HEAD
   2014-Feb-15 17:00:00
+=======
+  2014-Oct-23 17:00:00
+>>>>>>> 9b59addc (Fix sky emissivity calculation. [mac-appleclang-64bit])
 Beginning Simulation...
-  2015-Jan-27 11:00:00 (7.2%)
-  2015-Oct-26 11:00:00 (81.8%)
+  2015-Jul-01 14:00:00 (49.7%)
   2015-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Sep-22 21:56:51.258391
 Elapsed Time: 00:00:02.536225
 =======
@@ -28,3 +36,7 @@ Beginning Simulation...
 Finished Program: 2022-Sep-22 21:58:28.424053
 Elapsed Time: 00:00:02.237678
 >>>>>>> 52324b5f (Merge pull request #56 from bigladder/fix-plotting)
+=======
+Finished Program: 2022-Sep-22 22:09:27.713745
+Elapsed Time: 00:00:02.668271
+>>>>>>> 9b59addc (Fix sky emissivity calculation. [mac-appleclang-64bit])
