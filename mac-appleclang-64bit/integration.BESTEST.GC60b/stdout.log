@@ -1,11 +1,7 @@
-kiva v0.6.3+develop.460fcd4d.119 (mac-appleclang-64bit)
+kiva v0.6.4 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Aug-31 23:07:32.463118
-=======
-Starting Program: 2022-Aug-31 23:09:35.096534
->>>>>>> 4b70c00b (Merge pull request #56 from bigladder/fix-plotting)
+Starting Program: 2022-Sep-22 21:57:09.361175
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Aug-31 23:07:32.772444
-Elapsed Time: 00:00:00.309326
-=======
-Finished Program: 2022-Aug-31 23:09:35.340442
-Elapsed Time: 00:00:00.243908
->>>>>>> 4b70c00b (Merge pull request #56 from bigladder/fix-plotting)
+Finished Program: 2022-Sep-22 21:57:09.625735
+Elapsed Time: 00:00:00.264560
