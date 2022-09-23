@@ -1,26 +1,15 @@
-kiva v0.6.4 (linux-gnu-64bit)
+kiva v0.6.4+fix-regression-test.42164bf4.2 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-22 21:55:59.678486
-=======
-Starting Program: 2022-Sep-22 21:56:05.234172
->>>>>>> a600ca3d (Merge pull request #56 from bigladder/fix-plotting)
+Starting Program: 2022-Sep-23 21:52:44.708630
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 13
   Total Cells: 481
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Dec-06 20:00:00
+  2099-Aug-07 01:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-22 21:56:00.340659
-Elapsed Time: 00:00:00.662173
-=======
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-22 21:56:05.967837
-Elapsed Time: 00:00:00.733665
->>>>>>> a600ca3d (Merge pull request #56 from bigladder/fix-plotting)
+Finished Program: 2022-Sep-23 21:52:45.585635
+Elapsed Time: 00:00:00.877005
