@@ -1,7 +1,11 @@
 kiva v0.6.4+fix-regression-test.42164bf4.2 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-23 21:57:03.938078
+=======
+Starting Program: 2022-Sep-23 21:58:03.561694
+>>>>>>> 1f38f3f4 (Fix backwards iteration for size_t variables. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 592
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Dec-31 02:00:00 (99.7%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Sep-23 21:57:05.001479
 Elapsed Time: 00:00:01.063401
+=======
+  2100-Jan-20 07:00:00 (5.3%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Sep-23 21:58:04.518565
+Elapsed Time: 00:00:00.956871
+>>>>>>> 1f38f3f4 (Fix backwards iteration for size_t variables. [mac-appleclang-64bit])
