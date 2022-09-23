@@ -1,10 +1,10 @@
-Start testing: Sep 22 21:58 Coordinated Universal Time
+Start testing: Sep 23 21:53 Coordinated Universal Time
 ----------------------------------------------------------
 1/44 Testing: integration.example.slab
 1/44 Test: integration.example.slab
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/examples/slab.yaml" "D:/a/kiva/kiva/weather/USA_DC_Washington.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.example.slab/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.example.slab" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.example.slab" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -25,18 +25,18 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   2.92 sec
+Test time =   3.54 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.slab" end time: Sep 22 21:58 Coordinated Universal Time
-"integration.example.slab" time elapsed: 00:00:02
+"integration.example.slab" end time: Sep 23 21:53 Coordinated Universal Time
+"integration.example.slab" time elapsed: 00:00:03
 ----------------------------------------------------------
 
 2/44 Testing: integration.example.basement
 2/44 Test: integration.example.basement
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/examples/basement.yaml" "D:/a/kiva/kiva/weather/USA_IL_Chicago.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.example.basement/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.example.basement" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.example.basement" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -57,18 +57,18 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   3.74 sec
+Test time =   4.25 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.basement" end time: Sep 22 21:58 Coordinated Universal Time
-"integration.example.basement" time elapsed: 00:00:03
+"integration.example.basement" end time: Sep 23 21:53 Coordinated Universal Time
+"integration.example.basement" time elapsed: 00:00:04
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
 3/44 Test: integration.example.crawlspace
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/examples/crawlspace.yaml" "D:/a/kiva/kiva/weather/USA_FL_Tampa.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.example.crawlspace/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.example.crawlspace" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.example.crawlspace" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -89,10 +89,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   3.45 sec
+Test time =   3.88 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.crawlspace" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.example.crawlspace" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.example.crawlspace" time elapsed: 00:00:03
 ----------------------------------------------------------
 
@@ -100,7 +100,7 @@ Test Passed.
 4/44 Test: integration.BESTEST.GC10a
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC10a.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC10a" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC10a" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -121,10 +121,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.44 sec
+Test time =   0.45 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC10a" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC10a" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -132,7 +132,7 @@ Test Passed.
 5/44 Test: integration.BESTEST.GC30a
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC30a.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC30a" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30a" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -153,10 +153,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.44 sec
+Test time =   0.45 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30a" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30a" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -164,7 +164,7 @@ Test Passed.
 6/44 Test: integration.BESTEST.GC30b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC30b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC30b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -188,7 +188,7 @@ run-kiva.rb completed!
 Test time =   0.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -196,7 +196,7 @@ Test Passed.
 7/44 Test: integration.BESTEST.GC30c
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC30c.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC30c" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -217,10 +217,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.46 sec
+Test time =   0.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30c" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC30c" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -228,7 +228,7 @@ Test Passed.
 8/44 Test: integration.BESTEST.GC40a
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC40a.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC40a" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40a" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -249,10 +249,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.46 sec
+Test time =   1.42 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40a" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40a" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -260,7 +260,7 @@ Test Passed.
 9/44 Test: integration.BESTEST.GC40b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC40b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC40b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -281,10 +281,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.32 sec
+Test time =   1.26 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC40b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -292,7 +292,7 @@ Test Passed.
 10/44 Test: integration.BESTEST.GC40c
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC40c.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC40c" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -313,10 +313,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.28 sec
+Test time =   1.24 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40c" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC40c" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -324,7 +324,7 @@ Test Passed.
 11/44 Test: integration.BESTEST.GC45b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC45b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC45b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC45b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -345,10 +345,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.30 sec
+Test time =   1.24 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC45b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -356,7 +356,7 @@ Test Passed.
 12/44 Test: integration.BESTEST.GC45c
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC45c.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC45c" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC45c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -377,10 +377,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.26 sec
+Test time =   1.22 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45c" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC45c" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -388,7 +388,7 @@ Test Passed.
 13/44 Test: integration.BESTEST.GC50b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC50b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC50b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC50b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -409,10 +409,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.43 sec
+Test time =   1.37 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC50b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC50b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -420,7 +420,7 @@ Test Passed.
 14/44 Test: integration.BESTEST.GC55b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC55b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC55b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC55b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -441,18 +441,18 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.03 sec
+Test time =   0.99 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55b" end time: Sep 22 21:58 Coordinated Universal Time
-"integration.BESTEST.GC55b" time elapsed: 00:00:01
+"integration.BESTEST.GC55b" end time: Sep 23 21:53 Coordinated Universal Time
+"integration.BESTEST.GC55b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 15/44 Testing: integration.BESTEST.GC55c
 15/44 Test: integration.BESTEST.GC55c
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC55c.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC55c" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC55c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -473,10 +473,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.12 sec
+Test time =   1.09 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55c" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC55c" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC55c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -484,7 +484,7 @@ Test Passed.
 16/44 Test: integration.BESTEST.GC60b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC60b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC60b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC60b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -508,7 +508,7 @@ run-kiva.rb completed!
 Test time =   0.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC60b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC60b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -516,7 +516,7 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC65b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC65b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC65b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -540,7 +540,7 @@ run-kiva.rb completed!
 Test time =   0.47 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC65b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC65b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -548,7 +548,7 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC70b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC70b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC70b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -569,10 +569,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.30 sec
+Test time =   1.26 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC70b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC70b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -580,7 +580,7 @@ Test Passed.
 19/44 Test: integration.BESTEST.GC80b
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC80b.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC80b" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC80b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -601,10 +601,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.30 sec
+Test time =   1.27 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80b" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC80b" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -612,7 +612,7 @@ Test Passed.
 20/44 Test: integration.BESTEST.GC80c
 Command: "C:/hostedtoolcache/windows/Ruby/2.7.6/x64/bin/ruby.exe" "run-kiva.rb" "D:/a/kiva/kiva/build/Release/kiva.exe" "D:/a/kiva/kiva/test/bestest/GC80c.yaml" "D:/a/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "D:/a/kiva/kiva/build/test/results/windows-msvc-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: D:/a/kiva/kiva/scripts
-"integration.BESTEST.GC80c" start time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC80c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -633,10 +633,10 @@ Evaluating contents of D:/a/kiva/kiva/build/Release
   ["D:/a/kiva/kiva/build/Release/boost_program_options.lib", "D:/a/kiva/kiva/build/Release/fmt.lib", "D:/a/kiva/kiva/build/Release/getopt-static.lib", "D:/a/kiva/kiva/build/Release/groundplot.lib", "D:/a/kiva/kiva/build/Release/kiva.exe", "D:/a/kiva/kiva/build/Release/kiva.lib", "D:/a/kiva/kiva/build/Release/kiva_tests.exe", "D:/a/kiva/kiva/build/Release/libpng16_static.lib", "D:/a/kiva/kiva/build/Release/mgl-static.lib", "D:/a/kiva/kiva/build/Release/yaml-cpp.lib", "D:/a/kiva/kiva/build/Release/zlibstatic.lib"]
 run-kiva.rb completed!
 <end of output>
-Test time =   1.30 sec
+Test time =   1.25 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80c" end time: Sep 22 21:58 Coordinated Universal Time
+"integration.BESTEST.GC80c" end time: Sep 23 21:53 Coordinated Universal Time
 "integration.BESTEST.GC80c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -644,7 +644,7 @@ Test Passed.
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calculateADI" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateADI" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -653,17 +653,17 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
-[       OK ] GC10aFixture.calculateADI (19 ms)
-[----------] 1 test from GC10aFixture (19 ms total)
+[       OK ] GC10aFixture.calculateADI (18 ms)
+[----------] 1 test from GC10aFixture (18 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (19 ms total)
+[==========] 1 test from 1 test suite ran. (18 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateADI" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateADI" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -671,7 +671,7 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calculateImplicit" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateImplicit" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -680,17 +680,17 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
-[       OK ] GC10aFixture.calculateImplicit (259 ms)
-[----------] 1 test from GC10aFixture (259 ms total)
+[       OK ] GC10aFixture.calculateImplicit (264 ms)
+[----------] 1 test from GC10aFixture (264 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (259 ms total)
+[==========] 1 test from 1 test suite ran. (264 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.27 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateImplicit" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateImplicit" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -698,7 +698,7 @@ Test Passed.
 23/44 Test: unit.GC10aFixture.calculateCrankN
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calculateCrankN"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calculateCrankN" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateCrankN" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateCrankN
@@ -707,17 +707,17 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
-[       OK ] GC10aFixture.calculateCrankN (250 ms)
-[----------] 1 test from GC10aFixture (251 ms total)
+[       OK ] GC10aFixture.calculateCrankN (253 ms)
+[----------] 1 test from GC10aFixture (253 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (251 ms total)
+[==========] 1 test from 1 test suite ran. (253 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateCrankN" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateCrankN" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -725,7 +725,7 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calculateADE" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateADE" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -734,17 +734,17 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
-[       OK ] GC10aFixture.calculateADE (13 ms)
-[----------] 1 test from GC10aFixture (13 ms total)
+[       OK ] GC10aFixture.calculateADE (14 ms)
+[----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (13 ms total)
+[==========] 1 test from 1 test suite ran. (14 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateADE" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calculateADE" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -752,7 +752,7 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -761,17 +761,17 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
-[       OK ] GC10aFixture.GC10a_calculateSteadyState (278 ms)
-[----------] 1 test from GC10aFixture (278 ms total)
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (291 ms)
+[----------] 1 test from GC10aFixture (291 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (278 ms total)
+[==========] 1 test from 1 test suite ran. (291 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.28 sec
+Test time =   0.30 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -779,7 +779,7 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calcCellADI" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellADI" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -797,7 +797,7 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calcCellADI" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellADI" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -805,7 +805,7 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calcCellMatrix" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellMatrix" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -813,17 +813,17 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
-[       OK ] GC10aFixture.calcCellMatrix (258 ms)
-[----------] 1 test from GC10aFixture (258 ms total)
+[       OK ] GC10aFixture.calcCellMatrix (261 ms)
+[----------] 1 test from GC10aFixture (261 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (258 ms total)
+[==========] 1 test from 1 test suite ran. (261 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.26 sec
+Test time =   0.27 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calcCellMatrix" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellMatrix" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -831,7 +831,7 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calcCellMatrixSS" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellMatrixSS" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -839,17 +839,17 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
-[       OK ] GC10aFixture.calcCellMatrixSS (279 ms)
-[----------] 1 test from GC10aFixture (279 ms total)
+[       OK ] GC10aFixture.calcCellMatrixSS (283 ms)
+[----------] 1 test from GC10aFixture (283 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (279 ms total)
+[==========] 1 test from 1 test suite ran. (283 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.29 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calcCellMatrixSS" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.GC10aFixture.calcCellMatrixSS" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -857,7 +857,7 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC10a" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC10a" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -868,7 +868,7 @@ Note: Google Test filter = BESTESTFixture.GC10a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC10a" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC10a" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -876,7 +876,7 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30a" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30a" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -894,7 +894,7 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30a" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30a" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -902,7 +902,7 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30b" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -920,7 +920,7 @@ Note: Google Test filter = BESTESTFixture.GC30b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30b" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30b" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -928,7 +928,7 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30c" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -946,7 +946,7 @@ Note: Google Test filter = BESTESTFixture.GC30c
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30c" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC30c" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -954,7 +954,7 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC60b" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC60b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -972,7 +972,7 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC60b" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC60b" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -980,7 +980,7 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.GC65b" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC65b" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -998,7 +998,7 @@ Note: Google Test filter = BESTESTFixture.GC65b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC65b" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.GC65b" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1006,7 +1006,7 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=BESTESTFixture.1D"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.BESTEST.1D" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.1D" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -1024,7 +1024,7 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.1D" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.BESTEST.1D" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1032,7 +1032,7 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=DomainFixture.domain_basics"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.DomainFixture.domain_basics" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.domain_basics" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -1050,7 +1050,7 @@ Note: Google Test filter = DomainFixture.domain_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.DomainFixture.domain_basics" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.domain_basics" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1058,7 +1058,7 @@ Test Passed.
 37/44 Test: unit.DomainFixture.surface_indices
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=DomainFixture.surface_indices"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.DomainFixture.surface_indices" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.surface_indices" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_indices
@@ -1076,7 +1076,7 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.DomainFixture.surface_indices" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.surface_indices" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1084,7 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.DomainFixture.surface_tilt" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.surface_tilt" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -1102,7 +1102,7 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.DomainFixture.surface_tilt" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.surface_tilt" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1110,7 +1110,7 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=DomainFixture.cell_vector"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.DomainFixture.cell_vector" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.cell_vector" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -1128,7 +1128,7 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.DomainFixture.cell_vector" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.DomainFixture.cell_vector" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1136,7 +1136,7 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=CellFixture.cell_basics"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.CellFixture.cell_basics" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.CellFixture.cell_basics" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -1154,7 +1154,7 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.CellFixture.cell_basics" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.CellFixture.cell_basics" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1162,7 +1162,7 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=AggregatorFixture.validation"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.AggregatorFixture.validation" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.AggregatorFixture.validation" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -1171,17 +1171,17 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
-[       OK ] AggregatorFixture.validation (87 ms)
-[----------] 1 test from AggregatorFixture (87 ms total)
+[       OK ] AggregatorFixture.validation (110 ms)
+[----------] 1 test from AggregatorFixture (110 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (87 ms total)
+[==========] 1 test from 1 test suite ran. (110 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.09 sec
+Test time =   0.12 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.AggregatorFixture.validation" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.AggregatorFixture.validation" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1189,7 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.TypicalFixture.convectionCallback" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.TypicalFixture.convectionCallback" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1207,7 +1207,7 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.TypicalFixture.convectionCallback" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.TypicalFixture.convectionCallback" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1215,7 +1215,7 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.FoundationFixture.foundationSurfaces" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.FoundationFixture.foundationSurfaces" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1223,17 +1223,17 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 [----------] Global test environment set-up.
 [----------] 1 test from FoundationFixture
 [ RUN      ] FoundationFixture.foundationSurfaces
-[       OK ] FoundationFixture.foundationSurfaces (5 ms)
-[----------] 1 test from FoundationFixture (5 ms total)
+[       OK ] FoundationFixture.foundationSurfaces (6 ms)
+[----------] 1 test from FoundationFixture (6 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (5 ms total)
+[==========] 1 test from 1 test suite ran. (6 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.FoundationFixture.foundationSurfaces" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.FoundationFixture.foundationSurfaces" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1241,7 +1241,7 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "D:/a/kiva/kiva/build/Release/kiva_tests.exe" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: D:/a/kiva/kiva/build/test/unit
-"unit.FoundationFixture.foundationSurfaces2" start time: Sep 22 21:58 Coordinated Universal Time
+"unit.FoundationFixture.foundationSurfaces2" start time: Sep 23 21:53 Coordinated Universal Time
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1259,8 +1259,8 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.FoundationFixture.foundationSurfaces2" end time: Sep 22 21:58 Coordinated Universal Time
+"unit.FoundationFixture.foundationSurfaces2" end time: Sep 23 21:53 Coordinated Universal Time
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 22 21:58 Coordinated Universal Time
+End testing: Sep 23 21:53 Coordinated Universal Time
