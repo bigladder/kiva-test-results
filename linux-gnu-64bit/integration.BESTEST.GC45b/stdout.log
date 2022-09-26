@@ -1,11 +1,7 @@
-kiva v0.6.4+fix-regression-test.42164bf4.2 (linux-gnu-64bit)
+kiva v0.6.4+fix-regression-test.35f6058c.3 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-23 21:52:40.286553
-=======
-Starting Program: 2022-Sep-23 21:52:57.120361
->>>>>>> 540d7c73 (Fix backwards iteration for size_t variables. [linux-gnu-64bit])
+Starting Program: 2022-Sep-26 17:09:32.096836
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -13,14 +9,7 @@ Creating Domain...
   Total Cells: 592
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-May-10 04:00:00 (35.4%)
+  2100-Oct-08 20:00:00 (76.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-23 21:52:41.337117
-Elapsed Time: 00:00:01.050564
-=======
-  2100-Sep-08 14:00:00 (68.7%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-23 21:52:58.172554
-Elapsed Time: 00:00:01.052193
->>>>>>> 540d7c73 (Fix backwards iteration for size_t variables. [linux-gnu-64bit])
+Finished Program: 2022-Sep-26 17:09:33.113955
+Elapsed Time: 00:00:01.017119
