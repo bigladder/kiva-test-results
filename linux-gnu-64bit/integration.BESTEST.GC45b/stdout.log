@@ -1,15 +1,26 @@
 kiva v0.6.4+develop.775d8ed0.4 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-26 17:30:51.307925
+=======
+Starting Program: 2022-Sep-26 17:31:00.937030
+>>>>>>> 0aa8937e (Merge pull request #57 from bigladder/fix-regression-test)
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
+  2098-Oct-22 23:00:00
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Aug-15 17:00:00 (62.1%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Sep-26 17:30:52.158341
 Elapsed Time: 00:00:00.850416
+=======
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Sep-26 17:31:01.725389
+Elapsed Time: 00:00:00.788359
+>>>>>>> 0aa8937e (Merge pull request #57 from bigladder/fix-regression-test)
