@@ -1,7 +1,11 @@
 kiva v0.6.5+develop.88a76625.1 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-26 18:48:31.835896
+=======
+Starting Program: 2022-Sep-26 18:50:08.032678
+>>>>>>> cbb99bcc (Bump version number. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -10,5 +14,10 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Sep-26 18:48:32.063113
 Elapsed Time: 00:00:00.227217
+=======
+Finished Program: 2022-Sep-26 18:50:08.308332
+Elapsed Time: 00:00:00.275654
+>>>>>>> cbb99bcc (Bump version number. [linux-gnu-64bit])
