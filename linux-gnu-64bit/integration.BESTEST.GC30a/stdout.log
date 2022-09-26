@@ -1,22 +1,14 @@
 kiva v0.6.5 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-26 18:33:32.684923
-=======
-Starting Program: 2022-Sep-26 18:33:44.768866
->>>>>>> cf46c42f (Merge pull request #58 from bigladder/fix-convection-input)
+Starting Program: 2022-Sep-26 18:51:52.883724
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Sep-26 18:33:32.927006
-Elapsed Time: 00:00:00.242083
-=======
-Finished Program: 2022-Sep-26 18:33:45.001149
-Elapsed Time: 00:00:00.232283
->>>>>>> cf46c42f (Merge pull request #58 from bigladder/fix-convection-input)
+Finished Program: 2022-Sep-26 18:51:53.130976
+Elapsed Time: 00:00:00.247252
