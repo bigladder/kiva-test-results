@@ -1,7 +1,7 @@
-kiva v0.6.4+fix-regression-test.42164bf4.2 (windows-msvc-64bit)
+kiva v0.6.4+fix-regression-test.35f6058c.3 (windows-msvc-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2022-Sep-23 21:53:41.136661
+Starting Program: 2022-Sep-26 17:14:43.258876
 Creating Domain...
   X Cells: 36
   Y Cells: 1
@@ -9,7 +9,7 @@ Creating Domain...
   Total Cells: 576
 Initializing Temperatures...
 Beginning Simulation...
-  2100-Aug-15 05:00:00 (62%)
+  2100-May-23 22:00:00 (39.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-23 21:53:42.183857
-Elapsed Time: 00:00:01.047196
+Finished Program: 2022-Sep-26 17:14:44.290629
+Elapsed Time: 00:00:01.031753
