@@ -1,11 +1,7 @@
-kiva v0.6.4+develop.775d8ed0.4 (mac-appleclang-64bit)
+kiva v0.6.4+develop.81fa8aed.8 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-26 17:34:56.299321
-=======
-Starting Program: 2022-Sep-26 17:35:13.280566
->>>>>>> 7dbe8544 (Merge pull request #57 from bigladder/fix-regression-test)
+Starting Program: 2022-Sep-26 18:02:03.388759
 Creating Domain...
   X Cells: 42
   Y Cells: 1
@@ -13,14 +9,7 @@ Creating Domain...
   Total Cells: 672
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Jun-10 00:00:00 (43.8%)
+  2100-Apr-09 02:00:00 (26.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 17:34:57.321834
-Elapsed Time: 00:00:01.022513
-=======
-  2100-Jun-12 15:00:00 (44.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 17:35:14.326512
-Elapsed Time: 00:00:01.045946
->>>>>>> 7dbe8544 (Merge pull request #57 from bigladder/fix-regression-test)
+Finished Program: 2022-Sep-26 18:02:04.425496
+Elapsed Time: 00:00:01.036737
