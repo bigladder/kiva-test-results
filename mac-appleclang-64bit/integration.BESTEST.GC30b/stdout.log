@@ -1,13 +1,23 @@
 kiva v0.6.4+develop.775d8ed0.4 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-26 17:34:50.200612
+=======
+Starting Program: 2022-Sep-26 17:35:06.793779
+>>>>>>> 7dbe8544 (Merge pull request #57 from bigladder/fix-regression-test)
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Sep-26 17:34:50.425172
 Elapsed Time: 00:00:00.224560
+=======
+Finished Program: 2022-Sep-26 17:35:07.097616
+Elapsed Time: 00:00:00.303837
+>>>>>>> 7dbe8544 (Merge pull request #57 from bigladder/fix-regression-test)
