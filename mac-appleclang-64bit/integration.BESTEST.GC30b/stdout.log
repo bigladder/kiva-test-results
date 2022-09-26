@@ -1,13 +1,23 @@
 kiva v0.6.4+fix-convection-input.43ff12ab.7 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-26 17:39:06.942308
+=======
+Starting Program: 2022-Sep-26 17:41:20.794217
+>>>>>>> 486b9844 (Merge remote-tracking branch 'origin/develop' into fix-convection-input [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2022-Sep-26 17:39:07.257155
 Elapsed Time: 00:00:00.314847
+=======
+Finished Program: 2022-Sep-26 17:41:21.029794
+Elapsed Time: 00:00:00.235577
+>>>>>>> 486b9844 (Merge remote-tracking branch 'origin/develop' into fix-convection-input [mac-appleclang-64bit])
