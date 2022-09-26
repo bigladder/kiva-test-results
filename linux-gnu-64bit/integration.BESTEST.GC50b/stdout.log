@@ -1,28 +1,15 @@
-kiva v0.6.4+develop.81fa8aed.8 (linux-gnu-64bit)
+kiva v0.6.5+develop.88a76625.1 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-26 17:59:03.196688
-=======
-Starting Program: 2022-Sep-26 18:00:13.881841
->>>>>>> 01c042e9 (Merge pull request #58 from bigladder/fix-convection-input)
+Starting Program: 2022-Sep-26 18:48:36.755174
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
-<<<<<<< HEAD
+  2099-Jun-07 19:00:00
 Beginning Simulation...
-  2100-Oct-01 09:00:00 (74.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 17:59:04.117071
-Elapsed Time: 00:00:00.920383
-=======
-  2099-Jan-17 07:00:00
-Beginning Simulation...
-  2100-Dec-16 02:00:00 (95.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 18:00:15.025933
-Elapsed Time: 00:00:01.144092
->>>>>>> 01c042e9 (Merge pull request #58 from bigladder/fix-convection-input)
+Finished Program: 2022-Sep-26 18:48:37.670445
+Elapsed Time: 00:00:00.915271
