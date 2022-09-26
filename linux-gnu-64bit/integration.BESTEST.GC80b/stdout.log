@@ -1,7 +1,11 @@
 kiva v0.6.4+fix-regression-test.35f6058c.3 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2022-Sep-26 17:09:39.215493
+=======
+Starting Program: 2022-Sep-26 17:10:46.023421
+>>>>>>> 30680f88 (Clean up decrement loops. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Jul-03 18:00:00 (50.3%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2022-Sep-26 17:09:40.250017
 Elapsed Time: 00:00:01.034524
+=======
+  2100-Sep-23 06:00:00 (72.7%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2022-Sep-26 17:10:47.167545
+Elapsed Time: 00:00:01.144124
+>>>>>>> 30680f88 (Clean up decrement loops. [linux-gnu-64bit])
