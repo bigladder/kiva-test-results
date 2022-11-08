@@ -1,23 +1,13 @@
-kiva v0.6.5+develop.88a76625.1 (linux-gnu-64bit)
+kiva v0.6.5 (linux-gnu-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-26 18:48:30.905155
-=======
-Starting Program: 2022-Sep-26 18:50:06.966102
->>>>>>> cbb99bcc (Bump version number. [linux-gnu-64bit])
+Starting Program: 2022-Nov-08 16:15:11.727695
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2022-Sep-26 18:48:31.144106
-Elapsed Time: 00:00:00.238951
-=======
-Finished Program: 2022-Sep-26 18:50:07.223524
-Elapsed Time: 00:00:00.257422
->>>>>>> cbb99bcc (Bump version number. [linux-gnu-64bit])
+Finished Program: 2022-Nov-08 16:15:11.969906
+Elapsed Time: 00:00:00.242211
