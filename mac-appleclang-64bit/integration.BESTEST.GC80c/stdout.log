@@ -1,26 +1,16 @@
-kiva v0.6.5+develop.88a76625.1 (mac-appleclang-64bit)
+kiva v0.6.5 (mac-appleclang-64bit)
 Copyright (C) 2012-2022 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2022-Sep-26 18:51:45.403614
-=======
-Starting Program: 2022-Sep-26 18:53:30.756691
->>>>>>> bed1dcfd (Bump version number. [mac-appleclang-64bit])
+Starting Program: 2022-Nov-08 16:16:16.760015
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-Jul-04 23:00:00
+  2099-Apr-09 15:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-May-07 05:00:00 (34.6%)
+  2100-Jul-21 02:00:00 (55.1%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 18:51:46.349993
-Elapsed Time: 00:00:00.946379
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2022-Sep-26 18:53:31.718730
-Elapsed Time: 00:00:00.962039
->>>>>>> bed1dcfd (Bump version number. [mac-appleclang-64bit])
+Finished Program: 2022-Nov-08 16:16:18.751640
+Elapsed Time: 00:00:01.991625
