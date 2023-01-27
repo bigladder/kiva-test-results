@@ -1,13 +1,14 @@
-kiva v0.6.5+develop.f431754c.2 (windows-msvc-64bit)
+kiva v0.6.5+cleanup-ci.f431754c.2 (windows-msvc-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Jan-27 15:22:31.087554
+Starting Program: 2023-Jan-27 18:08:56.720904
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2023-Jan-27 15:22:31.368887
-Elapsed Time: 00:00:00.281333
+Finished Program: 2023-Jan-27 18:08:57.002156
+Elapsed Time: 00:00:00.281252
