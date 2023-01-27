@@ -1,15 +1,27 @@
 kiva v0.6.5+cleanup-ci.f431754c.2 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jan-27 18:04:05.682876
+=======
+Starting Program: 2023-Jan-27 18:05:36.890227
+>>>>>>> 3c5ed989 (Merge pull request #59 from jmarrec/performance-for-range-copy)
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
+<<<<<<< HEAD
   2099-Aug-19 16:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Jan-27 18:04:06.575790
 Elapsed Time: 00:00:00.892914
+=======
+  2099-Jan-22 01:00:00
+Beginning Simulation...
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jan-27 18:05:37.825130
+Elapsed Time: 00:00:00.934903
+>>>>>>> 3c5ed989 (Merge pull request #59 from jmarrec/performance-for-range-copy)
