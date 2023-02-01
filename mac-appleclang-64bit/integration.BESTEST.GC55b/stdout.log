@@ -1,11 +1,7 @@
-kiva v0.6.5+cleanup-ci.d8e03ad0.17 (mac-appleclang-64bit)
+kiva v0.6.5+cleanup-ci.fa402cb8.19 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-01 18:33:30.618471
-=======
-Starting Program: 2023-Feb-01 18:34:07.549245
->>>>>>> e6e56b37 (Add flag management. [mac-appleclang-64bit])
+Starting Program: 2023-Feb-01 19:54:34.595740
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,14 +9,7 @@ Creating Domain...
   Total Cells: 418
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Feb-28 11:00:00 (16%)
+  2100-Apr-19 23:00:00 (29.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 18:33:31.358562
-Elapsed Time: 00:00:00.740091
-=======
-  2100-Mar-23 05:00:00 (22.2%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 18:34:08.341286
-Elapsed Time: 00:00:00.792041
->>>>>>> e6e56b37 (Add flag management. [mac-appleclang-64bit])
+Finished Program: 2023-Feb-01 19:54:35.282928
+Elapsed Time: 00:00:00.687188
