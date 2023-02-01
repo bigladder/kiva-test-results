@@ -1,7 +1,11 @@
 kiva v0.6.5+cleanup-ci.c40e50de.16 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Feb-01 17:11:23.642008
+=======
+Starting Program: 2023-Feb-01 17:13:08.026492
+>>>>>>> e3bbe6d4 (Bump action versions for node compatibility. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -11,5 +15,10 @@ Initializing Temperatures...
   2099-Dec-21 11:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Feb-01 17:11:24.508468
 Elapsed Time: 00:00:00.866460
+=======
+Finished Program: 2023-Feb-01 17:13:08.833707
+Elapsed Time: 00:00:00.807215
+>>>>>>> e3bbe6d4 (Bump action versions for node compatibility. [mac-appleclang-64bit])
