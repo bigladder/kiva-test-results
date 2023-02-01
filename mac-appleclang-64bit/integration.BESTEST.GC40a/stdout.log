@@ -1,15 +1,26 @@
 kiva v0.6.5+cleanup-ci.80fd6257.12 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Feb-01 15:58:37.324249
+=======
+Starting Program: 2023-Feb-01 16:03:32.373044
+>>>>>>> 8125b181 (Fix git branch env variable name. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Initializing Temperatures...
+  2099-Dec-13 01:00:00
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Mar-03 04:00:00 (16.8%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Feb-01 15:58:38.510392
 Elapsed Time: 00:00:01.186143
+=======
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Feb-01 16:03:33.777371
+Elapsed Time: 00:00:01.404327
+>>>>>>> 8125b181 (Fix git branch env variable name. [mac-appleclang-64bit])
