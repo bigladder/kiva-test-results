@@ -1,27 +1,15 @@
-kiva v0.6.5+cleanup-ci.f431754c.2 (linux-gnu-64bit)
+kiva v0.6.5+cleanup-ci.80fd6257.12 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jan-27 18:04:06.655302
-=======
-Starting Program: 2023-Jan-27 18:05:37.920405
->>>>>>> 3c5ed989 (Merge pull request #59 from jmarrec/performance-for-range-copy)
+Starting Program: 2023-Feb-01 15:54:26.730693
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Sep-15 00:00:00
+  2099-Jul-18 10:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jan-27 18:04:07.549157
-Elapsed Time: 00:00:00.893855
-=======
-  2098-Oct-15 23:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jan-27 18:05:38.858550
-Elapsed Time: 00:00:00.938145
->>>>>>> 3c5ed989 (Merge pull request #59 from jmarrec/performance-for-range-copy)
+Finished Program: 2023-Feb-01 15:54:27.574280
+Elapsed Time: 00:00:00.843587
