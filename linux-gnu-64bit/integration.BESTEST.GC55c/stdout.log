@@ -1,15 +1,26 @@
 kiva v0.6.5+cleanup-ci.fa402cb8.19 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Feb-01 19:51:23.628980
+=======
+Starting Program: 2023-Feb-01 19:51:36.829093
+>>>>>>> 9822abd7 (Fix functionalities syntax. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 13
   Total Cells: 481
 Initializing Temperatures...
+  2099-May-19 17:00:00
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Jan-19 12:00:00 (5.1%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Feb-01 19:51:24.318225
 Elapsed Time: 00:00:00.689245
+=======
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Feb-01 19:51:37.517472
+Elapsed Time: 00:00:00.688379
+>>>>>>> 9822abd7 (Fix functionalities syntax. [linux-gnu-64bit])
