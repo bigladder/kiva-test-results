@@ -1,17 +1,17 @@
-kiva v0.6.5+cleanup-ci.f431754c.2 (mac-appleclang-64bit)
+kiva v0.6.5+cleanup-ci.80fd6257.12 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Jan-27 18:07:46.009639
+Starting Program: 2023-Feb-01 15:58:27.548071
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
-  2014-Sep-13 07:00:00
+  2014-Mar-23 03:00:00
+  2014-Dec-28 03:00:00
 Beginning Simulation...
-  2015-Feb-16 18:00:00 (12.8%)
-  2015-Oct-18 08:00:00 (79.5%)
+  2015-Aug-07 12:00:00 (59.9%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jan-27 18:07:49.307337
-Elapsed Time: 00:00:03.297698
+Finished Program: 2023-Feb-01 15:58:30.723524
+Elapsed Time: 00:00:03.175453
