@@ -1,26 +1,15 @@
-kiva v0.6.5+cleanup-ci.80fd6257.12 (linux-gnu-64bit)
+kiva v0.6.5+cleanup-ci.d6c46810.15 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-01 15:54:21.809194
-=======
-Starting Program: 2023-Feb-01 15:54:41.395068
->>>>>>> 3cd72191 (Fix git branch env variable name. [linux-gnu-64bit])
+Starting Program: 2023-Feb-01 16:42:36.590909
 Creating Domain...
   X Cells: 36
   Y Cells: 1
   Z Cells: 16
   Total Cells: 576
 Initializing Temperatures...
-  2099-May-08 02:00:00
 Beginning Simulation...
-<<<<<<< HEAD
+  2100-Jan-01 14:00:00 (0.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 15:54:22.607829
-Elapsed Time: 00:00:00.798635
-=======
-  2100-Jul-05 16:00:00 (50.9%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 15:54:42.196606
-Elapsed Time: 00:00:00.801538
->>>>>>> 3cd72191 (Fix git branch env variable name. [linux-gnu-64bit])
+Finished Program: 2023-Feb-01 16:42:37.390638
+Elapsed Time: 00:00:00.799729
