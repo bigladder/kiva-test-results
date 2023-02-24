@@ -1,18 +1,26 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Start testing: Feb 24 23:55 UTC
 =======
 Start testing: Feb 24 23:56 UTC
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+Start testing: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 1/44 Testing: integration.example.slab
 1/44 Test: integration.example.slab
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/examples/slab.yaml" "/home/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
 <<<<<<< HEAD
+<<<<<<< HEAD
 "integration.example.slab" start time: Feb 24 23:55 UTC
 =======
 "integration.example.slab" start time: Feb 24 23:56 UTC
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+"integration.example.slab" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -28,6 +36,7 @@ run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab
 - contents:
 <<<<<<< HEAD
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -39,17 +48,26 @@ Test time =   2.22 sec
 Test Passed.
 "integration.example.slab" end time: Feb 24 23:55 UTC
 =======
+=======
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.44 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Feb 24 23:56 UTC
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+Test time =   2.38 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.example.slab" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -58,10 +76,14 @@ Test Passed.
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/examples/basement.yaml" "/home/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
 <<<<<<< HEAD
+<<<<<<< HEAD
 "integration.example.basement" start time: Feb 24 23:55 UTC
 =======
 "integration.example.basement" start time: Feb 24 23:56 UTC
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+"integration.example.basement" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -76,6 +98,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -101,6 +124,19 @@ Test Passed.
 "integration.example.basement" end time: Feb 24 23:56 UTC
 "integration.example.basement" time elapsed: 00:00:03
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   3.10 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Feb 24 23:58 UTC
+"integration.example.basement" time elapsed: 00:00:03
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
@@ -108,10 +144,14 @@ Test Passed.
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/examples/crawlspace.yaml" "/home/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
 <<<<<<< HEAD
+<<<<<<< HEAD
 "integration.example.crawlspace" start time: Feb 24 23:55 UTC
 =======
 "integration.example.crawlspace" start time: Feb 24 23:56 UTC
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+"integration.example.crawlspace" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -126,6 +166,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -146,6 +187,18 @@ Test time =   2.95 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.87 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.crawlspace" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.example.crawlspace" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -153,7 +206,11 @@ Test Passed.
 4/44 Test: integration.BESTEST.GC10a
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC10a" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC10a" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -168,6 +225,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -188,6 +246,18 @@ Test time =   0.33 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC10a" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC10a" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -195,7 +265,11 @@ Test Passed.
 5/44 Test: integration.BESTEST.GC30a
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30a" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC30a" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -210,6 +284,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -230,6 +305,18 @@ Test time =   0.33 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30a" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -237,7 +324,11 @@ Test Passed.
 6/44 Test: integration.BESTEST.GC30b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC30b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -252,6 +343,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -269,6 +361,18 @@ Test time =   0.34 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -276,7 +380,11 @@ Test Passed.
 7/44 Test: integration.BESTEST.GC30c
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30c" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC30c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -291,6 +399,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -308,6 +417,18 @@ Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30c" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -315,7 +436,11 @@ Test Passed.
 8/44 Test: integration.BESTEST.GC40a
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40a" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC40a" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -330,6 +455,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -350,6 +476,18 @@ Test time =   1.17 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.10 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -357,7 +495,11 @@ Test Passed.
 9/44 Test: integration.BESTEST.GC40b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC40b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -372,6 +514,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -397,13 +540,30 @@ Test Passed.
 "integration.BESTEST.GC40b" end time: Feb 24 23:56 UTC
 "integration.BESTEST.GC40b" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40b" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC40b" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 10/44 Testing: integration.BESTEST.GC40c
 10/44 Test: integration.BESTEST.GC40c
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40c" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC40c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -418,6 +578,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -443,13 +604,30 @@ Test Passed.
 "integration.BESTEST.GC40c" end time: Feb 24 23:56 UTC
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.95 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC40c" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 11/44 Testing: integration.BESTEST.GC45b
 11/44 Test: integration.BESTEST.GC45b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC45b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -464,6 +642,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -486,13 +665,30 @@ Test Passed.
 =======
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.96 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC45b" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 12/44 Testing: integration.BESTEST.GC45c
 12/44 Test: integration.BESTEST.GC45c
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45c" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC45c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -507,6 +703,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -532,13 +729,30 @@ Test Passed.
 "integration.BESTEST.GC45c" end time: Feb 24 23:56 UTC
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.93 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC45c" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 13/44 Testing: integration.BESTEST.GC50b
 13/44 Test: integration.BESTEST.GC50b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC50b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC50b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -553,6 +767,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -573,6 +788,18 @@ Test time =   1.09 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC50b" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   1.06 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -580,7 +807,11 @@ Test Passed.
 14/44 Test: integration.BESTEST.GC55b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC55b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -595,6 +826,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -612,6 +844,18 @@ Test time =   0.78 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.72 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -619,7 +863,11 @@ Test Passed.
 15/44 Test: integration.BESTEST.GC55c
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55c" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC55c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -634,6 +882,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -654,6 +903,18 @@ Test time =   0.86 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -661,7 +922,11 @@ Test Passed.
 16/44 Test: integration.BESTEST.GC60b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC60b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC60b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -676,6 +941,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -696,6 +962,18 @@ Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC60b" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC60b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -703,7 +981,11 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC65b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC65b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -718,6 +1000,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -738,6 +1021,18 @@ Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC65b" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC65b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -745,7 +1040,11 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC70b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC70b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -760,6 +1059,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -785,13 +1085,30 @@ Test Passed.
 "integration.BESTEST.GC70b" end time: Feb 24 23:56 UTC
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC70b" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 19/44 Testing: integration.BESTEST.GC80b
 19/44 Test: integration.BESTEST.GC80b
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80b" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC80b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -806,6 +1123,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -831,13 +1149,30 @@ Test Passed.
 "integration.BESTEST.GC80b" end time: Feb 24 23:56 UTC
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Feb 24 23:58 UTC
+"integration.BESTEST.GC80b" time elapsed: 00:00:00
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 ----------------------------------------------------------
 
 20/44 Testing: integration.BESTEST.GC80c
 20/44 Test: integration.BESTEST.GC80c
 Command: "/opt/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/home/runner/work/kiva/kiva/build/kiva" "/home/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/home/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /home/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80c" start time: Feb 24 23:56 UTC
+=======
+"integration.BESTEST.GC80c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -852,6 +1187,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c
 - contents:
+<<<<<<< HEAD
 <<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
@@ -872,6 +1208,18 @@ Test time =   0.97 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Feb 24 23:56 UTC
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/src"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.95 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "integration.BESTEST.GC80c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -879,7 +1227,11 @@ Test Passed.
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateADI" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -888,11 +1240,11 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateADI (13 ms)
-[----------] 1 test from GC10aFixture (13 ms total)
+[       OK ] GC10aFixture.calculateADI (14 ms)
+[----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
+<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (13 ms total)
 =======
 [       OK ] GC10aFixture.calculateADI (14 ms)
@@ -901,12 +1253,19 @@ Note: 2607.32
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+[==========] 1 test from 1 test suite ran. (14 ms total)
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" end time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateADI" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -914,7 +1273,11 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateImplicit" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -923,6 +1286,7 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 <<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (243 ms)
 [----------] 1 test from GC10aFixture (243 ms total)
@@ -945,6 +1309,19 @@ Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateImplicit" end time: Feb 24 23:56 UTC
+=======
+[       OK ] GC10aFixture.calculateImplicit (241 ms)
+[----------] 1 test from GC10aFixture (241 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (241 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateImplicit" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -952,7 +1329,11 @@ Test Passed.
 23/44 Test: unit.GC10aFixture.calculateCrankN
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateCrankN" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateCrankN
@@ -961,11 +1342,11 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateCrankN (237 ms)
-[----------] 1 test from GC10aFixture (237 ms total)
+[       OK ] GC10aFixture.calculateCrankN (236 ms)
+[----------] 1 test from GC10aFixture (236 ms total)
 
 [----------] Global test environment tear-down
+<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (238 ms total)
 =======
 [       OK ] GC10aFixture.calculateCrankN (252 ms)
@@ -974,12 +1355,19 @@ Note: 2600.87
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (252 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+[==========] 1 test from 1 test suite ran. (236 ms total)
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.24 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateCrankN" end time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -987,7 +1375,11 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateADE" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -996,6 +1388,7 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 <<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (9 ms)
 [----------] 1 test from GC10aFixture (9 ms total)
@@ -1009,12 +1402,23 @@ Note: 2615.19
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (13 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+[       OK ] GC10aFixture.calculateADE (10 ms)
+[----------] 1 test from GC10aFixture (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" end time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calculateADE" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1022,7 +1426,11 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -1031,6 +1439,7 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 <<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (273 ms)
 [----------] 1 test from GC10aFixture (273 ms total)
@@ -1049,6 +1458,19 @@ Test time =   0.29 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Feb 24 23:56 UTC
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (264 ms)
+[----------] 1 test from GC10aFixture (264 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (264 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1056,7 +1478,11 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calcCellADI" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -1064,17 +1490,29 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellADI
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellADI (16 ms)
 [----------] 1 test from GC10aFixture (16 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (16 ms total)
+=======
+[       OK ] GC10aFixture.calcCellADI (14 ms)
+[----------] 1 test from GC10aFixture (14 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (14 ms total)
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" end time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calcCellADI" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1082,7 +1520,11 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -1090,6 +1532,7 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (253 ms)
 [----------] 1 test from GC10aFixture (253 ms total)
 
@@ -1101,6 +1544,19 @@ Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrix" end time: Feb 24 23:56 UTC
+=======
+[       OK ] GC10aFixture.calcCellMatrix (240 ms)
+[----------] 1 test from GC10aFixture (240 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (240 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellMatrix" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1108,7 +1564,11 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" start time: Feb 24 23:56 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -1116,6 +1576,7 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (280 ms)
 [----------] 1 test from GC10aFixture (280 ms total)
 
@@ -1209,6 +1670,19 @@ Test Passed.
 =======
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
 "unit.GC10aFixture.calcCellMatrixSS" end time: Feb 24 23:56 UTC
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (264 ms)
+[----------] 1 test from GC10aFixture (264 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (264 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calcCellMatrixSS" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1216,7 +1690,11 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC10a" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -1227,7 +1705,11 @@ Note: Google Test filter = BESTESTFixture.GC10a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC10a" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1235,7 +1717,11 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30a" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -1253,7 +1739,11 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30a" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1261,7 +1751,11 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -1279,7 +1773,11 @@ Note: Google Test filter = BESTESTFixture.GC30b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1287,7 +1785,11 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30c" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -1299,17 +1801,23 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] 1 test from BESTESTFixture (1 ms total)
 
 [----------] Global test environment tear-down
-<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (1 ms total)
+<<<<<<< HEAD
 =======
 [==========] 1 test from 1 test suite ran. (2 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC30c" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1317,7 +1825,11 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC60b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -1326,12 +1838,17 @@ Note: Google Test filter = BESTESTFixture.GC60b
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC60b
 <<<<<<< HEAD
+<<<<<<< HEAD
 [       OK ] BESTESTFixture.GC60b (3 ms)
 [----------] 1 test from BESTESTFixture (3 ms total)
 =======
 [       OK ] BESTESTFixture.GC60b (2 ms)
 [----------] 1 test from BESTESTFixture (2 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+[       OK ] BESTESTFixture.GC60b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (3 ms total)
@@ -1340,7 +1857,11 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC60b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1348,7 +1869,11 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC65b" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -1366,7 +1891,11 @@ Note: Google Test filter = BESTESTFixture.GC65b
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.GC65b" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1374,7 +1903,11 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.1D" start time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.1D" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -1392,7 +1925,11 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.1D" end time: Feb 24 23:56 UTC
+=======
+"unit.BESTEST.1D" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1400,7 +1937,11 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" start time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.domain_basics" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -1410,7 +1951,10 @@ Note: Google Test filter = DomainFixture.domain_basics
 [ RUN      ] DomainFixture.domain_basics
 [       OK ] DomainFixture.domain_basics (1 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
@@ -1420,7 +1964,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" end time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.domain_basics" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1428,7 +1976,11 @@ Test Passed.
 37/44 Test: unit.DomainFixture.surface_indices
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" start time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.surface_indices" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_indices
@@ -1447,6 +1999,7 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 <<<<<<< HEAD
 "unit.DomainFixture.domain_basics" end time: Feb 24 23:56 UTC
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
@@ -1490,6 +2043,9 @@ Test time =   0.00 sec
 Test Passed.
 <<<<<<< HEAD
 "unit.DomainFixture.surface_indices" end time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.surface_indices" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1497,7 +2053,11 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" start time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.surface_tilt" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -1515,9 +2075,13 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 =======
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
 "unit.DomainFixture.surface_tilt" end time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.surface_tilt" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1525,7 +2089,11 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" start time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.cell_vector" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -1543,7 +2111,11 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" end time: Feb 24 23:56 UTC
+=======
+"unit.DomainFixture.cell_vector" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1551,7 +2123,11 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" start time: Feb 24 23:56 UTC
+=======
+"unit.CellFixture.cell_basics" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -1569,7 +2145,11 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" end time: Feb 24 23:56 UTC
+=======
+"unit.CellFixture.cell_basics" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1577,7 +2157,11 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" start time: Feb 24 23:56 UTC
+=======
+"unit.AggregatorFixture.validation" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -1586,12 +2170,12 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
-<<<<<<< HEAD
 [       OK ] AggregatorFixture.validation (13 ms)
 [----------] 1 test from AggregatorFixture (13 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (13 ms total)
+<<<<<<< HEAD
 =======
 [       OK ] AggregatorFixture.validation (16 ms)
 [----------] 1 test from AggregatorFixture (16 ms total)
@@ -1599,12 +2183,18 @@ Warning: The weights of associated Kiva instances do not quite add to unity--che
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (16 ms total)
 >>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
+=======
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" end time: Feb 24 23:56 UTC
+=======
+"unit.AggregatorFixture.validation" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1612,7 +2202,11 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" start time: Feb 24 23:56 UTC
+=======
+"unit.TypicalFixture.convectionCallback" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1630,7 +2224,11 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" end time: Feb 24 23:56 UTC
+=======
+"unit.TypicalFixture.convectionCallback" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1638,7 +2236,11 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" start time: Feb 24 23:56 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1656,7 +2258,11 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" end time: Feb 24 23:56 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" end time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1664,7 +2270,11 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/home/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /home/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" start time: Feb 24 23:56 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" start time: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1682,8 +2292,16 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" end time: Feb 24 23:56 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 End testing: Feb 24 23:56 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" end time: Feb 24 23:58 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 24 23:58 UTC
+>>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
