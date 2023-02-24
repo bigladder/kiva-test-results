@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -13,6 +14,12 @@ Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2023-Feb-24 23:58:19.489210
 >>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
+=======
+kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Feb-24 23:58:42.491188
+>>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -20,6 +27,7 @@ Creating Domain...
   Total Cells: 481
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2100-Aug-22 14:00:00 (64%)
   2100-Dec-31 23:00:00 (100%)
@@ -36,3 +44,9 @@ Elapsed Time: 00:00:00.768972
 Finished Program: 2023-Feb-24 23:58:20.218702
 Elapsed Time: 00:00:00.729492
 >>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
+=======
+  2100-Jun-24 12:00:00 (47.8%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Feb-24 23:58:43.177082
+Elapsed Time: 00:00:00.685894
+>>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
