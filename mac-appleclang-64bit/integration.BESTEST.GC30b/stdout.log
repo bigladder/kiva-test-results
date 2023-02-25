@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2023-Feb-25 00:00:13.742638
+=======
+kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (mac-appleclang-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Feb-25 00:00:22.959585
+>>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,5 +16,10 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Feb-25 00:00:13.971557
 Elapsed Time: 00:00:00.228919
+=======
+Finished Program: 2023-Feb-25 00:00:23.185699
+Elapsed Time: 00:00:00.226114
+>>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
