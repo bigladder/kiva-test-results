@@ -1,15 +1,30 @@
+<<<<<<< HEAD
 kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (windows-msvc-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2023-Feb-25 00:00:19.791971
+=======
+kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (windows-msvc-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Feb-25 00:03:18.751532
+>>>>>>> ec3b2a4bf (Fix wall area calculations. [windows-msvc-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
+<<<<<<< HEAD
   2099-Mar-11 14:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Feb-25 00:00:20.839536
 Elapsed Time: 00:00:01.047565
+=======
+  2099-Apr-01 17:00:00
+Beginning Simulation...
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Feb-25 00:03:19.799076
+Elapsed Time: 00:00:01.047544
+>>>>>>> ec3b2a4bf (Fix wall area calculations. [windows-msvc-64bit])
