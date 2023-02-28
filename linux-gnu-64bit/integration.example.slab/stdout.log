@@ -1,29 +1,16 @@
-kiva v0.6.5+develop.22b700d5.20 (linux-gnu-64bit)
+kiva v0.6.5+add-cmake-flag-to-executable.7f1a023e.22 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-01 21:22:31.499747
-=======
-Starting Program: 2023-Feb-01 21:24:09.289110
->>>>>>> c55bf023d (Merge pull request #60 from bigladder/cleanup-ci)
+Starting Program: 2023-Feb-28 15:09:12.277696
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
-<<<<<<< HEAD
-  2014-May-30 17:00:00
+  2014-Sep-04 04:00:00
 Beginning Simulation...
-  2015-May-31 17:00:00 (41.3%)
+  2015-Sep-17 11:00:00 (71.1%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 21:22:33.621645
-Elapsed Time: 00:00:02.121898
-=======
-  2014-Jul-02 22:00:00
-Beginning Simulation...
-  2015-Apr-23 01:00:00 (30.7%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 21:24:11.931377
-Elapsed Time: 00:00:02.642267
->>>>>>> c55bf023d (Merge pull request #60 from bigladder/cleanup-ci)
+Finished Program: 2023-Feb-28 15:09:14.294664
+Elapsed Time: 00:00:02.016968
