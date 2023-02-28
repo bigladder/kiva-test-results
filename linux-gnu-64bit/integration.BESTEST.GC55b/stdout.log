@@ -1,7 +1,11 @@
 kiva v0.6.5+add-cmake-flag-to-executable.7f1a023e.22 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Feb-28 15:09:26.262948
+=======
+Starting Program: 2023-Feb-28 15:09:29.619698
+>>>>>>> eb4493cbb (Add CMake runtime library. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,6 +13,13 @@ Creating Domain...
   Total Cells: 418
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Feb-28 15:09:26.836828
 Elapsed Time: 00:00:00.573880
+=======
+  2100-Mar-24 14:00:00 (22.6%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Feb-28 15:09:30.231394
+Elapsed Time: 00:00:00.611696
+>>>>>>> eb4493cbb (Add CMake runtime library. [linux-gnu-64bit])
