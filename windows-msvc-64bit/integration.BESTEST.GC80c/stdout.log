@@ -1,15 +1,14 @@
-kiva v0.6.5+develop.22b700d5.20 (windows-msvc-64bit)
+kiva v0.6.5+add-cmake-flag-to-executable.7f1a023e.22 (windows-msvc-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Feb-01 21:28:04.699265
+Starting Program: 2023-Feb-28 15:16:23.991609
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-May-16 01:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-01 21:28:05.777474
-Elapsed Time: 00:00:01.078209
+Finished Program: 2023-Feb-28 15:16:24.913706
+Elapsed Time: 00:00:00.922097
