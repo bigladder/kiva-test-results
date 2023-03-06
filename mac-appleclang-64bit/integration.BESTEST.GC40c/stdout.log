@@ -1,60 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (mac-appleclang-64bit)
+kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:00:16.582988
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:00:25.792551
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:01:58.152901
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:04:44.820055
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+Starting Program: 2023-Mar-06 17:23:28.106517
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2099-Dec-09 19:00:00
 Beginning Simulation...
+  2100-Nov-16 05:00:00 (87.5%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-25 00:00:17.522404
-Elapsed Time: 00:00:00.939416
-=======
-  2099-Jun-02 15:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-25 00:00:26.701532
-Elapsed Time: 00:00:00.908981
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-Beginning Simulation...
-  2100-Jul-31 22:00:00 (58.1%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-25 00:01:59.268144
-Elapsed Time: 00:00:01.115243
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-  2099-Mar-27 22:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-25 00:04:45.879435
-Elapsed Time: 00:00:01.059380
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+Finished Program: 2023-Mar-06 17:23:29.064879
+Elapsed Time: 00:00:00.958362

@@ -1,50 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (mac-appleclang-64bit)
+kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:00:22.624251
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:00:31.616635
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:02:05.529087
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-25 00:04:51.867950
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+Starting Program: 2023-Mar-06 17:23:34.191073
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Finished Program: 2023-Feb-25 00:00:22.850164
-Elapsed Time: 00:00:00.225913
-=======
-Finished Program: 2023-Feb-25 00:00:31.838459
-Elapsed Time: 00:00:00.221824
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-Finished Program: 2023-Feb-25 00:02:05.829656
-Elapsed Time: 00:00:00.300569
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Finished Program: 2023-Feb-25 00:04:52.139877
-Elapsed Time: 00:00:00.271927
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+Finished Program: 2023-Mar-06 17:23:34.421749
+Elapsed Time: 00:00:00.230676

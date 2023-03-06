@@ -1,26 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Start testing: Feb 25 00:00 UTC
-=======
-Start testing: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Start testing: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+Start testing: Mar 06 17:23 UTC
 ----------------------------------------------------------
 1/44 Testing: integration.example.slab
 1/44 Test: integration.example.slab
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/slab.yaml" "/Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.example.slab" start time: Feb 25 00:00 UTC
-=======
-"integration.example.slab" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.example.slab" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.example.slab" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -41,46 +25,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   2.47 sec
-=======
-Test time =   2.42 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   2.59 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.slab" end time: Feb 25 00:00 UTC
+"integration.example.slab" end time: Mar 06 17:23 UTC
 "integration.example.slab" time elapsed: 00:00:02
-=======
-Test time =   3.20 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.slab" end time: Feb 25 00:01 UTC
-"integration.example.slab" time elapsed: 00:00:03
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   3.02 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.slab" end time: Feb 25 00:04 UTC
-"integration.example.slab" time elapsed: 00:00:03
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 2/44 Testing: integration.example.basement
 2/44 Test: integration.example.basement
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/basement.yaml" "/Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.example.basement" start time: Feb 25 00:00 UTC
-=======
-"integration.example.basement" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.example.basement" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.example.basement" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -101,50 +57,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   3.07 sec
+Test time =   3.05 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.basement" end time: Feb 25 00:00 UTC
+"integration.example.basement" end time: Mar 06 17:23 UTC
 "integration.example.basement" time elapsed: 00:00:03
-=======
-Test time =   2.86 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.basement" end time: Feb 25 00:00 UTC
-"integration.example.basement" time elapsed: 00:00:02
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-Test time =   3.59 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.basement" end time: Feb 25 00:01 UTC
-"integration.example.basement" time elapsed: 00:00:03
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   3.39 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.basement" end time: Feb 25 00:04 UTC
-"integration.example.basement" time elapsed: 00:00:03
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
 3/44 Test: integration.example.crawlspace
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/crawlspace.yaml" "/Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.example.crawlspace" start time: Feb 25 00:00 UTC
-=======
-"integration.example.crawlspace" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.example.crawlspace" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.example.crawlspace" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -165,46 +89,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   2.65 sec
-=======
-Test time =   2.59 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   2.70 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.example.crawlspace" end time: Feb 25 00:00 UTC
+"integration.example.crawlspace" end time: Mar 06 17:23 UTC
 "integration.example.crawlspace" time elapsed: 00:00:02
-=======
-Test time =   3.34 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.crawlspace" end time: Feb 25 00:01 UTC
-"integration.example.crawlspace" time elapsed: 00:00:03
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   3.15 sec
-----------------------------------------------------------
-Test Passed.
-"integration.example.crawlspace" end time: Feb 25 00:04 UTC
-"integration.example.crawlspace" time elapsed: 00:00:03
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 4/44 Testing: integration.BESTEST.GC10a
 4/44 Test: integration.BESTEST.GC10a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC10a" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC10a" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC10a" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC10a" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -225,28 +121,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.33 sec
-=======
-Test time =   0.32 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.34 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC10a" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.41 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC10a" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.40 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC10a" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC10a" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -254,15 +132,7 @@ Test Passed.
 5/44 Test: integration.BESTEST.GC30a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC30a" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC30a" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC30a" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30a" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -283,28 +153,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.36 sec
-=======
-Test time =   0.32 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30a" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.41 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30a" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.44 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30a" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30a" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -312,15 +164,7 @@ Test Passed.
 6/44 Test: integration.BESTEST.GC30b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC30b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC30b" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC30b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -341,24 +185,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.35 sec
+Test time =   0.37 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30b" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.44 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30b" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.42 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -366,15 +196,7 @@ Test Passed.
 7/44 Test: integration.BESTEST.GC30c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC30c" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC30c" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC30c" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -395,24 +217,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.34 sec
+Test time =   0.37 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC30c" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.42 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30c" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.41 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC30c" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC30c" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -420,15 +228,7 @@ Test Passed.
 8/44 Test: integration.BESTEST.GC40a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC40a" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC40a" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC40a" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40a" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -449,28 +249,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.12 sec
-=======
-Test time =   1.14 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.17 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40a" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.46 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40a" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.39 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40a" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40a" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -478,15 +260,7 @@ Test Passed.
 9/44 Test: integration.BESTEST.GC40b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC40b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC40b" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC40b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -507,28 +281,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.03 sec
-=======
-Test time =   1.01 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.09 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40b" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.32 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40b" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.23 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC40b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -536,15 +292,7 @@ Test Passed.
 10/44 Test: integration.BESTEST.GC40c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC40c" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC40c" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC40c" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -565,28 +313,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.06 sec
-=======
-Test time =   1.03 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.09 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC40c" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.27 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40c" end time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.22 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC40c" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC40c" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -594,15 +324,7 @@ Test Passed.
 11/44 Test: integration.BESTEST.GC45b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC45b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC45b" start time: Feb 25 00:01 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC45b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC45b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -623,28 +345,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.02 sec
-=======
-Test time =   1.01 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.09 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45b" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.27 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC45b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.22 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC45b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC45b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -652,15 +356,7 @@ Test Passed.
 12/44 Test: integration.BESTEST.GC45c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC45c" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC45c" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC45c" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC45c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -681,48 +377,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Test time =   1.03 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC45c" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.24 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC45c" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.16 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC45c" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC45c" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
-=======
-Test time =   0.99 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC45c" end time: Feb 25 00:00 UTC
-"integration.BESTEST.GC45c" time elapsed: 00:00:00
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 13/44 Testing: integration.BESTEST.GC50b
 13/44 Test: integration.BESTEST.GC50b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC50b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC50b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC50b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC50b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -743,28 +409,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.21 sec
-=======
-Test time =   1.11 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.14 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC50b" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.40 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC50b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.32 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC50b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC50b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -772,15 +420,7 @@ Test Passed.
 14/44 Test: integration.BESTEST.GC55b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC55b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC55b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC55b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC55b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -801,42 +441,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.81 sec
+Test time =   0.83 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55b" end time: Feb 25 00:00 UTC
+"integration.BESTEST.GC55b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
-=======
-Test time =   1.08 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC55b" end time: Feb 25 00:02 UTC
-"integration.BESTEST.GC55b" time elapsed: 00:00:01
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.01 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC55b" end time: Feb 25 00:04 UTC
-"integration.BESTEST.GC55b" time elapsed: 00:00:01
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 15/44 Testing: integration.BESTEST.GC55c
 15/44 Test: integration.BESTEST.GC55c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC55c" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC55c" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC55c" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC55c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -857,46 +473,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.90 sec
-=======
-Test time =   0.88 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.91 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC55c" end time: Feb 25 00:00 UTC
+"integration.BESTEST.GC55c" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
-=======
-Test time =   1.11 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC55c" end time: Feb 25 00:02 UTC
-"integration.BESTEST.GC55c" time elapsed: 00:00:01
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.12 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC55c" end time: Feb 25 00:04 UTC
-"integration.BESTEST.GC55c" time elapsed: 00:00:01
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 16/44 Testing: integration.BESTEST.GC60b
 16/44 Test: integration.BESTEST.GC60b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC60b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC60b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC60b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC60b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -917,28 +505,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.35 sec
-=======
-Test time =   0.34 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.36 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC60b" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.45 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC60b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.42 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC60b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC60b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -946,15 +516,7 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC65b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC65b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC65b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC65b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -975,28 +537,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   0.35 sec
-=======
-Test time =   0.34 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.40 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC65b" end time: Feb 25 00:00 UTC
-=======
-Test time =   0.44 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC65b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   0.44 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC65b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC65b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1004,15 +548,7 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC70b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC70b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC70b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC70b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -1033,28 +569,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.03 sec
-=======
-Test time =   1.02 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.06 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC70b" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.29 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC70b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.27 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC70b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC70b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -1062,15 +580,7 @@ Test Passed.
 19/44 Test: integration.BESTEST.GC80b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC80b" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC80b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC80b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC80b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -1091,28 +601,10 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Test time =   1.05 sec
-=======
-Test time =   1.03 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   1.06 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80b" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.31 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC80b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.24 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC80b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC80b" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -1120,15 +612,7 @@ Test Passed.
 20/44 Test: integration.BESTEST.GC80c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.7/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
-<<<<<<< HEAD
-<<<<<<< HEAD
-"integration.BESTEST.GC80c" start time: Feb 25 00:00 UTC
-=======
-"integration.BESTEST.GC80c" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"integration.BESTEST.GC80c" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC80c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -1149,48 +633,18 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
-"integration.BESTEST.GC80c" end time: Feb 25 00:00 UTC
-=======
-Test time =   1.29 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC80c" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-Test time =   1.22 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC80c" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"integration.BESTEST.GC80c" end time: Mar 06 17:23 UTC
 "integration.BESTEST.GC80c" time elapsed: 00:00:01
-=======
-Test time =   1.00 sec
-----------------------------------------------------------
-Test Passed.
-"integration.BESTEST.GC80c" end time: Feb 25 00:00 UTC
-"integration.BESTEST.GC80c" time elapsed: 00:00:00
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 21/44 Testing: unit.GC10aFixture.calculateADI
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calculateADI" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calculateADI" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calculateADI" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateADI" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -1199,45 +653,17 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
-<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADI (13 ms)
-[----------] 1 test from GC10aFixture (13 ms total)
+[----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
-<<<<<<< HEAD
-[==========] 1 test from 1 test suite ran. (13 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-<<<<<<< HEAD
-Test time =   0.15 sec
-=======
-Test time =   0.14 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateADI" end time: Feb 25 00:00 UTC
-=======
-[==========] 1 test from 1 test suite ran. (17 ms total)
+[==========] 1 test from 1 test suite ran. (14 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.15 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateADI" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calculateADI (16 ms)
-[----------] 1 test from GC10aFixture (16 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (16 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.15 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateADI" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateADI" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1245,15 +671,7 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calculateImplicit" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calculateImplicit" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calculateImplicit" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateImplicit" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -1262,27 +680,17 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateImplicit (185 ms)
-[----------] 1 test from GC10aFixture (185 ms total)
+[       OK ] GC10aFixture.calculateImplicit (193 ms)
+[----------] 1 test from GC10aFixture (193 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (185 ms total)
-=======
-[       OK ] GC10aFixture.calculateImplicit (180 ms)
-[----------] 1 test from GC10aFixture (180 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (180 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+[==========] 1 test from 1 test suite ran. (193 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.18 sec
+Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateImplicit" end time: Feb 25 00:00 UTC
+"unit.GC10aFixture.calculateImplicit" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1290,7 +698,7 @@ Test Passed.
 23/44 Test: unit.GC10aFixture.calculateCrankN
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.GC10aFixture.calculateCrankN" start time: Feb 25 00:00 UTC
+"unit.GC10aFixture.calculateCrankN" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateCrankN
@@ -1299,99 +707,17 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateCrankN (188 ms)
-[----------] 1 test from GC10aFixture (188 ms total)
+[       OK ] GC10aFixture.calculateCrankN (189 ms)
+[----------] 1 test from GC10aFixture (189 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (188 ms total)
+[==========] 1 test from 1 test suite ran. (189 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.19 sec
-=======
-[       OK ] GC10aFixture.calculateCrankN (175 ms)
-[----------] 1 test from GC10aFixture (175 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (175 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.18 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calculateCrankN" end time: Feb 25 00:00 UTC
-=======
-[       OK ] GC10aFixture.calculateImplicit (226 ms)
-[----------] 1 test from GC10aFixture (226 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (226 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.23 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateImplicit" end time: Feb 25 00:02 UTC
-=======
-[       OK ] GC10aFixture.calculateImplicit (227 ms)
-[----------] 1 test from GC10aFixture (227 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (227 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.23 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateImplicit" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-"unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
-----------------------------------------------------------
-
-23/44 Testing: unit.GC10aFixture.calculateCrankN
-23/44 Test: unit.GC10aFixture.calculateCrankN
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-"unit.GC10aFixture.calculateCrankN" start time: Feb 25 00:02 UTC
-=======
-"unit.GC10aFixture.calculateCrankN" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-Output:
-----------------------------------------------------------
-Note: Google Test filter = GC10aFixture.calculateCrankN
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from GC10aFixture
-[ RUN      ] GC10aFixture.calculateCrankN
-Note: 2600.87
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateCrankN (222 ms)
-[----------] 1 test from GC10aFixture (222 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (222 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.23 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateCrankN" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calculateCrankN (218 ms)
-[----------] 1 test from GC10aFixture (218 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (218 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.22 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calculateCrankN" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateCrankN" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1399,15 +725,7 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calculateADE" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calculateADE" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calculateADE" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateADE" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -1416,46 +734,17 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calculateADE (10 ms)
-[----------] 1 test from GC10aFixture (11 ms total)
-=======
-[       OK ] GC10aFixture.calculateADE (15 ms)
-[----------] 1 test from GC10aFixture (15 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+[       OK ] GC10aFixture.calculateADE (12 ms)
+[----------] 1 test from GC10aFixture (12 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (15 ms total)
-=======
-[       OK ] GC10aFixture.calculateADE (13 ms)
-[----------] 1 test from GC10aFixture (13 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (13 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calculateADE (19 ms)
-[----------] 1 test from GC10aFixture (19 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (19 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+[==========] 1 test from 1 test suite ran. (12 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calculateADE" end time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calculateADE" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calculateADE" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calculateADE" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1463,15 +752,7 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -1480,56 +761,17 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.GC10a_calculateSteadyState (204 ms)
-[----------] 1 test from GC10aFixture (204 ms total)
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (213 ms)
+[----------] 1 test from GC10aFixture (213 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (204 ms total)
+[==========] 1 test from 1 test suite ran. (213 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
-=======
-[       OK ] GC10aFixture.GC10a_calculateSteadyState (196 ms)
-[----------] 1 test from GC10aFixture (196 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (196 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.20 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.22 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Feb 25 00:00 UTC
-=======
-[       OK ] GC10aFixture.GC10a_calculateSteadyState (244 ms)
-[----------] 1 test from GC10aFixture (244 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (244 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.25 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.GC10a_calculateSteadyState (239 ms)
-[----------] 1 test from GC10aFixture (239 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (239 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.24 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1537,15 +779,7 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calcCellADI" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calcCellADI" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calcCellADI" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellADI" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -1553,49 +787,17 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellADI
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calcCellADI (13 ms)
-[----------] 1 test from GC10aFixture (13 ms total)
+[       OK ] GC10aFixture.calcCellADI (14 ms)
+[----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (13 ms total)
-=======
-[       OK ] GC10aFixture.calcCellADI (18 ms)
-[----------] 1 test from GC10aFixture (18 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (18 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
-[       OK ] GC10aFixture.calcCellADI (17 ms)
-[----------] 1 test from GC10aFixture (17 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (17 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calcCellADI (17 ms)
-[----------] 1 test from GC10aFixture (17 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (17 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+[==========] 1 test from 1 test suite ran. (14 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calcCellADI" end time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calcCellADI" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calcCellADI" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellADI" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1603,15 +805,7 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calcCellMatrix" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calcCellMatrix" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calcCellMatrix" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellMatrix" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -1619,56 +813,17 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calcCellMatrix (183 ms)
-[----------] 1 test from GC10aFixture (183 ms total)
+[       OK ] GC10aFixture.calcCellMatrix (193 ms)
+[----------] 1 test from GC10aFixture (193 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (183 ms total)
+[==========] 1 test from 1 test suite ran. (193 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
-=======
-[       OK ] GC10aFixture.calcCellMatrix (173 ms)
-[----------] 1 test from GC10aFixture (173 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (173 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.18 sec
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calcCellMatrix" end time: Feb 25 00:00 UTC
-=======
-[       OK ] GC10aFixture.calcCellMatrix (226 ms)
-[----------] 1 test from GC10aFixture (226 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (226 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.23 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calcCellMatrix" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calcCellMatrix (219 ms)
-[----------] 1 test from GC10aFixture (219 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (219 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.22 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calcCellMatrix" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellMatrix" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1676,15 +831,7 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.GC10aFixture.calcCellMatrixSS" start time: Feb 25 00:00 UTC
-=======
-"unit.GC10aFixture.calcCellMatrixSS" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.GC10aFixture.calcCellMatrixSS" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellMatrixSS" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -1692,53 +839,17 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] GC10aFixture.calcCellMatrixSS (207 ms)
-[----------] 1 test from GC10aFixture (207 ms total)
+[       OK ] GC10aFixture.calcCellMatrixSS (205 ms)
+[----------] 1 test from GC10aFixture (205 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (208 ms total)
-=======
-[       OK ] GC10aFixture.calcCellMatrixSS (193 ms)
-[----------] 1 test from GC10aFixture (193 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (193 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
+[==========] 1 test from 1 test suite ran. (205 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.20 sec
+Test time =   0.21 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.GC10aFixture.calcCellMatrixSS" end time: Feb 25 00:00 UTC
-=======
-[       OK ] GC10aFixture.calcCellMatrixSS (247 ms)
-[----------] 1 test from GC10aFixture (247 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (247 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.25 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calcCellMatrixSS" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] GC10aFixture.calcCellMatrixSS (237 ms)
-[----------] 1 test from GC10aFixture (237 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (237 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.24 sec
-----------------------------------------------------------
-Test Passed.
-"unit.GC10aFixture.calcCellMatrixSS" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.GC10aFixture.calcCellMatrixSS" end time: Mar 06 17:23 UTC
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1746,15 +857,7 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC10a" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC10a" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC10a" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC10a" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -1765,15 +868,7 @@ Note: Google Test filter = BESTESTFixture.GC10a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC10a" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC10a" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC10a" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC10a" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1781,15 +876,7 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC30a" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC30a" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC30a" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC30a" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -1797,33 +884,17 @@ Note: Google Test filter = BESTESTFixture.GC30a
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30a
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] BESTESTFixture.GC30a (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
-=======
-=======
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 [       OK ] BESTESTFixture.GC30a (3 ms)
 [----------] 1 test from BESTESTFixture (3 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC30a" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC30a" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC30a" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC30a" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1831,15 +902,7 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC30b" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC30b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC30b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC30b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -1847,85 +910,17 @@ Note: Google Test filter = BESTESTFixture.GC30b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30b
-<<<<<<< HEAD
-<<<<<<< HEAD
 [       OK ] BESTESTFixture.GC30b (2 ms)
 [----------] 1 test from BESTESTFixture (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-"unit.BESTEST.GC30b" end time: Feb 25 00:00 UTC
-"unit.BESTEST.GC30b" time elapsed: 00:00:00
-----------------------------------------------------------
-
-32/44 Testing: unit.BESTEST.GC30c
-32/44 Test: unit.BESTEST.GC30c
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: Feb 25 00:00 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = BESTESTFixture.GC30c
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from BESTESTFixture
-[ RUN      ] BESTESTFixture.GC30c
-[       OK ] BESTESTFixture.GC30c (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
-=======
-[       OK ] BESTESTFixture.GC30b (3 ms)
-[----------] 1 test from BESTESTFixture (3 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-<<<<<<< HEAD
-"unit.BESTEST.GC30c" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC30b" end time: Feb 25 00:02 UTC
-"unit.BESTEST.GC30b" time elapsed: 00:00:00
-----------------------------------------------------------
-
-32/44 Testing: unit.BESTEST.GC30c
-32/44 Test: unit.BESTEST.GC30c
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: Feb 25 00:02 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = BESTESTFixture.GC30c
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from BESTESTFixture
-[ RUN      ] BESTESTFixture.GC30c
-[       OK ] BESTESTFixture.GC30c (3 ms)
-=======
-[       OK ] BESTESTFixture.GC30b (3 ms)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-[----------] 1 test from BESTESTFixture (3 ms total)
-
-[----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-"unit.BESTEST.GC30c" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC30b" end time: Feb 25 00:04 UTC
+"unit.BESTEST.GC30b" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1933,7 +928,7 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.BESTEST.GC30c" start time: Feb 25 00:04 UTC
+"unit.BESTEST.GC30c" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -1951,8 +946,7 @@ Note: Google Test filter = BESTESTFixture.GC30c
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"unit.BESTEST.GC30c" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC30c" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1960,15 +954,7 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC60b" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC60b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC60b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC60b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -1976,8 +962,8 @@ Note: Google Test filter = BESTESTFixture.GC60b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC60b
-[       OK ] BESTESTFixture.GC60b (3 ms)
-[----------] 1 test from BESTESTFixture (3 ms total)
+[       OK ] BESTESTFixture.GC60b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (3 ms total)
@@ -1986,15 +972,7 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC60b" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC60b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC60b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC60b" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2002,15 +980,7 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC65b" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC65b" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC65b" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC65b" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -2018,41 +988,17 @@ Note: Google Test filter = BESTESTFixture.GC65b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC65b
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] BESTESTFixture.GC65b (4 ms)
-[----------] 1 test from BESTESTFixture (4 ms total)
+[       OK ] BESTESTFixture.GC65b (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (4 ms total)
-=======
-[       OK ] BESTESTFixture.GC65b (3 ms)
-[----------] 1 test from BESTESTFixture (3 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (3 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] BESTESTFixture.GC65b (3 ms)
-[----------] 1 test from BESTESTFixture (3 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (3 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+[==========] 1 test from 1 test suite ran. (2 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.GC65b" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.GC65b" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.GC65b" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.GC65b" end time: Mar 06 17:23 UTC
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2060,15 +1006,7 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.1D" start time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.1D" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.1D" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.1D" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -2086,15 +1024,7 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.BESTEST.1D" end time: Feb 25 00:00 UTC
-=======
-"unit.BESTEST.1D" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.BESTEST.1D" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.BESTEST.1D" end time: Mar 06 17:23 UTC
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2102,15 +1032,7 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.domain_basics" start time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.domain_basics" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.DomainFixture.domain_basics" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.DomainFixture.domain_basics" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -2118,105 +1040,43 @@ Note: Google Test filter = DomainFixture.domain_basics
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.domain_basics
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] DomainFixture.domain_basics (1 ms)
-[----------] 1 test from DomainFixture (1 ms total)
-=======
 [       OK ] DomainFixture.domain_basics (2 ms)
 [----------] 1 test from DomainFixture (2 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (1 ms total)
-=======
-[       OK ] DomainFixture.domain_basics (3 ms)
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit.DomainFixture.domain_basics" end time: Mar 06 17:23 UTC
+"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/44 Testing: unit.DomainFixture.surface_indices
+37/44 Test: unit.DomainFixture.surface_indices
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.surface_indices" start time: Mar 06 17:23 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.surface_indices
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.surface_indices
+[       OK ] DomainFixture.surface_indices (3 ms)
 [----------] 1 test from DomainFixture (3 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (3 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.domain_basics" end time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.domain_basics" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
-=======
-"unit.DomainFixture.domain_basics" end time: Feb 25 00:04 UTC
-"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
-----------------------------------------------------------
-
-37/44 Testing: unit.DomainFixture.surface_indices
-37/44 Test: unit.DomainFixture.surface_indices
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.DomainFixture.surface_indices" start time: Feb 25 00:04 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = DomainFixture.surface_indices
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from DomainFixture
-[ RUN      ] DomainFixture.surface_indices
-[       OK ] DomainFixture.surface_indices (2 ms)
-[----------] 1 test from DomainFixture (2 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-"unit.DomainFixture.surface_indices" end time: Feb 25 00:04 UTC
-"unit.DomainFixture.surface_indices" time elapsed: 00:00:00
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-----------------------------------------------------------
-
-37/44 Testing: unit.DomainFixture.surface_indices
-37/44 Test: unit.DomainFixture.surface_indices
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.surface_indices" start time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.surface_indices" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.DomainFixture.surface_tilt" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-Output:
-----------------------------------------------------------
-Note: Google Test filter = DomainFixture.surface_indices
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from DomainFixture
-[ RUN      ] DomainFixture.surface_indices
-[       OK ] DomainFixture.surface_indices (2 ms)
-[----------] 1 test from DomainFixture (2 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.surface_indices" end time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.surface_indices" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
+"unit.DomainFixture.surface_indices" end time: Mar 06 17:23 UTC
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2224,11 +1084,7 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-"unit.DomainFixture.surface_tilt" start time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.surface_tilt" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
+"unit.DomainFixture.surface_tilt" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -2237,9 +1093,6 @@ Note: Google Test filter = DomainFixture.surface_tilt
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_tilt
 [       OK ] DomainFixture.surface_tilt (2 ms)
-=======
-[       OK ] DomainFixture.domain_basics (2 ms)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 [----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
@@ -2249,69 +1102,7 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-"unit.DomainFixture.domain_basics" end time: Feb 25 00:00 UTC
-"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
-----------------------------------------------------------
-
-37/44 Testing: unit.DomainFixture.surface_indices
-37/44 Test: unit.DomainFixture.surface_indices
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.DomainFixture.surface_indices" start time: Feb 25 00:00 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = DomainFixture.surface_indices
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from DomainFixture
-[ RUN      ] DomainFixture.surface_indices
-[       OK ] DomainFixture.surface_indices (2 ms)
-[----------] 1 test from DomainFixture (2 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-"unit.DomainFixture.surface_indices" end time: Feb 25 00:00 UTC
-"unit.DomainFixture.surface_indices" time elapsed: 00:00:00
-----------------------------------------------------------
-
-38/44 Testing: unit.DomainFixture.surface_tilt
-38/44 Test: unit.DomainFixture.surface_tilt
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.DomainFixture.surface_tilt" start time: Feb 25 00:00 UTC
-Output:
-----------------------------------------------------------
-Note: Google Test filter = DomainFixture.surface_tilt
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from DomainFixture
-[ RUN      ] DomainFixture.surface_tilt
-[       OK ] DomainFixture.surface_tilt (1 ms)
-[----------] 1 test from DomainFixture (1 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (1 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-"unit.DomainFixture.surface_tilt" end time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.surface_tilt" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.DomainFixture.surface_tilt" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.DomainFixture.surface_tilt" end time: Mar 06 17:23 UTC
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2319,15 +1110,7 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.cell_vector" start time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.cell_vector" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.DomainFixture.cell_vector" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.DomainFixture.cell_vector" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -2339,21 +1122,13 @@ Note: Google Test filter = DomainFixture.cell_vector
 [----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (1 ms total)
+[==========] 1 test from 1 test suite ran. (2 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.DomainFixture.cell_vector" end time: Feb 25 00:00 UTC
-=======
-"unit.DomainFixture.cell_vector" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.DomainFixture.cell_vector" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.DomainFixture.cell_vector" end time: Mar 06 17:23 UTC
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2361,15 +1136,7 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.CellFixture.cell_basics" start time: Feb 25 00:00 UTC
-=======
-"unit.CellFixture.cell_basics" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.CellFixture.cell_basics" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.CellFixture.cell_basics" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -2377,12 +1144,8 @@ Note: Google Test filter = CellFixture.cell_basics
 [----------] Global test environment set-up.
 [----------] 1 test from CellFixture
 [ RUN      ] CellFixture.cell_basics
-[       OK ] CellFixture.cell_basics (1 ms)
-<<<<<<< HEAD
+[       OK ] CellFixture.cell_basics (2 ms)
 [----------] 1 test from CellFixture (2 ms total)
-=======
-[----------] 1 test from CellFixture (1 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -2391,15 +1154,7 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.CellFixture.cell_basics" end time: Feb 25 00:00 UTC
-=======
-"unit.CellFixture.cell_basics" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.CellFixture.cell_basics" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.CellFixture.cell_basics" end time: Mar 06 17:23 UTC
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2407,15 +1162,7 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.AggregatorFixture.validation" start time: Feb 25 00:00 UTC
-=======
-"unit.AggregatorFixture.validation" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.AggregatorFixture.validation" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.AggregatorFixture.validation" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -2424,51 +1171,17 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[       OK ] AggregatorFixture.validation (20 ms)
-[----------] 1 test from AggregatorFixture (20 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (20 ms total)
-=======
-[       OK ] AggregatorFixture.validation (19 ms)
-[----------] 1 test from AggregatorFixture (19 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (19 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-=======
 [       OK ] AggregatorFixture.validation (24 ms)
 [----------] 1 test from AggregatorFixture (24 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (24 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-"unit.AggregatorFixture.validation" end time: Feb 25 00:00 UTC
-=======
-[       OK ] AggregatorFixture.validation (34 ms)
-[----------] 1 test from AggregatorFixture (34 ms total)
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (35 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.04 sec
-----------------------------------------------------------
-Test Passed.
-"unit.AggregatorFixture.validation" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.AggregatorFixture.validation" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.AggregatorFixture.validation" end time: Mar 06 17:23 UTC
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2476,15 +1189,7 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.TypicalFixture.convectionCallback" start time: Feb 25 00:00 UTC
-=======
-"unit.TypicalFixture.convectionCallback" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.TypicalFixture.convectionCallback" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.TypicalFixture.convectionCallback" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -2502,15 +1207,7 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.TypicalFixture.convectionCallback" end time: Feb 25 00:00 UTC
-=======
-"unit.TypicalFixture.convectionCallback" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.TypicalFixture.convectionCallback" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.TypicalFixture.convectionCallback" end time: Mar 06 17:23 UTC
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2518,15 +1215,7 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.FoundationFixture.foundationSurfaces" start time: Feb 25 00:00 UTC
-=======
-"unit.FoundationFixture.foundationSurfaces" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.FoundationFixture.foundationSurfaces" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.FoundationFixture.foundationSurfaces" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -2534,19 +1223,8 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 [----------] Global test environment set-up.
 [----------] 1 test from FoundationFixture
 [ RUN      ] FoundationFixture.foundationSurfaces
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 [       OK ] FoundationFixture.foundationSurfaces (4 ms)
 [----------] 1 test from FoundationFixture (4 ms total)
-=======
-[       OK ] FoundationFixture.foundationSurfaces (5 ms)
-[----------] 1 test from FoundationFixture (5 ms total)
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-[       OK ] FoundationFixture.foundationSurfaces (5 ms)
-[----------] 1 test from FoundationFixture (5 ms total)
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (4 ms total)
@@ -2555,15 +1233,7 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.FoundationFixture.foundationSurfaces" end time: Feb 25 00:00 UTC
-=======
-"unit.FoundationFixture.foundationSurfaces" end time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.FoundationFixture.foundationSurfaces" end time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+"unit.FoundationFixture.foundationSurfaces" end time: Mar 06 17:23 UTC
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2571,49 +1241,7 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
-<<<<<<< HEAD
-<<<<<<< HEAD
-"unit.FoundationFixture.foundationSurfaces2" start time: Feb 25 00:00 UTC
-=======
-"unit.FoundationFixture.foundationSurfaces2" start time: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.FoundationFixture.foundationSurfaces2" start time: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
-Output:
-----------------------------------------------------------
-Note: Google Test filter = FoundationFixture.foundationSurfaces2
-[==========] Running 1 test from 1 test suite.
-[----------] Global test environment set-up.
-[----------] 1 test from FoundationFixture
-[ RUN      ] FoundationFixture.foundationSurfaces2
-[       OK ] FoundationFixture.foundationSurfaces2 (4 ms)
-[----------] 1 test from FoundationFixture (4 ms total)
-=======
-[       OK ] FoundationFixture.foundationSurfaces (5 ms)
-[----------] 1 test from FoundationFixture (5 ms total)
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-
-[----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (4 ms total)
-[  PASSED  ] 1 test.
-<end of output>
-Test time =   0.01 sec
-----------------------------------------------------------
-Test Passed.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-"unit.FoundationFixture.foundationSurfaces" end time: Feb 25 00:00 UTC
-"unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
-----------------------------------------------------------
-
-44/44 Testing: unit.FoundationFixture.foundationSurfaces2
-44/44 Test: unit.FoundationFixture.foundationSurfaces2
-Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
-Directory: /Users/runner/work/kiva/kiva/build/test/unit
-"unit.FoundationFixture.foundationSurfaces2" start time: Feb 25 00:00 UTC
+"unit.FoundationFixture.foundationSurfaces2" start time: Mar 06 17:23 UTC
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -2631,23 +1259,8 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
->>>>>>> 6bb2e3798 (Fix wall area calculations. [mac-appleclang-64bit])
-"unit.FoundationFixture.foundationSurfaces2" end time: Feb 25 00:00 UTC
+"unit.FoundationFixture.foundationSurfaces2" end time: Mar 06 17:23 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Feb 25 00:00 UTC
-=======
-"unit.FoundationFixture.foundationSurfaces2" end time: Feb 25 00:02 UTC
-"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
-----------------------------------------------------------
-
-End testing: Feb 25 00:02 UTC
->>>>>>> 38e505f7a (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-"unit.FoundationFixture.foundationSurfaces2" end time: Feb 25 00:04 UTC
-"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
-----------------------------------------------------------
-
-End testing: Feb 25 00:04 UTC
->>>>>>> 5066a3f31 (Fix wall area calculations. [mac-appleclang-64bit])
+End testing: Mar 06 17:23 UTC
