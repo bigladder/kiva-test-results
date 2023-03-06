@@ -1,54 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (linux-gnu-64bit)
+kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-24 23:56:12.251707
-=======
-Starting Program: 2023-Feb-24 23:56:31.963836
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:22.869720
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:45.713246
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Starting Program: 2023-Mar-06 17:19:53.777494
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Feb-27 23:00:00
-Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2100-Oct-24 12:00:00 (81.2%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:13.079174
-Elapsed Time: 00:00:00.827467
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:32.850737
-Elapsed Time: 00:00:00.886901
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:23.742827
-Elapsed Time: 00:00:00.873107
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-  2099-Aug-16 20:00:00
+  2099-May-29 05:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:46.535284
-Elapsed Time: 00:00:00.822038
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Finished Program: 2023-Mar-06 17:19:54.646693
+Elapsed Time: 00:00:00.869199

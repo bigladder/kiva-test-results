@@ -1,53 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (linux-gnu-64bit)
+kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-24 23:56:05.487243
-=======
-Starting Program: 2023-Feb-24 23:56:24.475492
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:15.819042
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:39.020291
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Starting Program: 2023-Mar-06 17:19:46.704225
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-Apr-11 07:00:00
+  2099-Aug-06 18:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2100-Mar-20 14:00:00 (21.5%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:06.319558
-Elapsed Time: 00:00:00.832315
-=======
-  2100-Feb-09 14:00:00 (10.8%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:25.398897
-Elapsed Time: 00:00:00.923405
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:16.701650
-Elapsed Time: 00:00:00.882608
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:39.843090
-Elapsed Time: 00:00:00.822799
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Finished Program: 2023-Mar-06 17:19:47.579956
+Elapsed Time: 00:00:00.875731

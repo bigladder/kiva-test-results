@@ -1,57 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.5+fix-wall-area-calculations.22b700d5.20 (linux-gnu-64bit)
+kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Feb-24 23:56:03.642867
-=======
-Starting Program: 2023-Feb-24 23:56:22.438494
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:13.899914
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-kiva v0.6.5+fix-wall-area-calculations.572ac0ce.21 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Feb-24 23:58:37.195996
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Starting Program: 2023-Mar-06 17:19:44.775388
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2099-Oct-12 09:00:00
+  2099-May-25 12:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:04.498133
-Elapsed Time: 00:00:00.855266
-=======
-Beginning Simulation...
-  2100-Mar-03 09:00:00 (16.8%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:56:23.365555
-Elapsed Time: 00:00:00.927061
->>>>>>> d59c6b0a0 (Merge pull request #60 from bigladder/cleanup-ci)
-=======
-  2099-Jan-28 07:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:14.790931
-Elapsed Time: 00:00:00.891017
->>>>>>> e7fc94ded (Fix wall area calculations. [linux-gnu-64bit])
-=======
-Beginning Simulation...
-  2100-Nov-27 19:00:00 (90.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Feb-24 23:58:38.041829
-Elapsed Time: 00:00:00.845833
->>>>>>> ab1716755 (Fix wall area calculations. [linux-gnu-64bit])
+Finished Program: 2023-Mar-06 17:19:45.671536
+Elapsed Time: 00:00:00.896148
