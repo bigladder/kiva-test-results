@@ -1,16 +1,30 @@
 kiva v0.6.5+separate-public-interface.22b700d5.20 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Mar-06 17:23:05.970009
+=======
+Starting Program: 2023-Mar-06 17:23:52.170074
+>>>>>>> 8ae1536d6 (Merge pull request #60 from bigladder/cleanup-ci)
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
+<<<<<<< HEAD
   2014-Sep-26 05:00:00
 Beginning Simulation...
   2015-Jul-02 19:00:00 (50.1%)
   2015-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Mar-06 17:23:08.675063
 Elapsed Time: 00:00:02.705054
+=======
+  2014-Jun-09 07:00:00
+Beginning Simulation...
+  2015-Jan-27 07:00:00 (7.2%)
+  2015-Aug-31 00:00:00 (66.3%)
+  2015-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Mar-06 17:23:55.574094
+Elapsed Time: 00:00:03.404020
+>>>>>>> 8ae1536d6 (Merge pull request #60 from bigladder/cleanup-ci)
