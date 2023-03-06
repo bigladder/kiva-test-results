@@ -1,13 +1,18 @@
 kiva v0.6.5+fix-wall-area-calculations.1ff6b42a.22 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Mar-06 17:23:21.699183
+=======
+Starting Program: 2023-Mar-06 17:24:45.861400
+>>>>>>> 02cc1e77c (Add test for vertical wall surface areas when using detailed perimeter exposure. [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
+<<<<<<< HEAD
   2014-Feb-24 00:00:00
 Beginning Simulation...
   2015-Jan-26 14:00:00 (7%)
@@ -15,3 +20,12 @@ Beginning Simulation...
   2015-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Mar-06 17:23:24.269078
 Elapsed Time: 00:00:02.569895
+=======
+  2014-Jul-14 12:00:00
+Beginning Simulation...
+  2015-Feb-20 14:00:00 (13.9%)
+  2015-Oct-15 19:00:00 (78.8%)
+  2015-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Mar-06 17:24:49.296831
+Elapsed Time: 00:00:03.435431
+>>>>>>> 02cc1e77c (Add test for vertical wall surface areas when using detailed perimeter exposure. [mac-appleclang-64bit])
