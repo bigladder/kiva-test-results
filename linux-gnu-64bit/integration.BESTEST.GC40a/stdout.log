@@ -1,7 +1,11 @@
 kiva v0.6.6 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Mar-14 14:59:30.313326
+=======
+Starting Program: 2023-Mar-14 14:59:40.006602
+>>>>>>> 63be810b9 (Merge pull request #61 from bigladder/fix-wall-area-calculations)
 Creating Domain...
   X Cells: 39
   Y Cells: 1
@@ -9,7 +13,13 @@ Creating Domain...
   Total Cells: 702
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Jun-02 14:00:00 (41.8%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Mar-14 14:59:31.277974
 Elapsed Time: 00:00:00.964648
+=======
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Mar-14 14:59:40.955354
+Elapsed Time: 00:00:00.948752
+>>>>>>> 63be810b9 (Merge pull request #61 from bigladder/fix-wall-area-calculations)
