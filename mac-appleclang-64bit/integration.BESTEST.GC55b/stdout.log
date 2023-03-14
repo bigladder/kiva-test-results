@@ -1,26 +1,15 @@
-kiva v0.6.5+develop.e92307d5.23 (mac-appleclang-64bit)
+kiva v0.6.6 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Mar-13 22:38:26.553679
-=======
-Starting Program: 2023-Mar-13 22:38:57.673309
->>>>>>> 7c82f59c1 (Merge pull request #61 from bigladder/fix-wall-area-calculations)
+Starting Program: 2023-Mar-14 15:03:41.401282
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 11
   Total Cells: 418
 Initializing Temperatures...
-  2099-Nov-10 01:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Apr-26 20:00:00 (31.7%)
+  2100-Sep-03 13:00:00 (67.3%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Mar-13 22:38:27.303559
-Elapsed Time: 00:00:00.749880
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Mar-13 22:38:58.485158
-Elapsed Time: 00:00:00.811849
->>>>>>> 7c82f59c1 (Merge pull request #61 from bigladder/fix-wall-area-calculations)
+Finished Program: 2023-Mar-14 15:03:42.135148
+Elapsed Time: 00:00:00.733866
