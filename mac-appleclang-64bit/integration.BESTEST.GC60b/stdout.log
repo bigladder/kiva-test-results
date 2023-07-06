@@ -1,7 +1,11 @@
 kiva v0.6.6+reduce_boost.6ef24e71.1 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-06 17:50:32.823393
+=======
+Starting Program: 2023-Jul-06 17:50:40.798465
+>>>>>>> 4c81969f2 (reduce boost size)
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -10,5 +14,10 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Jul-06 17:50:33.045653
 Elapsed Time: 00:00:00.222260
+=======
+Finished Program: 2023-Jul-06 17:50:41.033792
+Elapsed Time: 00:00:00.235327
+>>>>>>> 4c81969f2 (reduce boost size)
