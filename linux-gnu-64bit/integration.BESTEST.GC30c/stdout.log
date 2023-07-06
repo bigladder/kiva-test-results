@@ -1,11 +1,7 @@
-kiva v0.6.6+develop.8f60b8d7.2 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.6ef24e71.1 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Mar-14 15:03:02.232092
-=======
-Starting Program: 2023-Mar-14 15:03:49.625172
->>>>>>> 25e238eef (Bump version number and reformat CMake file. [linux-gnu-64bit])
+Starting Program: 2023-Jul-06 17:46:23.964508
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 592
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2023-Mar-14 15:03:02.461767
-Elapsed Time: 00:00:00.229675
-=======
-Finished Program: 2023-Mar-14 15:03:49.846752
-Elapsed Time: 00:00:00.221580
->>>>>>> 25e238eef (Bump version number and reformat CMake file. [linux-gnu-64bit])
+Finished Program: 2023-Jul-06 17:46:24.186347
+Elapsed Time: 00:00:00.221839
