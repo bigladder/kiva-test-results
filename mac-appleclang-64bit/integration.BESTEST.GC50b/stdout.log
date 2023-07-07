@@ -1,15 +1,28 @@
 kiva v0.6.6+reduce_boost.63697794.2 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-07 22:41:15.568158
+=======
+Starting Program: 2023-Jul-07 22:43:15.976196
+>>>>>>> c85dd80c3 (add update-boost script and apply [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
+<<<<<<< HEAD
   2099-Oct-31 10:00:00
+=======
+>>>>>>> c85dd80c3 (add update-boost script and apply [mac-appleclang-64bit])
 Beginning Simulation...
+  2100-Aug-28 09:00:00 (65.6%)
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Jul-07 22:41:16.735337
 Elapsed Time: 00:00:01.167179
+=======
+Finished Program: 2023-Jul-07 22:43:17.247045
+Elapsed Time: 00:00:01.270849
+>>>>>>> c85dd80c3 (add update-boost script and apply [mac-appleclang-64bit])
