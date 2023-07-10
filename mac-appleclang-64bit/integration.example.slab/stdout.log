@@ -1,16 +1,29 @@
 kiva v0.6.6+reduce_boost.cd11c6b2.3 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-10 21:01:56.628105
+=======
+Starting Program: 2023-Jul-10 21:04:08.289004
+>>>>>>> 0fbbc1203 (modified mgl file define.h to avoid _snprintf error wwith msvc [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
+<<<<<<< HEAD
   2014-Apr-17 13:00:00
 Beginning Simulation...
   2015-May-03 20:00:00 (33.7%)
   2015-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Jul-10 21:01:58.756244
 Elapsed Time: 00:00:02.128139
+=======
+  2014-Aug-09 12:00:00
+Beginning Simulation...
+  2015-Jun-21 09:00:00 (47%)
+  2015-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jul-10 21:04:10.709371
+Elapsed Time: 00:00:02.420367
+>>>>>>> 0fbbc1203 (modified mgl file define.h to avoid _snprintf error wwith msvc [mac-appleclang-64bit])
