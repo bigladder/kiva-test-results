@@ -1,7 +1,11 @@
 kiva v0.6.6+reduce_boost.fe4b136f.4 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-12 22:08:29.243002
+=======
+Starting Program: 2023-Jul-12 22:18:21.401414
+>>>>>>> 5c5b860cb (potential fix for gcc compiler warning with boost [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 481
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Oct-21 07:00:00 (80.4%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Jul-12 22:08:30.102906
 Elapsed Time: 00:00:00.859904
+=======
+  2100-Apr-12 23:00:00 (27.9%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jul-12 22:18:22.649333
+Elapsed Time: 00:00:01.247919
+>>>>>>> 5c5b860cb (potential fix for gcc compiler warning with boost [mac-appleclang-64bit])
