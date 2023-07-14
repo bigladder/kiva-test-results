@@ -19,6 +19,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -26,6 +27,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   2.38 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/slab.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/USA_DC_Washington.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.slab/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.10 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Jul 14 19:59 UTC
@@ -51,6 +61,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -62,6 +73,19 @@ Test time =   3.12 sec
 Test Passed.
 "integration.example.basement" end time: Jul 14 19:59 UTC
 "integration.example.basement" time elapsed: 00:00:03
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/USA_IL_Chicago.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/basement.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.basement/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.77 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Jul 14 19:59 UTC
+"integration.example.basement" time elapsed: 00:00:02
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
@@ -83,6 +107,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -90,6 +115,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   2.89 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/USA_FL_Tampa.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/crawlspace.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.example.crawlspace/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   2.57 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Jul 14 19:59 UTC
@@ -115,10 +149,17 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a"]
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/GC10a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC10a/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 run-kiva.rb completed!
 <end of output>
 Test time =   0.29 sec
@@ -147,10 +188,17 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a"]
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/GC30a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30a/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 run-kiva.rb completed!
 <end of output>
 Test time =   0.29 sec
@@ -179,10 +227,17 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a"]
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GCSS-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/GC30b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 run-kiva.rb completed!
 <end of output>
 Test time =   0.32 sec
@@ -211,10 +266,17 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a"]
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GCSS-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC30c/GC30c.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 run-kiva.rb completed!
 <end of output>
 Test time =   0.31 sec
@@ -243,6 +305,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -254,6 +317,19 @@ Test time =   1.10 sec
 Test Passed.
 "integration.BESTEST.GC40a" end time: Jul 14 19:59 UTC
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/GC40a.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40a/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.99 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Jul 14 19:59 UTC
+"integration.BESTEST.GC40a" time elapsed: 00:00:00
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 
 9/44 Testing: integration.BESTEST.GC40b
@@ -275,6 +351,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -282,6 +359,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.98 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/GC40b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.88 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Jul 14 19:59 UTC
@@ -307,6 +393,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -314,6 +401,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.95 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/GC40c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC40c/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.86 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jul 14 19:59 UTC
@@ -339,6 +435,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -346,6 +443,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.96 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/GC45b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.86 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Jul 14 19:59 UTC
@@ -371,6 +477,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -378,6 +485,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.93 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GC45c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC45c/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.84 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jul 14 19:59 UTC
@@ -403,6 +519,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -414,6 +531,19 @@ Test time =   1.06 sec
 Test Passed.
 "integration.BESTEST.GC50b" end time: Jul 14 19:59 UTC
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GC50b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC50b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.96 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Jul 14 19:59 UTC
+"integration.BESTEST.GC50b" time elapsed: 00:00:00
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 
 14/44 Testing: integration.BESTEST.GC55b
@@ -435,6 +565,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -442,6 +573,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.73 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/GC55b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.66 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Jul 14 19:59 UTC
@@ -467,6 +607,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -474,6 +615,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.81 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/GC55c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC55c/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.73 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Jul 14 19:59 UTC
@@ -499,6 +649,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -506,6 +657,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.33 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GCSS-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC60b/GC60b.yaml"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.32 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC60b" end time: Jul 14 19:59 UTC
@@ -531,10 +691,17 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
   ["/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a"]
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GCSS-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/Y-Slice", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/GC65b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC65b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 run-kiva.rb completed!
 <end of output>
 Test time =   0.32 sec
@@ -563,6 +730,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -570,6 +738,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.98 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GC70b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC70b/GCSP-W01TM2.epw"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.88 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jul 14 19:59 UTC
@@ -595,6 +772,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -602,6 +780,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.97 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GC80b.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/GCSP-W20TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80b/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.88 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Jul 14 19:59 UTC
@@ -627,6 +814,7 @@ Running with:
 run_case complete!
 Evaluating contents of /home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c
 - contents:
+<<<<<<< HEAD
   ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv"]
 Evaluating contents of /home/runner/work/kiva/kiva/build
 - contents:
@@ -634,6 +822,15 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
 run-kiva.rb completed!
 <end of output>
 Test time =   0.96 sec
+=======
+  ["/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/out.csv", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GCSP-W40TM2.epw", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/GC80c.yaml", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stdout.log", "/home/runner/work/kiva/kiva/build/test/results/linux-gnu-64bit/integration.BESTEST.GC80c/stderr.log"]
+Evaluating contents of /home/runner/work/kiva/kiva/build
+- contents:
+  ["/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/vendor", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/CMakeCache.txt"]
+run-kiva.rb completed!
+<end of output>
+Test time =   0.86 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Jul 14 19:59 UTC
@@ -653,11 +850,19 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADI (14 ms)
 [----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
+=======
+[       OK ] GC10aFixture.calculateADI (13 ms)
+[----------] 1 test from GC10aFixture (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -680,11 +885,19 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (239 ms)
 [----------] 1 test from GC10aFixture (239 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (239 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (235 ms)
+[----------] 1 test from GC10aFixture (235 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (235 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.24 sec
@@ -707,14 +920,22 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (235 ms)
 [----------] 1 test from GC10aFixture (235 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (235 ms total)
+=======
+[       OK ] GC10aFixture.calculateCrankN (231 ms)
+[----------] 1 test from GC10aFixture (231 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (231 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.24 sec
+Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Jul 14 19:59 UTC
@@ -734,11 +955,19 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (10 ms)
 [----------] 1 test from GC10aFixture (10 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (10 ms total)
+=======
+[       OK ] GC10aFixture.calculateADE (8 ms)
+[----------] 1 test from GC10aFixture (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
@@ -761,6 +990,7 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (263 ms)
 [----------] 1 test from GC10aFixture (263 ms total)
 
@@ -769,6 +999,16 @@ Note: 3107.57
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.27 sec
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (259 ms)
+[----------] 1 test from GC10aFixture (259 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (259 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.26 sec
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 14 19:59 UTC
@@ -787,11 +1027,19 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellADI
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellADI (14 ms)
 [----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
+=======
+[       OK ] GC10aFixture.calcCellADI (13 ms)
+[----------] 1 test from GC10aFixture (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -813,11 +1061,19 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (239 ms)
 [----------] 1 test from GC10aFixture (239 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (239 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (235 ms)
+[----------] 1 test from GC10aFixture (235 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (235 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.24 sec
@@ -839,14 +1095,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (265 ms)
 [----------] 1 test from GC10aFixture (265 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (265 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (259 ms)
+[----------] 1 test from GC10aFixture (259 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (259 ms total)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.27 sec
+Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrixSS" end time: Jul 14 19:59 UTC
@@ -937,10 +1201,10 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30c
 [       OK ] BESTESTFixture.GC30c (1 ms)
-[----------] 1 test from BESTESTFixture (1 ms total)
+[----------] 1 test from BESTESTFixture (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (1 ms total)
+[==========] 1 test from 1 test suite ran. (2 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
@@ -1040,7 +1304,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.domain_basics
+<<<<<<< HEAD
 [       OK ] DomainFixture.domain_basics (0 ms)
+=======
+[       OK ] DomainFixture.domain_basics (1 ms)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
@@ -1066,7 +1334,11 @@ Note: Google Test filter = DomainFixture.surface_indices
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_indices
+<<<<<<< HEAD
 [       OK ] DomainFixture.surface_indices (0 ms)
+=======
+[       OK ] DomainFixture.surface_indices (1 ms)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
@@ -1092,7 +1364,11 @@ Note: Google Test filter = DomainFixture.surface_tilt
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_tilt
+<<<<<<< HEAD
 [       OK ] DomainFixture.surface_tilt (0 ms)
+=======
+[       OK ] DomainFixture.surface_tilt (1 ms)
+>>>>>>> 71fc5b1fc (Restored OpenMP silencing [linux-gnu-64bit])
 [----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
@@ -1171,11 +1447,11 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
-[       OK ] AggregatorFixture.validation (13 ms)
-[----------] 1 test from AggregatorFixture (13 ms total)
+[       OK ] AggregatorFixture.validation (15 ms)
+[----------] 1 test from AggregatorFixture (15 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (13 ms total)
+[==========] 1 test from 1 test suite ran. (15 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -1224,13 +1500,13 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 [----------] 1 test from FoundationFixture
 [ RUN      ] FoundationFixture.foundationSurfaces
 [       OK ] FoundationFixture.foundationSurfaces (2 ms)
-[----------] 1 test from FoundationFixture (2 ms total)
+[----------] 1 test from FoundationFixture (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.FoundationFixture.foundationSurfaces" end time: Jul 14 19:59 UTC
