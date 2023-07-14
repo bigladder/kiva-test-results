@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 Start testing: Jul 14 17:39 UTC
+=======
+Start testing: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 1/44 Testing: integration.example.slab
 1/44 Test: integration.example.slab
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/slab.yaml" "/Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.slab" start time: Jul 14 17:39 UTC
+=======
+"integration.example.slab" start time: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -25,10 +33,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.57 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Jul 14 17:39 UTC
+=======
+Test time =   2.42 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 "integration.example.slab" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -36,7 +51,11 @@ Test Passed.
 2/44 Test: integration.example.basement
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/basement.yaml" "/Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.basement" start time: Jul 14 17:39 UTC
+=======
+"integration.example.basement" start time: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -57,10 +76,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.87 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Jul 14 17:39 UTC
+=======
+Test time =   2.90 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 "integration.example.basement" time elapsed: 00:00:02
 ----------------------------------------------------------
 
@@ -68,7 +94,11 @@ Test Passed.
 3/44 Test: integration.example.crawlspace
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/crawlspace.yaml" "/Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.crawlspace" start time: Jul 14 17:39 UTC
+=======
+"integration.example.crawlspace" start time: Jul 14 17:40 UTC
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -217,7 +247,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
+=======
+Test time =   0.34 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Jul 14 17:40 UTC
@@ -249,7 +283,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.13 sec
+=======
+Test time =   1.14 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Jul 14 17:40 UTC
@@ -313,7 +351,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.01 sec
+=======
+Test time =   1.02 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jul 14 17:40 UTC
@@ -381,7 +423,11 @@ Test time =   1.00 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jul 14 17:40 UTC
+<<<<<<< HEAD
 "integration.BESTEST.GC45c" time elapsed: 00:00:00
+=======
+"integration.BESTEST.GC45c" time elapsed: 00:00:01
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 13/44 Testing: integration.BESTEST.GC50b
@@ -441,7 +487,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.83 sec
+=======
+Test time =   0.82 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Jul 14 17:40 UTC
@@ -569,7 +619,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.06 sec
+=======
+Test time =   1.05 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jul 14 17:40 UTC
@@ -601,7 +655,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
+=======
+Test time =   1.05 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Jul 14 17:40 UTC
@@ -633,7 +691,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.02 sec
+=======
+Test time =   1.20 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Jul 14 17:40 UTC
@@ -657,10 +719,17 @@ Note: 2607.32
 [----------] 1 test from GC10aFixture (13 ms total)
 
 [----------] Global test environment tear-down
+<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (14 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.13 sec
+=======
+[==========] 1 test from 1 test suite ran. (13 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateADI" end time: Jul 14 17:40 UTC
@@ -680,14 +749,22 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (185 ms)
 [----------] 1 test from GC10aFixture (185 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (185 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (177 ms)
+[----------] 1 test from GC10aFixture (177 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (177 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.18 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateImplicit" end time: Jul 14 17:40 UTC
@@ -707,14 +784,22 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (184 ms)
 [----------] 1 test from GC10aFixture (184 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (185 ms total)
+=======
+[       OK ] GC10aFixture.calculateCrankN (174 ms)
+[----------] 1 test from GC10aFixture (174 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (174 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.18 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Jul 14 17:40 UTC
@@ -734,14 +819,22 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (15 ms)
 [----------] 1 test from GC10aFixture (15 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (15 ms total)
+=======
+[       OK ] GC10aFixture.calculateADE (10 ms)
+[----------] 1 test from GC10aFixture (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateADE" end time: Jul 14 17:40 UTC
@@ -761,14 +854,22 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (205 ms)
 [----------] 1 test from GC10aFixture (205 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (205 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (193 ms)
+[----------] 1 test from GC10aFixture (193 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (193 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
+Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 14 17:40 UTC
@@ -791,7 +892,7 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] 1 test from GC10aFixture (13 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (14 ms total)
+[==========] 1 test from 1 test suite ran. (13 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -813,14 +914,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (188 ms)
 [----------] 1 test from GC10aFixture (188 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (188 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (179 ms)
+[----------] 1 test from GC10aFixture (179 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (179 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.18 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrix" end time: Jul 14 17:40 UTC
@@ -839,11 +948,19 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (203 ms)
 [----------] 1 test from GC10aFixture (203 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (204 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (198 ms)
+[----------] 1 test from GC10aFixture (198 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (198 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.21 sec
@@ -884,11 +1001,19 @@ Note: Google Test filter = BESTESTFixture.GC30a
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30a
+<<<<<<< HEAD
 [       OK ] BESTESTFixture.GC30a (3 ms)
 [----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (3 ms total)
+=======
+[       OK ] BESTESTFixture.GC30a (2 ms)
+[----------] 1 test from BESTESTFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
@@ -1040,11 +1165,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.domain_basics
-[       OK ] DomainFixture.domain_basics (2 ms)
-[----------] 1 test from DomainFixture (2 ms total)
+[       OK ] DomainFixture.domain_basics (1 ms)
+[----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
@@ -1070,7 +1195,7 @@ Note: Google Test filter = DomainFixture.surface_indices
 [----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
@@ -1092,6 +1217,7 @@ Note: Google Test filter = DomainFixture.surface_tilt
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_tilt
+<<<<<<< HEAD
 [       OK ] DomainFixture.surface_tilt (2 ms)
 [----------] 1 test from DomainFixture (2 ms total)
 
@@ -1120,6 +1246,10 @@ Note: Google Test filter = DomainFixture.cell_vector
 [ RUN      ] DomainFixture.cell_vector
 [       OK ] DomainFixture.cell_vector (2 ms)
 [----------] 1 test from DomainFixture (2 ms total)
+=======
+[       OK ] DomainFixture.surface_tilt (1 ms)
+[----------] 1 test from DomainFixture (1 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -1128,6 +1258,35 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
+=======
+"unit.DomainFixture.surface_tilt" end time: Jul 14 17:40 UTC
+"unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/44 Testing: unit.DomainFixture.cell_vector
+39/44 Test: unit.DomainFixture.cell_vector
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.cell_vector" start time: Jul 14 17:40 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.cell_vector
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.cell_vector
+[       OK ] DomainFixture.cell_vector (1 ms)
+[----------] 1 test from DomainFixture (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 "unit.DomainFixture.cell_vector" end time: Jul 14 17:40 UTC
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
@@ -1144,11 +1303,16 @@ Note: Google Test filter = CellFixture.cell_basics
 [----------] Global test environment set-up.
 [----------] 1 test from CellFixture
 [ RUN      ] CellFixture.cell_basics
+<<<<<<< HEAD
 [       OK ] CellFixture.cell_basics (2 ms)
 [----------] 1 test from CellFixture (2 ms total)
+=======
+[       OK ] CellFixture.cell_basics (1 ms)
+[----------] 1 test from CellFixture (1 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
@@ -1171,11 +1335,19 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
+<<<<<<< HEAD
 [       OK ] AggregatorFixture.validation (20 ms)
 [----------] 1 test from AggregatorFixture (20 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (20 ms total)
+=======
+[       OK ] AggregatorFixture.validation (19 ms)
+[----------] 1 test from AggregatorFixture (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (19 ms total)
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec

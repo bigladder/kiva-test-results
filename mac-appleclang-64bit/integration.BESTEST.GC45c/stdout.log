@@ -1,7 +1,11 @@
 kiva v0.6.6+update_math_gl.02174132.2 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-14 17:40:07.491210
+=======
+Starting Program: 2023-Jul-14 17:40:44.235261
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 36
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 576
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Apr-09 02:00:00 (26.9%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Jul-14 17:40:08.359261
 Elapsed Time: 00:00:00.868051
+=======
+  2100-Oct-07 23:00:00 (76.7%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jul-14 17:40:45.117448
+Elapsed Time: 00:00:00.882187
+>>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
