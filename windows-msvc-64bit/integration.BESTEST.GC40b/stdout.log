@@ -1,15 +1,15 @@
-kiva v0.6.6+update_math_gl.68feafe3.3 (windows-msvc-64bit)
+kiva v0.6.6+update_math_gl.775e2482.4 (windows-msvc-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2023-Jul-14 20:04:50.347423
+Starting Program: 2023-Jul-14 21:11:41.536535
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
+  2099-Oct-06 10:00:00
 Beginning Simulation...
-  2100-Feb-23 10:00:00 (14.6%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-14 20:04:51.426485
-Elapsed Time: 00:00:01.079062
+Finished Program: 2023-Jul-14 21:11:42.599482
+Elapsed Time: 00:00:01.062947
