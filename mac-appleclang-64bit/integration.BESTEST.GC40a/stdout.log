@@ -1,11 +1,7 @@
-kiva v0.6.6+update_math_gl.02174132.2 (mac-appleclang-64bit)
+kiva v0.6.6+update_math_gl.68feafe3.3 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-14 17:40:03.285017
-=======
-Starting Program: 2023-Jul-14 17:40:39.994004
->>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
+Starting Program: 2023-Jul-14 20:03:17.410397
 Creating Domain...
   X Cells: 39
   Y Cells: 1
@@ -13,14 +9,7 @@ Creating Domain...
   Total Cells: 702
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Jun-24 05:00:00 (47.7%)
+  2100-Feb-28 10:00:00 (16%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-14 17:40:04.289302
-Elapsed Time: 00:00:01.004285
-=======
-  2100-Dec-21 09:00:00 (97.1%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-14 17:40:41.016637
-Elapsed Time: 00:00:01.022633
->>>>>>> 7354533c3 (disable wide specifiers for msvc [mac-appleclang-64bit])
+Finished Program: 2023-Jul-14 20:03:18.528920
+Elapsed Time: 00:00:01.118523
