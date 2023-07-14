@@ -1,11 +1,7 @@
-kiva v0.6.6+update_math_gl.4fb590a5.1 (mac-appleclang-64bit)
+kiva v0.6.6+update_math_gl.02174132.2 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-14 15:35:52.636807
-=======
-Starting Program: 2023-Jul-14 15:39:35.932391
->>>>>>> b465c4570 (update to mathgl-8.0.1)
+Starting Program: 2023-Jul-14 17:40:02.938834
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 592
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2023-Jul-14 15:35:52.858056
-Elapsed Time: 00:00:00.221249
-=======
-Finished Program: 2023-Jul-14 15:39:36.176112
-Elapsed Time: 00:00:00.243721
->>>>>>> b465c4570 (update to mathgl-8.0.1)
+Finished Program: 2023-Jul-14 17:40:03.155725
+Elapsed Time: 00:00:00.216891
