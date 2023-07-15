@@ -1,7 +1,11 @@
 kiva v0.6.6+Update-math-gl2.e9418423.3 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Jul-15 03:27:37.193127
+=======
+Starting Program: 2023-Jul-15 03:29:24.175506
+>>>>>>> 84b2798f6 (Restore OpenMP silencing [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,7 +13,14 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+<<<<<<< HEAD
   2100-Aug-30 22:00:00 (66.3%)
   2100-Dec-31 23:00:00 (100%)
 Finished Program: 2023-Jul-15 03:27:38.194489
 Elapsed Time: 00:00:01.001362
+=======
+  2100-Sep-28 21:00:00 (74.2%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jul-15 03:29:25.142275
+Elapsed Time: 00:00:00.966769
+>>>>>>> 84b2798f6 (Restore OpenMP silencing [mac-appleclang-64bit])
