@@ -25,7 +25,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.53 sec
+=======
+Test time =   2.48 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Jul 17 19:32 UTC
@@ -57,7 +61,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.91 sec
+=======
+Test time =   2.84 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Jul 17 19:32 UTC
@@ -89,7 +97,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.67 sec
+=======
+Test time =   2.62 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Jul 17 19:32 UTC
@@ -153,7 +165,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.33 sec
+=======
+Test time =   0.61 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Jul 17 19:32 UTC
@@ -185,7 +201,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
+=======
+Test time =   0.63 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Jul 17 19:32 UTC
@@ -217,7 +237,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.34 sec
+=======
+Test time =   0.35 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Jul 17 19:32 UTC
@@ -281,7 +305,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.06 sec
+=======
+Test time =   1.03 sec
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Jul 17 19:32 UTC
@@ -313,10 +341,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jul 17 19:32 UTC
+=======
+Test time =   1.02 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -324,7 +359,11 @@ Test Passed.
 11/44 Test: integration.BESTEST.GC45b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC45b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -345,18 +384,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Jul 17 19:32 UTC
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
+=======
+Test time =   0.99 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Jul 17 19:33 UTC
+"integration.BESTEST.GC45b" time elapsed: 00:00:00
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 12/44 Testing: integration.BESTEST.GC45c
 12/44 Test: integration.BESTEST.GC45c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45c" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC45c" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -377,18 +428,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.02 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jul 17 19:32 UTC
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
+=======
+Test time =   0.98 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Jul 17 19:33 UTC
+"integration.BESTEST.GC45c" time elapsed: 00:00:00
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 13/44 Testing: integration.BESTEST.GC50b
 13/44 Test: integration.BESTEST.GC50b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC50b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC50b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -409,10 +472,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.14 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC50b" end time: Jul 17 19:32 UTC
+=======
+Test time =   1.11 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -420,7 +490,11 @@ Test Passed.
 14/44 Test: integration.BESTEST.GC55b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC55b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -441,10 +515,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.83 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Jul 17 19:32 UTC
+=======
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -452,7 +533,11 @@ Test Passed.
 15/44 Test: integration.BESTEST.GC55c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55c" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC55c" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -473,10 +558,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.91 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Jul 17 19:32 UTC
+=======
+Test time =   0.87 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -484,7 +576,11 @@ Test Passed.
 16/44 Test: integration.BESTEST.GC60b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC60b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC60b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -508,7 +604,11 @@ run-kiva.rb completed!
 Test time =   0.36 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "integration.BESTEST.GC60b" end time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC60b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -516,7 +616,11 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC65b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC65b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -537,10 +641,14 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.36 sec
+Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "integration.BESTEST.GC65b" end time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC65b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -548,7 +656,11 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC70b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC70b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -569,10 +681,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.06 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jul 17 19:32 UTC
+=======
+Test time =   1.04 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -580,7 +699,11 @@ Test Passed.
 19/44 Test: integration.BESTEST.GC80b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80b" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC80b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -601,10 +724,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.07 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Jul 17 19:32 UTC
+=======
+Test time =   1.02 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -612,7 +742,11 @@ Test Passed.
 20/44 Test: integration.BESTEST.GC80c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80c" start time: Jul 17 19:32 UTC
+=======
+"integration.BESTEST.GC80c" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -633,10 +767,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Jul 17 19:32 UTC
+=======
+Test time =   1.01 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "integration.BESTEST.GC80c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -644,7 +785,11 @@ Test Passed.
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calculateADI" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -660,10 +805,17 @@ Note: 2607.32
 [==========] 1 test from 1 test suite ran. (13 ms total)
 [  PASSED  ] 1 test.
 <end of output>
+<<<<<<< HEAD
 Test time =   0.15 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateADI" end time: Jul 17 19:32 UTC
+=======
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateADI" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -671,7 +823,11 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calculateImplicit" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -680,16 +836,52 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (185 ms)
 [----------] 1 test from GC10aFixture (185 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (185 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (184 ms)
+[----------] 1 test from GC10aFixture (184 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (184 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.19 sec
 ----------------------------------------------------------
 Test Passed.
+"unit.GC10aFixture.calculateImplicit" end time: Jul 17 19:33 UTC
+"unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/44 Testing: unit.GC10aFixture.calculateCrankN
+23/44 Test: unit.GC10aFixture.calculateCrankN
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.GC10aFixture.calculateCrankN" start time: Jul 17 19:33 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = GC10aFixture.calculateCrankN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GC10aFixture
+[ RUN      ] GC10aFixture.calculateCrankN
+Note: 2600.87
+[       OK ] GC10aFixture.calculateCrankN (181 ms)
+[----------] 1 test from GC10aFixture (182 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (182 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" end time: Jul 17 19:32 UTC
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
@@ -718,6 +910,9 @@ Test time =   0.19 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -725,7 +920,11 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calculateADE" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -741,10 +940,14 @@ Note: 2615.19
 [==========] 1 test from 1 test suite ran. (11 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calculateADE" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -752,7 +955,11 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -761,17 +968,29 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (198 ms)
 [----------] 1 test from GC10aFixture (198 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (199 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (200 ms)
+[----------] 1 test from GC10aFixture (200 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (200 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -779,7 +998,11 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellADI" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -797,7 +1020,11 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellADI" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -805,7 +1032,11 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -813,17 +1044,29 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (182 ms)
 [----------] 1 test from GC10aFixture (182 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (182 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (195 ms)
+[----------] 1 test from GC10aFixture (196 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (196 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -831,7 +1074,11 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" start time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -839,17 +1086,29 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (201 ms)
 [----------] 1 test from GC10aFixture (201 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (201 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (207 ms)
+[----------] 1 test from GC10aFixture (207 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (207 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.21 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" end time: Jul 17 19:32 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -857,7 +1116,11 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC10a" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -868,7 +1131,11 @@ Note: Google Test filter = BESTESTFixture.GC10a
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC10a" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -876,7 +1143,11 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30a" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -894,7 +1165,11 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30a" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -902,7 +1177,11 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -920,7 +1199,11 @@ Note: Google Test filter = BESTESTFixture.GC30b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -928,7 +1211,11 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30c" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -936,17 +1223,21 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30c
-[       OK ] BESTESTFixture.GC30c (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
+[       OK ] BESTESTFixture.GC30c (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC30c" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -954,7 +1245,11 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC60b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -972,7 +1267,11 @@ Note: Google Test filter = BESTESTFixture.GC60b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC60b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -980,7 +1279,11 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC65b" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -998,7 +1301,11 @@ Note: Google Test filter = BESTESTFixture.GC65b
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.GC65b" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1006,7 +1313,11 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.1D" start time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.1D" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -1024,7 +1335,11 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.1D" end time: Jul 17 19:32 UTC
+=======
+"unit.BESTEST.1D" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1032,7 +1347,11 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" start time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.domain_basics" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -1040,8 +1359,13 @@ Note: Google Test filter = DomainFixture.domain_basics
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.domain_basics
+<<<<<<< HEAD
 [       OK ] DomainFixture.domain_basics (1 ms)
 [----------] 1 test from DomainFixture (1 ms total)
+=======
+[       OK ] DomainFixture.domain_basics (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -1050,7 +1374,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" end time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.domain_basics" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1058,7 +1386,11 @@ Test Passed.
 37/44 Test: unit.DomainFixture.surface_indices
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" start time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.surface_indices" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_indices
@@ -1066,8 +1398,8 @@ Note: Google Test filter = DomainFixture.surface_indices
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_indices
-[       OK ] DomainFixture.surface_indices (1 ms)
-[----------] 1 test from DomainFixture (1 ms total)
+[       OK ] DomainFixture.surface_indices (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -1076,7 +1408,11 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" end time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.surface_indices" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1420,11 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" start time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.surface_tilt" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -1102,7 +1442,11 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" end time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.surface_tilt" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1110,7 +1454,11 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" start time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.cell_vector" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -1128,7 +1476,11 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" end time: Jul 17 19:32 UTC
+=======
+"unit.DomainFixture.cell_vector" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1136,7 +1488,11 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" start time: Jul 17 19:32 UTC
+=======
+"unit.CellFixture.cell_basics" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -1144,8 +1500,13 @@ Note: Google Test filter = CellFixture.cell_basics
 [----------] Global test environment set-up.
 [----------] 1 test from CellFixture
 [ RUN      ] CellFixture.cell_basics
+<<<<<<< HEAD
 [       OK ] CellFixture.cell_basics (1 ms)
 [----------] 1 test from CellFixture (1 ms total)
+=======
+[       OK ] CellFixture.cell_basics (2 ms)
+[----------] 1 test from CellFixture (2 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -1154,7 +1515,11 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" end time: Jul 17 19:32 UTC
+=======
+"unit.CellFixture.cell_basics" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1162,7 +1527,11 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" start time: Jul 17 19:32 UTC
+=======
+"unit.AggregatorFixture.validation" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -1171,17 +1540,29 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
+<<<<<<< HEAD
 [       OK ] AggregatorFixture.validation (21 ms)
 [----------] 1 test from AggregatorFixture (21 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (21 ms total)
+=======
+[       OK ] AggregatorFixture.validation (20 ms)
+[----------] 1 test from AggregatorFixture (20 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (20 ms total)
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" end time: Jul 17 19:32 UTC
+=======
+"unit.AggregatorFixture.validation" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1570,11 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" start time: Jul 17 19:32 UTC
+=======
+"unit.TypicalFixture.convectionCallback" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1207,7 +1592,11 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" end time: Jul 17 19:32 UTC
+=======
+"unit.TypicalFixture.convectionCallback" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1215,7 +1604,11 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" start time: Jul 17 19:32 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1233,7 +1626,11 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" end time: Jul 17 19:32 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" end time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1241,7 +1638,11 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" start time: Jul 17 19:32 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" start time: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1259,8 +1660,16 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" end time: Jul 17 19:32 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 End testing: Jul 17 19:32 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" end time: Jul 17 19:33 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 17 19:33 UTC
+>>>>>>> 1d06f4346 (additional mathgl modifications and formatting [mac-appleclang-64bit])
