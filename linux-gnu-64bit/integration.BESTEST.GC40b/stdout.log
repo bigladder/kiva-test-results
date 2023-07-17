@@ -1,28 +1,15 @@
-kiva v0.6.6+Update-math-gl2.e9418423.3 (linux-gnu-64bit)
+kiva v0.6.6+Update-math-gl2.b107d156.4 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-15 03:24:00.407672
-=======
-Starting Program: 2023-Jul-15 03:24:29.627470
->>>>>>> a90baa86c (Restore OpenMP silencing [linux-gnu-64bit])
+Starting Program: 2023-Jul-17 19:28:55.273236
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-<<<<<<< HEAD
-=======
-  2099-Nov-05 14:00:00
->>>>>>> a90baa86c (Restore OpenMP silencing [linux-gnu-64bit])
 Beginning Simulation...
-  2100-Apr-21 04:00:00 (30.2%)
+  2100-Sep-18 04:00:00 (71.3%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2023-Jul-15 03:24:01.312798
-Elapsed Time: 00:00:00.905126
-=======
-Finished Program: 2023-Jul-15 03:24:30.473112
-Elapsed Time: 00:00:00.845642
->>>>>>> a90baa86c (Restore OpenMP silencing [linux-gnu-64bit])
+Finished Program: 2023-Jul-17 19:28:56.120247
+Elapsed Time: 00:00:00.847011
