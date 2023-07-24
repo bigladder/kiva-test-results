@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kiva v0.6.6+reduce_boost.6c38236e.6 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -6,12 +7,19 @@ Starting Program: 2023-Jul-24 19:08:10.262035
 =======
 Starting Program: 2023-Jul-24 19:09:26.373086
 >>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
+=======
+kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Jul-24 19:13:53.476457
+>>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2014-Jul-09 04:00:00
 Beginning Simulation...
@@ -29,3 +37,12 @@ Beginning Simulation...
 Finished Program: 2023-Jul-24 19:09:29.806916
 Elapsed Time: 00:00:03.433830
 >>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
+=======
+  2014-Apr-27 05:00:00
+Beginning Simulation...
+  2015-Feb-04 01:00:00 (9.3%)
+  2015-Oct-02 08:00:00 (75.2%)
+  2015-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Jul-24 19:13:56.375275
+Elapsed Time: 00:00:02.898818
+>>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
