@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 Start testing: Jul 24 19:08 UTC
+=======
+Start testing: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 1/44 Testing: integration.example.slab
 1/44 Test: integration.example.slab
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/slab.yaml" "/Users/runner/work/kiva/kiva/weather/USA_DC_Washington.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.slab/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.slab" start time: Jul 24 19:08 UTC
+=======
+"integration.example.slab" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -25,18 +33,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.56 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Jul 24 19:08 UTC
 "integration.example.slab" time elapsed: 00:00:02
+=======
+Test time =   3.09 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Jul 24 19:09 UTC
+"integration.example.slab" time elapsed: 00:00:03
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 2/44 Testing: integration.example.basement
 2/44 Test: integration.example.basement
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/basement.yaml" "/Users/runner/work/kiva/kiva/weather/USA_IL_Chicago.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.basement/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.basement" start time: Jul 24 19:08 UTC
+=======
+"integration.example.basement" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -57,18 +77,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.92 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Jul 24 19:08 UTC
 "integration.example.basement" time elapsed: 00:00:02
+=======
+Test time =   3.60 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Jul 24 19:09 UTC
+"integration.example.basement" time elapsed: 00:00:03
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
 3/44 Test: integration.example.crawlspace
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/examples/crawlspace.yaml" "/Users/runner/work/kiva/kiva/weather/USA_FL_Tampa.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.example.crawlspace/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.example.crawlspace" start time: Jul 24 19:08 UTC
+=======
+"integration.example.crawlspace" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -89,18 +121,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.64 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Jul 24 19:08 UTC
 "integration.example.crawlspace" time elapsed: 00:00:02
+=======
+Test time =   3.32 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.crawlspace" end time: Jul 24 19:09 UTC
+"integration.example.crawlspace" time elapsed: 00:00:03
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 4/44 Testing: integration.BESTEST.GC10a
 4/44 Test: integration.BESTEST.GC10a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC10a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC10a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC10a" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC10a" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -121,10 +165,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.33 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC10a" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC10a" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -132,7 +183,11 @@ Test Passed.
 5/44 Test: integration.BESTEST.GC30a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30a" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC30a" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -153,10 +208,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.34 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30a" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -164,7 +226,11 @@ Test Passed.
 6/44 Test: integration.BESTEST.GC30b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC30b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -185,10 +251,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.36 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -196,7 +269,11 @@ Test Passed.
 7/44 Test: integration.BESTEST.GC30c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC30c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC30c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC30c" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC30c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -217,10 +294,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC30c" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -228,7 +312,11 @@ Test Passed.
 8/44 Test: integration.BESTEST.GC40a
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40a.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40a/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40a" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC40a" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -249,10 +337,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.14 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.45 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40a" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC40a" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -260,7 +355,11 @@ Test Passed.
 9/44 Test: integration.BESTEST.GC40b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC40b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -281,10 +380,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.31 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC40b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -292,7 +398,11 @@ Test Passed.
 10/44 Test: integration.BESTEST.GC40c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC40c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC40c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC40c" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC40c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -313,10 +423,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.02 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.29 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC40c" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC40c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -324,7 +441,11 @@ Test Passed.
 11/44 Test: integration.BESTEST.GC45b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC45b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -345,10 +466,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.02 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.27 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC45b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -356,7 +484,11 @@ Test Passed.
 12/44 Test: integration.BESTEST.GC45c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC45c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC45c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC45c" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC45c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -377,10 +509,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.25 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC45c" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC45c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -388,7 +527,11 @@ Test Passed.
 13/44 Test: integration.BESTEST.GC50b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC50b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC50b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC50b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC50b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -409,10 +552,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.12 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC50b" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.39 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC50b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC50b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -420,7 +570,11 @@ Test Passed.
 14/44 Test: integration.BESTEST.GC55b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC55b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -441,18 +595,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.81 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Jul 24 19:08 UTC
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
+=======
+Test time =   1.01 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Jul 24 19:09 UTC
+"integration.BESTEST.GC55b" time elapsed: 00:00:01
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 15/44 Testing: integration.BESTEST.GC55c
 15/44 Test: integration.BESTEST.GC55c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC55c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC55c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC55c" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC55c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -473,18 +639,30 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.88 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Jul 24 19:08 UTC
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
+=======
+Test time =   1.12 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Jul 24 19:09 UTC
+"integration.BESTEST.GC55c" time elapsed: 00:00:01
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 ----------------------------------------------------------
 
 16/44 Testing: integration.BESTEST.GC60b
 16/44 Test: integration.BESTEST.GC60b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC60b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC60b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC60b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC60b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -505,10 +683,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.36 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC60b" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC60b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -516,7 +701,11 @@ Test Passed.
 17/44 Test: integration.BESTEST.GC65b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC65b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSS-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC65b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC65b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC65b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -537,10 +726,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.36 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC65b" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC65b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -548,7 +744,11 @@ Test Passed.
 18/44 Test: integration.BESTEST.GC70b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC70b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W01TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC70b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC70b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC70b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -569,10 +769,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.31 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC70b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC70b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -580,7 +787,11 @@ Test Passed.
 19/44 Test: integration.BESTEST.GC80b
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80b.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W20TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80b/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80b" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC80b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -601,10 +812,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.04 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.29 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC80b" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -612,7 +830,11 @@ Test Passed.
 20/44 Test: integration.BESTEST.GC80c
 Command: "/Users/runner/hostedtoolcache/Ruby/2.7.8/x64/bin/ruby" "run-kiva.rb" "/Users/runner/work/kiva/kiva/build/kiva" "/Users/runner/work/kiva/kiva/test/bestest/GC80c.yaml" "/Users/runner/work/kiva/kiva/test/bestest/weather/GCSP-W40TM2.epw" "/Users/runner/work/kiva/kiva/build/test/results/mac-appleclang-64bit/integration.BESTEST.GC80c/out.csv"
 Directory: /Users/runner/work/kiva/kiva/scripts
+<<<<<<< HEAD
 "integration.BESTEST.GC80c" start time: Jul 24 19:08 UTC
+=======
+"integration.BESTEST.GC80c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Running Kiva!!!
@@ -633,10 +855,17 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.03 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Jul 24 19:08 UTC
+=======
+Test time =   1.29 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC80c" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "integration.BESTEST.GC80c" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -644,7 +873,11 @@ Test Passed.
 21/44 Test: unit.GC10aFixture.calculateADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADI" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateADI" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADI
@@ -653,17 +886,24 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
-[       OK ] GC10aFixture.calculateADI (14 ms)
-[----------] 1 test from GC10aFixture (14 ms total)
+[       OK ] GC10aFixture.calculateADI (16 ms)
+[----------] 1 test from GC10aFixture (17 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (14 ms total)
+[==========] 1 test from 1 test suite ran. (17 ms total)
 [  PASSED  ] 1 test.
 <end of output>
+<<<<<<< HEAD
 Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateADI" end time: Jul 24 19:08 UTC
+=======
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"unit.GC10aFixture.calculateADI" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -671,7 +911,11 @@ Test Passed.
 22/44 Test: unit.GC10aFixture.calculateImplicit
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateImplicit"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateImplicit" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateImplicit
@@ -680,17 +924,29 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (185 ms)
 [----------] 1 test from GC10aFixture (185 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (185 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (222 ms)
+[----------] 1 test from GC10aFixture (222 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (222 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateImplicit" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateImplicit" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateImplicit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -698,7 +954,11 @@ Test Passed.
 23/44 Test: unit.GC10aFixture.calculateCrankN
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateCrankN"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateCrankN" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateCrankN
@@ -707,17 +967,29 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (182 ms)
 [----------] 1 test from GC10aFixture (182 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (182 ms total)
+=======
+[       OK ] GC10aFixture.calculateCrankN (219 ms)
+[----------] 1 test from GC10aFixture (219 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (219 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.22 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateCrankN" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateCrankN" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateCrankN" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -725,7 +997,11 @@ Test Passed.
 24/44 Test: unit.GC10aFixture.calculateADE
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calculateADE"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateADE" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calculateADE
@@ -734,17 +1010,26 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (11 ms)
 [----------] 1 test from GC10aFixture (11 ms total)
+=======
+[       OK ] GC10aFixture.calculateADE (13 ms)
+[----------] 1 test from GC10aFixture (13 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (11 ms total)
+[==========] 1 test from 1 test suite ran. (13 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calculateADE" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calculateADE" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calculateADE" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -752,7 +1037,11 @@ Test Passed.
 25/44 Test: unit.GC10aFixture.GC10a_calculateSteadyState
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.GC10a_calculateSteadyState"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
@@ -761,17 +1050,29 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (204 ms)
 [----------] 1 test from GC10aFixture (204 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (204 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (241 ms)
+[----------] 1 test from GC10aFixture (241 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (241 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
+Test time =   0.25 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.GC10a_calculateSteadyState" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -779,7 +1080,11 @@ Test Passed.
 26/44 Test: unit.GC10aFixture.calcCellADI
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellADI"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellADI" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellADI
@@ -787,17 +1092,29 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellADI
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellADI (14 ms)
 [----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
+=======
+[       OK ] GC10aFixture.calcCellADI (16 ms)
+[----------] 1 test from GC10aFixture (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (16 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellADI" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellADI" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellADI" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -805,7 +1122,11 @@ Test Passed.
 27/44 Test: unit.GC10aFixture.calcCellMatrix
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrix"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrix
@@ -813,17 +1134,29 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (185 ms)
 [----------] 1 test from GC10aFixture (185 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (185 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (221 ms)
+[----------] 1 test from GC10aFixture (222 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (222 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrix" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellMatrix" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -831,7 +1164,11 @@ Test Passed.
 28/44 Test: unit.GC10aFixture.calcCellMatrixSS
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=GC10aFixture.calcCellMatrixSS"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" start time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = GC10aFixture.calcCellMatrixSS
@@ -839,17 +1176,29 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (205 ms)
 [----------] 1 test from GC10aFixture (205 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (205 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (246 ms)
+[----------] 1 test from GC10aFixture (246 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (246 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
+Test time =   0.25 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.GC10aFixture.calcCellMatrixSS" end time: Jul 24 19:08 UTC
+=======
+"unit.GC10aFixture.calcCellMatrixSS" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.GC10aFixture.calcCellMatrixSS" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -857,7 +1206,11 @@ Test Passed.
 29/44 Test: unit.BESTEST.GC10a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC10a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC10a" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC10a
@@ -865,10 +1218,14 @@ Note: Google Test filter = BESTESTFixture.GC10a
 [==========] 0 tests from 0 test suites ran. (0 ms total)
 [  PASSED  ] 0 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC10a" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC10a" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC10a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -876,7 +1233,11 @@ Test Passed.
 30/44 Test: unit.BESTEST.GC30a
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30a"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30a" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30a
@@ -894,7 +1255,11 @@ Note: Google Test filter = BESTESTFixture.GC30a
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30a" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30a" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC30a" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -902,7 +1267,11 @@ Test Passed.
 31/44 Test: unit.BESTEST.GC30b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30b
@@ -910,17 +1279,21 @@ Note: Google Test filter = BESTESTFixture.GC30b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC30b
-[       OK ] BESTESTFixture.GC30b (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
+[       OK ] BESTESTFixture.GC30b (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (4 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30b" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC30b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -928,7 +1301,11 @@ Test Passed.
 32/44 Test: unit.BESTEST.GC30c
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC30c"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30c" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC30c
@@ -940,13 +1317,21 @@ Note: Google Test filter = BESTESTFixture.GC30c
 [----------] 1 test from BESTESTFixture (2 ms total)
 
 [----------] Global test environment tear-down
+<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (2 ms total)
+=======
+[==========] 1 test from 1 test suite ran. (3 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC30c" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC30c" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC30c" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -954,7 +1339,11 @@ Test Passed.
 33/44 Test: unit.BESTEST.GC60b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC60b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC60b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC60b
@@ -962,17 +1351,21 @@ Note: Google Test filter = BESTESTFixture.GC60b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC60b
-[       OK ] BESTESTFixture.GC60b (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
+[       OK ] BESTESTFixture.GC60b (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC60b" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC60b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC60b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -980,7 +1373,11 @@ Test Passed.
 34/44 Test: unit.BESTEST.GC65b
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.GC65b"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC65b" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.GC65b
@@ -988,17 +1385,21 @@ Note: Google Test filter = BESTESTFixture.GC65b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC65b
-[       OK ] BESTESTFixture.GC65b (2 ms)
-[----------] 1 test from BESTESTFixture (2 ms total)
+[       OK ] BESTESTFixture.GC65b (3 ms)
+[----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (3 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.GC65b" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.GC65b" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.GC65b" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1006,7 +1407,11 @@ Test Passed.
 35/44 Test: unit.BESTEST.1D
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=BESTESTFixture.1D"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.BESTEST.1D" start time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.1D" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = BESTESTFixture.1D
@@ -1024,7 +1429,11 @@ Note: Google Test filter = BESTESTFixture.1D
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.BESTEST.1D" end time: Jul 24 19:08 UTC
+=======
+"unit.BESTEST.1D" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.BESTEST.1D" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1032,7 +1441,11 @@ Test Passed.
 36/44 Test: unit.DomainFixture.domain_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.domain_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" start time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.domain_basics" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.domain_basics
@@ -1050,7 +1463,11 @@ Note: Google Test filter = DomainFixture.domain_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.domain_basics" end time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.domain_basics" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.DomainFixture.domain_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1058,7 +1475,11 @@ Test Passed.
 37/44 Test: unit.DomainFixture.surface_indices
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" start time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.surface_indices" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_indices
@@ -1076,7 +1497,11 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_indices" end time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.surface_indices" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1509,11 @@ Test Passed.
 38/44 Test: unit.DomainFixture.surface_tilt
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_tilt"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" start time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.surface_tilt" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.surface_tilt
@@ -1102,7 +1531,11 @@ Note: Google Test filter = DomainFixture.surface_tilt
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.surface_tilt" end time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.surface_tilt" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.DomainFixture.surface_tilt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1110,7 +1543,11 @@ Test Passed.
 39/44 Test: unit.DomainFixture.cell_vector
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.cell_vector"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" start time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.cell_vector" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = DomainFixture.cell_vector
@@ -1128,7 +1565,11 @@ Note: Google Test filter = DomainFixture.cell_vector
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.DomainFixture.cell_vector" end time: Jul 24 19:08 UTC
+=======
+"unit.DomainFixture.cell_vector" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.DomainFixture.cell_vector" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1136,7 +1577,11 @@ Test Passed.
 40/44 Test: unit.CellFixture.cell_basics
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=CellFixture.cell_basics"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" start time: Jul 24 19:08 UTC
+=======
+"unit.CellFixture.cell_basics" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = CellFixture.cell_basics
@@ -1154,7 +1599,11 @@ Note: Google Test filter = CellFixture.cell_basics
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.CellFixture.cell_basics" end time: Jul 24 19:08 UTC
+=======
+"unit.CellFixture.cell_basics" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.CellFixture.cell_basics" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1162,7 +1611,11 @@ Test Passed.
 41/44 Test: unit.AggregatorFixture.validation
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=AggregatorFixture.validation"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" start time: Jul 24 19:08 UTC
+=======
+"unit.AggregatorFixture.validation" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = AggregatorFixture.validation
@@ -1171,17 +1624,29 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
+<<<<<<< HEAD
 [       OK ] AggregatorFixture.validation (21 ms)
 [----------] 1 test from AggregatorFixture (21 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (21 ms total)
+=======
+[       OK ] AggregatorFixture.validation (26 ms)
+[----------] 1 test from AggregatorFixture (27 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (27 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" end time: Jul 24 19:08 UTC
+=======
+"unit.AggregatorFixture.validation" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1654,11 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" start time: Jul 24 19:08 UTC
+=======
+"unit.TypicalFixture.convectionCallback" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1207,7 +1676,11 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" end time: Jul 24 19:08 UTC
+=======
+"unit.TypicalFixture.convectionCallback" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1215,7 +1688,11 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" start time: Jul 24 19:08 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1223,17 +1700,21 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 [----------] Global test environment set-up.
 [----------] 1 test from FoundationFixture
 [ RUN      ] FoundationFixture.foundationSurfaces
-[       OK ] FoundationFixture.foundationSurfaces (4 ms)
-[----------] 1 test from FoundationFixture (4 ms total)
+[       OK ] FoundationFixture.foundationSurfaces (5 ms)
+[----------] 1 test from FoundationFixture (5 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (4 ms total)
+[==========] 1 test from 1 test suite ran. (5 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" end time: Jul 24 19:08 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" end time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1241,7 +1722,11 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" start time: Jul 24 19:08 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" start time: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1249,18 +1734,30 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 [----------] Global test environment set-up.
 [----------] 1 test from FoundationFixture
 [ RUN      ] FoundationFixture.foundationSurfaces2
-[       OK ] FoundationFixture.foundationSurfaces2 (4 ms)
-[----------] 1 test from FoundationFixture (4 ms total)
+[       OK ] FoundationFixture.foundationSurfaces2 (5 ms)
+[----------] 1 test from FoundationFixture (5 ms total)
 
 [----------] Global test environment tear-down
+<<<<<<< HEAD
 [==========] 1 test from 1 test suite ran. (4 ms total)
+=======
+[==========] 1 test from 1 test suite ran. (5 ms total)
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" end time: Jul 24 19:08 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 End testing: Jul 24 19:08 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" end time: Jul 24 19:09 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 24 19:09 UTC
+>>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
