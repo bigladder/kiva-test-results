@@ -1,54 +1,14 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (mac-appleclang-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:08:23.582198
-=======
-Starting Program: 2023-Jul-24 19:09:42.866830
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:14:08.265892
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:15:44.587640
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Starting Program: 2023-Jul-26 21:53:40.261968
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 11
   Total Cells: 418
 Initializing Temperatures...
-  2099-Mar-06 21:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2100-May-01 06:00:00 (32.9%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:08:24.270744
-Elapsed Time: 00:00:00.688546
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:09:43.730823
-Elapsed Time: 00:00:00.863993
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-  2100-Dec-23 14:00:00 (97.7%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:14:09.011199
-Elapsed Time: 00:00:00.745307
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-  2100-Apr-19 00:00:00 (29.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:15:45.286941
-Elapsed Time: 00:00:00.699301
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Finished Program: 2023-Jul-26 21:53:40.971657
+Elapsed Time: 00:00:00.709689

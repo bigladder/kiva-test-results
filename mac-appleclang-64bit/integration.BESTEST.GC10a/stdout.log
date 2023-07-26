@@ -1,47 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (mac-appleclang-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:08:15.812226
-=======
-Starting Program: 2023-Jul-24 19:09:33.284651
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:13:59.370956
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:15:36.598380
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Starting Program: 2023-Jul-26 21:53:32.180192
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Finished Program: 2023-Jul-24 19:08:16.019476
-Elapsed Time: 00:00:00.207250
-=======
-Finished Program: 2023-Jul-24 19:09:33.532515
-Elapsed Time: 00:00:00.247864
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-Finished Program: 2023-Jul-24 19:13:59.584062
-Elapsed Time: 00:00:00.213106
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-Finished Program: 2023-Jul-24 19:15:36.809614
-Elapsed Time: 00:00:00.211234
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Finished Program: 2023-Jul-26 21:53:32.387717
+Elapsed Time: 00:00:00.207525

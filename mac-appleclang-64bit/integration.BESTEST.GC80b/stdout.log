@@ -1,53 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (mac-appleclang-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:08:27.042328
-=======
-Starting Program: 2023-Jul-24 19:09:47.143143
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:14:11.913909
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:15:48.146815
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Starting Program: 2023-Jul-26 21:53:43.792864
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
-  2099-Jan-11 06:00:00
+  2099-May-29 19:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:08:27.950065
-Elapsed Time: 00:00:00.907737
-=======
-  2100-Jul-26 05:00:00 (56.5%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:09:48.289487
-Elapsed Time: 00:00:01.146344
->>>>>>> 6c5373f4b (Revert to boost1_81_0; make update script cross-platform [mac-appleclang-64bit])
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:14:12.893774
-Elapsed Time: 00:00:00.979865
->>>>>>> 0ea72aec1 (Update update-boost.py [mac-appleclang-64bit])
-=======
-  2100-Nov-05 20:00:00 (84.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:15:49.083071
-Elapsed Time: 00:00:00.936256
->>>>>>> ab5125d0e (Update update-boost.py [mac-appleclang-64bit])
+Finished Program: 2023-Jul-26 21:53:44.735028
+Elapsed Time: 00:00:00.942164
