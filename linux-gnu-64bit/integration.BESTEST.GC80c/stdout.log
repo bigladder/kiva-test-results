@@ -1,53 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:05:23.041078
-=======
-Starting Program: 2023-Jul-24 19:06:47.143094
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:10:56.714611
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:11:50.544161
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Starting Program: 2023-Jul-26 21:49:36.266124
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
-  2099-Aug-25 09:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+  2100-Oct-12 19:00:00 (78%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:05:23.871940
-Elapsed Time: 00:00:00.830862
-=======
-  2100-Nov-02 15:00:00 (83.7%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:06:48.076696
-Elapsed Time: 00:00:00.933602
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:10:57.497821
-Elapsed Time: 00:00:00.783210
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-  2100-Feb-08 07:00:00 (10.5%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:11:51.382239
-Elapsed Time: 00:00:00.838078
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Finished Program: 2023-Jul-26 21:49:37.091509
+Elapsed Time: 00:00:00.825385

@@ -1,25 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:05:17.156169
-=======
-Starting Program: 2023-Jul-24 19:06:40.418382
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:10:51.139576
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:11:44.489041
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Starting Program: 2023-Jul-26 21:49:30.399277
 Creating Domain...
   X Cells: 36
   Y Cells: 1
@@ -27,24 +9,7 @@ Creating Domain...
   Total Cells: 576
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Mar-21 15:00:00 (21.8%)
+  2100-Jun-25 11:00:00 (48.1%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-<<<<<<< HEAD
-Finished Program: 2023-Jul-24 19:05:17.965304
-Elapsed Time: 00:00:00.809135
-=======
-Finished Program: 2023-Jul-24 19:06:41.348097
-Elapsed Time: 00:00:00.929715
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-Finished Program: 2023-Jul-24 19:10:51.903615
-Elapsed Time: 00:00:00.764039
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-  2100-Apr-05 10:00:00 (25.9%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:11:45.326456
-Elapsed Time: 00:00:00.837415
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Finished Program: 2023-Jul-26 21:49:31.203662
+Elapsed Time: 00:00:00.804385

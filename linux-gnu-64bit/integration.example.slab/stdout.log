@@ -1,62 +1,16 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.6c38236e.6 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.871cf475.8 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-24 19:05:04.155084
-=======
-Starting Program: 2023-Jul-24 19:06:25.579140
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:10:38.901961
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.46046bb0.7 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Jul-24 19:11:30.065154
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Starting Program: 2023-Jul-26 21:49:17.426387
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2014-Sep-29 00:00:00
+  2014-Jun-20 17:00:00
 Beginning Simulation...
-  2015-Sep-15 02:00:00 (70.4%)
+  2015-Jun-10 13:00:00 (44%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:05:06.315264
-Elapsed Time: 00:00:02.160180
-=======
-  2014-Mar-30 14:00:00
-Beginning Simulation...
-  2015-Feb-09 12:00:00 (10.8%)
-  2015-Dec-12 11:00:00 (94.6%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:06:28.066942
-Elapsed Time: 00:00:02.487802
->>>>>>> c2644b6a2 (Revert to boost1_81_0; make update script cross-platform [linux-gnu-64bit])
-=======
-  2013-Dec-03 23:00:00
-Beginning Simulation...
-  2015-Jan-26 13:00:00 (7%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:10:40.932768
-Elapsed Time: 00:00:02.030807
->>>>>>> c13fea941 (Update update-boost.py [linux-gnu-64bit])
-=======
-  2014-Sep-13 17:00:00
-Beginning Simulation...
-  2015-Jul-05 12:00:00 (50.8%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Jul-24 19:11:32.604691
-Elapsed Time: 00:00:02.539537
->>>>>>> d2fa532be (Update update-boost.py [linux-gnu-64bit])
+Finished Program: 2023-Jul-26 21:49:19.592751
+Elapsed Time: 00:00:02.166364
