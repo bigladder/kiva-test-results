@@ -25,11 +25,19 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.58 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Jul 27 00:33 UTC
 "integration.example.slab" time elapsed: 00:00:02
+=======
+Test time =   3.81 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Jul 27 00:33 UTC
+"integration.example.slab" time elapsed: 00:00:03
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 
 2/44 Testing: integration.example.basement
@@ -57,11 +65,19 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.89 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Jul 27 00:33 UTC
 "integration.example.basement" time elapsed: 00:00:02
+=======
+Test time =   3.52 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.basement" end time: Jul 27 00:33 UTC
+"integration.example.basement" time elapsed: 00:00:03
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 
 3/44 Testing: integration.example.crawlspace
@@ -89,7 +105,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   3.01 sec
+=======
+Test time =   3.20 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Jul 27 00:33 UTC
@@ -121,7 +141,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
+=======
+Test time =   0.52 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC10a" end time: Jul 27 00:33 UTC
@@ -153,7 +177,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
+=======
+Test time =   0.67 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Jul 27 00:33 UTC
@@ -185,7 +213,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.38 sec
+=======
+Test time =   0.72 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Jul 27 00:33 UTC
@@ -217,7 +249,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.35 sec
+=======
+Test time =   0.65 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30c" end time: Jul 27 00:33 UTC
@@ -249,7 +285,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.30 sec
+=======
+Test time =   1.54 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Jul 27 00:33 UTC
@@ -281,7 +321,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.05 sec
+=======
+Test time =   1.80 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Jul 27 00:33 UTC
@@ -313,7 +357,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.03 sec
+=======
+Test time =   1.80 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jul 27 00:33 UTC
@@ -345,7 +393,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.02 sec
+=======
+Test time =   1.51 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Jul 27 00:33 UTC
@@ -377,7 +429,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.01 sec
+=======
+Test time =   1.41 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jul 27 00:33 UTC
@@ -409,7 +465,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.13 sec
+=======
+Test time =   1.49 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC50b" end time: Jul 27 00:33 UTC
@@ -441,11 +501,19 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.82 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Jul 27 00:33 UTC
 "integration.BESTEST.GC55b" time elapsed: 00:00:00
+=======
+Test time =   1.14 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55b" end time: Jul 27 00:33 UTC
+"integration.BESTEST.GC55b" time elapsed: 00:00:01
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 
 15/44 Testing: integration.BESTEST.GC55c
@@ -473,11 +541,19 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.89 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Jul 27 00:33 UTC
 "integration.BESTEST.GC55c" time elapsed: 00:00:00
+=======
+Test time =   1.39 sec
+----------------------------------------------------------
+Test Passed.
+"integration.BESTEST.GC55c" end time: Jul 27 00:33 UTC
+"integration.BESTEST.GC55c" time elapsed: 00:00:01
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 
 16/44 Testing: integration.BESTEST.GC60b
@@ -505,7 +581,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.36 sec
+=======
+Test time =   0.71 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC60b" end time: Jul 27 00:33 UTC
@@ -537,7 +617,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.36 sec
+=======
+Test time =   0.69 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC65b" end time: Jul 27 00:33 UTC
@@ -569,7 +653,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.05 sec
+=======
+Test time =   1.44 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jul 27 00:33 UTC
@@ -601,7 +689,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.05 sec
+=======
+Test time =   1.29 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Jul 27 00:33 UTC
@@ -633,7 +725,11 @@ Evaluating contents of /Users/runner/work/kiva/kiva/build
   ["/Users/runner/work/kiva/kiva/build/libyaml-cpp.a", "/Users/runner/work/kiva/kiva/build/libgroundplot.a", "/Users/runner/work/kiva/kiva/build/libboost_program_options.a", "/Users/runner/work/kiva/kiva/build/test", "/Users/runner/work/kiva/kiva/build/libpng16.a", "/Users/runner/work/kiva/kiva/build/bin", "/Users/runner/work/kiva/kiva/build/libz.a", "/Users/runner/work/kiva/kiva/build/CMakeFiles", "/Users/runner/work/kiva/kiva/build/Makefile", "/Users/runner/work/kiva/kiva/build/libfmt.a", "/Users/runner/work/kiva/kiva/build/cmake_install.cmake", "/Users/runner/work/kiva/kiva/build/arch.c", "/Users/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/Users/runner/work/kiva/kiva/build/Testing", "/Users/runner/work/kiva/kiva/build/CPackConfig.cmake", "/Users/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/Users/runner/work/kiva/kiva/build/kiva_tests", "/Users/runner/work/kiva/kiva/build/lib", "/Users/runner/work/kiva/kiva/build/CMakeCache.txt", "/Users/runner/work/kiva/kiva/build/libkiva.a", "/Users/runner/work/kiva/kiva/build/kiva", "/Users/runner/work/kiva/kiva/build/arch.txt", "/Users/runner/work/kiva/kiva/build/libmgl.a", "/Users/runner/work/kiva/kiva/build/vendor", "/Users/runner/work/kiva/kiva/build/src"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.20 sec
+=======
+Test time =   1.39 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Jul 27 00:33 UTC
@@ -653,6 +749,7 @@ Note: Google Test filter = GC10aFixture.calculateADI
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADI
 Note: 2607.32
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADI (14 ms)
 [----------] 1 test from GC10aFixture (14 ms total)
 
@@ -661,6 +758,16 @@ Note: 2607.32
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.13 sec
+=======
+[       OK ] GC10aFixture.calculateADI (15 ms)
+[----------] 1 test from GC10aFixture (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateADI" end time: Jul 27 00:33 UTC
@@ -680,14 +787,22 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (188 ms)
 [----------] 1 test from GC10aFixture (188 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (188 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (202 ms)
+[----------] 1 test from GC10aFixture (202 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (202 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.21 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateImplicit" end time: Jul 27 00:33 UTC
@@ -707,14 +822,22 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (186 ms)
 [----------] 1 test from GC10aFixture (186 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (186 ms total)
+=======
+[       OK ] GC10aFixture.calculateCrankN (194 ms)
+[----------] 1 test from GC10aFixture (194 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (194 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.20 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Jul 27 00:33 UTC
@@ -734,11 +857,19 @@ Note: Google Test filter = GC10aFixture.calculateADE
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateADE
 Note: 2615.19
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateADE (11 ms)
 [----------] 1 test from GC10aFixture (11 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (11 ms total)
+=======
+[       OK ] GC10aFixture.calculateADE (12 ms)
+[----------] 1 test from GC10aFixture (12 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (12 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -761,14 +892,22 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (208 ms)
 [----------] 1 test from GC10aFixture (208 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (208 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (219 ms)
+[----------] 1 test from GC10aFixture (219 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (219 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
+Test time =   0.22 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.GC10a_calculateSteadyState" end time: Jul 27 00:33 UTC
@@ -787,11 +926,19 @@ Note: Google Test filter = GC10aFixture.calcCellADI
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellADI
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellADI (14 ms)
 [----------] 1 test from GC10aFixture (14 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (14 ms total)
+=======
+[       OK ] GC10aFixture.calcCellADI (16 ms)
+[----------] 1 test from GC10aFixture (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (16 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.02 sec
@@ -813,14 +960,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (188 ms)
 [----------] 1 test from GC10aFixture (188 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (189 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (205 ms)
+[----------] 1 test from GC10aFixture (205 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (205 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.21 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrix" end time: Jul 27 00:33 UTC
@@ -839,14 +994,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (207 ms)
 [----------] 1 test from GC10aFixture (207 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (207 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (217 ms)
+[----------] 1 test from GC10aFixture (217 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (217 ms total)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.21 sec
+Test time =   0.22 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrixSS" end time: Jul 27 00:33 UTC
@@ -865,7 +1028,7 @@ Note: Google Test filter = BESTESTFixture.GC10a
 [==========] 0 tests from 0 test suites ran. (0 ms total)
 [  PASSED  ] 0 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.BESTEST.GC10a" end time: Jul 27 00:33 UTC
@@ -962,7 +1125,11 @@ Note: Google Test filter = BESTESTFixture.GC60b
 [----------] Global test environment set-up.
 [----------] 1 test from BESTESTFixture
 [ RUN      ] BESTESTFixture.GC60b
+<<<<<<< HEAD
 [       OK ] BESTESTFixture.GC60b (2 ms)
+=======
+[       OK ] BESTESTFixture.GC60b (3 ms)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [----------] 1 test from BESTESTFixture (3 ms total)
 
 [----------] Global test environment tear-down
@@ -1021,7 +1188,7 @@ Note: Google Test filter = BESTESTFixture.1D
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.BESTEST.1D" end time: Jul 27 00:33 UTC
@@ -1041,6 +1208,8 @@ Note: Google Test filter = DomainFixture.domain_basics
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.domain_basics
 [       OK ] DomainFixture.domain_basics (2 ms)
+<<<<<<< HEAD
+=======
 [----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
@@ -1067,6 +1236,7 @@ Note: Google Test filter = DomainFixture.surface_indices
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_indices
 [       OK ] DomainFixture.surface_indices (2 ms)
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 [----------] 1 test from DomainFixture (2 ms total)
 
 [----------] Global test environment tear-down
@@ -1076,6 +1246,35 @@ Note: Google Test filter = DomainFixture.surface_indices
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
+"unit.DomainFixture.domain_basics" end time: Jul 27 00:33 UTC
+"unit.DomainFixture.domain_basics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/44 Testing: unit.DomainFixture.surface_indices
+37/44 Test: unit.DomainFixture.surface_indices
+Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=DomainFixture.surface_indices"
+Directory: /Users/runner/work/kiva/kiva/build/test/unit
+"unit.DomainFixture.surface_indices" start time: Jul 27 00:33 UTC
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DomainFixture.surface_indices
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DomainFixture
+[ RUN      ] DomainFixture.surface_indices
+[       OK ] DomainFixture.surface_indices (2 ms)
+[----------] 1 test from DomainFixture (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+=======
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 "unit.DomainFixture.surface_indices" end time: Jul 27 00:33 UTC
 "unit.DomainFixture.surface_indices" time elapsed: 00:00:00
 ----------------------------------------------------------
@@ -1092,8 +1291,8 @@ Note: Google Test filter = DomainFixture.surface_tilt
 [----------] Global test environment set-up.
 [----------] 1 test from DomainFixture
 [ RUN      ] DomainFixture.surface_tilt
-[       OK ] DomainFixture.surface_tilt (2 ms)
-[----------] 1 test from DomainFixture (2 ms total)
+[       OK ] DomainFixture.surface_tilt (1 ms)
+[----------] 1 test from DomainFixture (1 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (2 ms total)
@@ -1171,17 +1370,21 @@ Note: Google Test filter = AggregatorFixture.validation
 [----------] 1 test from AggregatorFixture
 [ RUN      ] AggregatorFixture.validation
 Warning: The weights of associated Kiva instances do not quite add to unity--check exposed perimeter values. Weights will be slightly modified to add to unity.
-[       OK ] AggregatorFixture.validation (21 ms)
-[----------] 1 test from AggregatorFixture (21 ms total)
+[       OK ] AggregatorFixture.validation (229 ms)
+[----------] 1 test from AggregatorFixture (229 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (21 ms total)
+[==========] 1 test from 1 test suite ran. (229 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.24 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.AggregatorFixture.validation" end time: Jul 27 00:33 UTC
+=======
+"unit.AggregatorFixture.validation" end time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 "unit.AggregatorFixture.validation" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1392,11 @@ Test Passed.
 42/44 Test: unit.TypicalFixture.convectionCallback
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=TypicalFixture.convectionCallback"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" start time: Jul 27 00:33 UTC
+=======
+"unit.TypicalFixture.convectionCallback" start time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = TypicalFixture.convectionCallback
@@ -1204,10 +1411,14 @@ Note: Google Test filter = TypicalFixture.convectionCallback
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.TypicalFixture.convectionCallback" end time: Jul 27 00:33 UTC
+=======
+"unit.TypicalFixture.convectionCallback" end time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 "unit.TypicalFixture.convectionCallback" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1215,7 +1426,11 @@ Test Passed.
 43/44 Test: unit.FoundationFixture.foundationSurfaces
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" start time: Jul 27 00:33 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" start time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces
@@ -1233,7 +1448,11 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces" end time: Jul 27 00:33 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces" end time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 "unit.FoundationFixture.foundationSurfaces" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1241,7 +1460,11 @@ Test Passed.
 44/44 Test: unit.FoundationFixture.foundationSurfaces2
 Command: "/Users/runner/work/kiva/kiva/build/kiva_tests" "--gtest_filter=FoundationFixture.foundationSurfaces2"
 Directory: /Users/runner/work/kiva/kiva/build/test/unit
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" start time: Jul 27 00:33 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" start time: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = FoundationFixture.foundationSurfaces2
@@ -1259,8 +1482,16 @@ Note: Google Test filter = FoundationFixture.foundationSurfaces2
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
+<<<<<<< HEAD
 "unit.FoundationFixture.foundationSurfaces2" end time: Jul 27 00:33 UTC
 "unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 End testing: Jul 27 00:33 UTC
+=======
+"unit.FoundationFixture.foundationSurfaces2" end time: Jul 27 00:34 UTC
+"unit.FoundationFixture.foundationSurfaces2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 27 00:34 UTC
+>>>>>>> 364fdd7ad (update to boost1.83, fix script, modify macro defs)
