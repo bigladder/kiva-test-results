@@ -1,27 +1,15 @@
-kiva v0.6.6+develop.8f60b8d7.2 (linux-gnu-64bit)
+kiva v0.6.6+develop.0fc63cf8.5 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Mar-14 15:03:02.542976
-=======
-Starting Program: 2023-Mar-14 15:03:49.926000
->>>>>>> 25e238eef (Bump version number and reformat CMake file. [linux-gnu-64bit])
+Starting Program: 2023-Jul-31 18:28:06.752503
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Initializing Temperatures...
-<<<<<<< HEAD
-  2099-Nov-11 18:00:00
+  2099-Jun-11 11:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Mar-14 15:03:03.554738
-Elapsed Time: 00:00:01.011762
-=======
-  2099-Jan-05 07:00:00
-Beginning Simulation...
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Mar-14 15:03:50.880047
-Elapsed Time: 00:00:00.954047
->>>>>>> 25e238eef (Bump version number and reformat CMake file. [linux-gnu-64bit])
+Finished Program: 2023-Jul-31 18:28:07.714648
+Elapsed Time: 00:00:00.962145
