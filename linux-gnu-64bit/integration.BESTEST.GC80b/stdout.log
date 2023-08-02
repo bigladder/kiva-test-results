@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kiva v0.6.6+reduce_boost.a37a201a.12 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -6,12 +7,19 @@ Starting Program: 2023-Aug-02 21:12:25.647401
 =======
 Starting Program: 2023-Aug-02 21:12:38.658675
 >>>>>>> 0f8462dd0 (Improve naming when updating boost.)
+=======
+kiva v0.6.6+reduce_boost.ae4e669c.13 (linux-gnu-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Aug-02 21:16:37.805125
+>>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2099-Oct-10 09:00:00
 Beginning Simulation...
@@ -25,3 +33,10 @@ Beginning Simulation...
 Finished Program: 2023-Aug-02 21:12:39.454469
 Elapsed Time: 00:00:00.795794
 >>>>>>> 0f8462dd0 (Improve naming when updating boost.)
+=======
+  2099-Mar-11 04:00:00
+Beginning Simulation...
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2023-Aug-02 21:16:38.895516
+Elapsed Time: 00:00:01.090391
+>>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
