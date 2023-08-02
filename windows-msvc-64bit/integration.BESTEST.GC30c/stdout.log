@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 kiva v0.6.6+reduce_boost.a37a201a.12 (windows-msvc-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2023-Aug-02 21:18:58.773659
+=======
+kiva v0.6.6+reduce_boost.ae4e669c.13 (windows-msvc-64bit)
+Copyright (C) 2012-2023 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2023-Aug-02 21:22:34.961263
+>>>>>>> 4a2e54bc9 (Make cosmetic changes. [windows-msvc-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -10,5 +17,10 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Aug-02 21:18:59.149239
 Elapsed Time: 00:00:00.375580
+=======
+Finished Program: 2023-Aug-02 21:22:35.305429
+Elapsed Time: 00:00:00.344166
+>>>>>>> 4a2e54bc9 (Make cosmetic changes. [windows-msvc-64bit])
