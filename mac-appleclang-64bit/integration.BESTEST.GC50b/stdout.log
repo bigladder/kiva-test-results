@@ -1,54 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.a37a201a.12 (mac-appleclang-64bit)
+kiva v0.6.6+reduce_boost.577aad24.14 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Aug-02 21:15:13.348746
-=======
-Starting Program: 2023-Aug-02 21:15:57.714115
->>>>>>> 432cb2832 (Improve naming when updating boost.)
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:18:05.488626
->>>>>>> ca2c94a22 (Make cosmetic changes. [mac-appleclang-64bit])
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (mac-appleclang-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:18:07.469564
->>>>>>> 289e6c7e4 (Make cosmetic changes. [mac-appleclang-64bit])
+Starting Program: 2023-Aug-10 22:14:40.506989
 Creating Domain...
   X Cells: 42
   Y Cells: 1
   Z Cells: 16
   Total Cells: 672
 Initializing Temperatures...
-  2099-Jul-27 11:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2100-May-12 18:00:00 (36.1%)
+  2100-Jan-09 02:00:00 (2.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:15:14.366585
-Elapsed Time: 00:00:01.017839
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:15:58.718459
-Elapsed Time: 00:00:01.004344
->>>>>>> 432cb2832 (Improve naming when updating boost.)
-=======
-  2100-Feb-24 17:00:00 (15%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:18:06.455591
-Elapsed Time: 00:00:00.966965
->>>>>>> ca2c94a22 (Make cosmetic changes. [mac-appleclang-64bit])
-=======
-  2100-Mar-03 18:00:00 (16.9%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:18:08.460435
-Elapsed Time: 00:00:00.990871
->>>>>>> 289e6c7e4 (Make cosmetic changes. [mac-appleclang-64bit])
+Finished Program: 2023-Aug-10 22:14:41.593763
+Elapsed Time: 00:00:01.086774
