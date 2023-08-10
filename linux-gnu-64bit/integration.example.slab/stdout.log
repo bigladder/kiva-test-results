@@ -1,62 +1,16 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.a37a201a.12 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.577aad24.14 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Aug-02 21:12:07.802902
-=======
-Starting Program: 2023-Aug-02 21:12:21.616644
->>>>>>> 0f8462dd0 (Improve naming when updating boost.)
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:16:15.294716
->>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:16:58.658095
->>>>>>> a308b765b (Make cosmetic changes. [linux-gnu-64bit])
+Starting Program: 2023-Aug-10 22:10:37.404482
 Creating Domain...
   X Cells: 48
   Y Cells: 1
   Z Cells: 34
   Total Cells: 1632
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2014-Jan-31 02:00:00
+  2014-Jul-07 15:00:00
 Beginning Simulation...
-  2015-Feb-08 11:00:00 (10.5%)
+  2015-Jul-05 23:00:00 (50.9%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:12:09.945345
-Elapsed Time: 00:00:02.142443
-=======
-  2014-Apr-18 01:00:00
-Beginning Simulation...
-  2015-May-14 06:00:00 (36.5%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:12:23.628304
-Elapsed Time: 00:00:02.011660
->>>>>>> 0f8462dd0 (Improve naming when updating boost.)
-=======
-  2014-Jun-28 00:00:00
-Beginning Simulation...
-  2015-Apr-27 22:00:00 (32%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:16:17.864638
-Elapsed Time: 00:00:02.569922
->>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
-=======
-  2014-Mar-02 05:00:00
-Beginning Simulation...
-  2015-Jan-04 07:00:00 (0.9%)
-  2015-Oct-07 14:00:00 (76.6%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:17:01.320859
-Elapsed Time: 00:00:02.662764
->>>>>>> a308b765b (Make cosmetic changes. [linux-gnu-64bit])
+Finished Program: 2023-Aug-10 22:10:39.515875
+Elapsed Time: 00:00:02.111393

@@ -1,53 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.a37a201a.12 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.577aad24.14 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Aug-02 21:12:26.567001
-=======
-Starting Program: 2023-Aug-02 21:12:39.537820
->>>>>>> 0f8462dd0 (Improve naming when updating boost.)
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:16:39.010088
->>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.ae4e669c.13 (linux-gnu-64bit)
-Copyright (C) 2012-2023 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2023-Aug-02 21:17:21.939884
->>>>>>> a308b765b (Make cosmetic changes. [linux-gnu-64bit])
+Starting Program: 2023-Aug-10 22:10:55.786794
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
+  2099-Jun-11 12:00:00
 Beginning Simulation...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2100-Jan-09 00:00:00 (2.2%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:12:27.385232
-Elapsed Time: 00:00:00.818231
-=======
-  2100-Feb-28 10:00:00 (16%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:12:40.320900
-Elapsed Time: 00:00:00.783080
->>>>>>> 0f8462dd0 (Improve naming when updating boost.)
-=======
-  2100-Nov-09 22:00:00 (85.7%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:16:40.069708
-Elapsed Time: 00:00:01.059620
->>>>>>> 607427569 (Make cosmetic changes. [linux-gnu-64bit])
-=======
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2023-Aug-02 21:17:22.917636
-Elapsed Time: 00:00:00.977752
->>>>>>> a308b765b (Make cosmetic changes. [linux-gnu-64bit])
+Finished Program: 2023-Aug-10 22:10:56.601077
+Elapsed Time: 00:00:00.814283
