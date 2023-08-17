@@ -1,11 +1,7 @@
-kiva v0.6.6+reduce_boost.2154d47e.15 (mac-appleclang-64bit)
+kiva v0.6.6+reduce_boost.bd7cf93a.16 (mac-appleclang-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Aug-15 22:26:28.209102
-=======
-Starting Program: 2023-Aug-15 22:26:50.627397
->>>>>>> a50348563 (Improve update-boost.py)
+Starting Program: 2023-Aug-17 15:05:59.657828
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2023-Aug-15 22:26:28.434481
-Elapsed Time: 00:00:00.225379
-=======
-Finished Program: 2023-Aug-15 22:26:50.862395
-Elapsed Time: 00:00:00.234998
->>>>>>> a50348563 (Improve update-boost.py)
+Finished Program: 2023-Aug-17 15:05:59.884357
+Elapsed Time: 00:00:00.226529
