@@ -1,7 +1,11 @@
 kiva v0.6.6+reduce_boost.bd7cf93a.16 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2023-Aug-17 15:03:02.900792
+=======
+Starting Program: 2023-Aug-17 15:03:26.017259
+>>>>>>> 6afe41fdb (Update update-boost.py)
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -10,5 +14,10 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2023-Aug-17 15:03:03.120060
 Elapsed Time: 00:00:00.219268
+=======
+Finished Program: 2023-Aug-17 15:03:26.252621
+Elapsed Time: 00:00:00.235362
+>>>>>>> 6afe41fdb (Update update-boost.py)
