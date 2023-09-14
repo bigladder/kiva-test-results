@@ -1,11 +1,7 @@
 kiva v0.6.6+update_math_gl.775e2482.4 (linux-gnu-64bit)
 Copyright (C) 2012-2023 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2023-Jul-14 21:05:27.263725
-=======
-Starting Program: 2023-Jul-14 21:06:54.493438
->>>>>>> 119847ad7 (remove extraneous files [linux-gnu-64bit])
+Starting Program: 2023-Sep-14 20:50:59.247705
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2023-Jul-14 21:05:27.502010
-Elapsed Time: 00:00:00.238285
-=======
-Finished Program: 2023-Jul-14 21:06:54.765407
-Elapsed Time: 00:00:00.271969
->>>>>>> 119847ad7 (remove extraneous files [linux-gnu-64bit])
+Finished Program: 2023-Sep-14 20:50:59.487919
+Elapsed Time: 00:00:00.240214
