@@ -1,59 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.c06ad61b.23 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.c0a95ba6.25 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2024-Jul-29 14:52:37.915892
-=======
-Starting Program: 2024-Jul-29 14:53:44.955100
->>>>>>> ec9303472 (Revise platform/build matrix. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.c522c49b.24 (linux-gnu-64bit)
-Copyright (C) 2012-2024 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2024-Jul-29 14:54:59.521681
->>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.c522c49b.24 (linux-gnu-64bit)
-Copyright (C) 2012-2024 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2024-Jul-29 14:55:35.386525
->>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
+Starting Program: 2024-Jul-29 15:04:38.454479
 Creating Domain...
   X Cells: 36
   Y Cells: 1
   Z Cells: 16
   Total Cells: 576
 Initializing Temperatures...
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  2099-Feb-15 09:00:00
-=======
->>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
 Beginning Simulation...
-  2100-May-16 17:00:00 (37.2%)
+  2100-Jul-17 16:00:00 (54.2%)
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2024-Jul-29 14:52:38.618499
-Elapsed Time: 00:00:00.702607
-=======
-  2098-Dec-10 23:00:00
-=======
->>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
-Beginning Simulation...
-  2100-Dec-15 15:00:00 (95.5%)
-  2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2024-Jul-29 14:53:45.587831
-Elapsed Time: 00:00:00.632731
->>>>>>> ec9303472 (Revise platform/build matrix. [linux-gnu-64bit])
-=======
-Finished Program: 2024-Jul-29 14:55:00.219658
-Elapsed Time: 00:00:00.697977
->>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
-=======
-Finished Program: 2024-Jul-29 14:55:36.015382
-Elapsed Time: 00:00:00.628857
->>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
+Finished Program: 2024-Jul-29 15:04:39.166425
+Elapsed Time: 00:00:00.711946

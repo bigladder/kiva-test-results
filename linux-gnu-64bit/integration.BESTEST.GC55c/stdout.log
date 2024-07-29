@@ -1,48 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-kiva v0.6.6+reduce_boost.c06ad61b.23 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.c0a95ba6.25 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2024-Jul-29 14:52:40.204191
-=======
-Starting Program: 2024-Jul-29 14:53:47.039674
->>>>>>> ec9303472 (Revise platform/build matrix. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.c522c49b.24 (linux-gnu-64bit)
-Copyright (C) 2012-2024 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2024-Jul-29 14:55:01.829698
->>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
-=======
-kiva v0.6.6+reduce_boost.c522c49b.24 (linux-gnu-64bit)
-Copyright (C) 2012-2024 Big Ladder Software LLC
-Web: bigladdersoftware.com
-Starting Program: 2024-Jul-29 14:55:37.463248
->>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
+Starting Program: 2024-Jul-29 15:04:40.794656
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 13
   Total Cells: 481
 Initializing Temperatures...
-  2099-Jul-02 10:00:00
+  2099-Aug-14 10:00:00
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Finished Program: 2024-Jul-29 14:52:40.830779
-Elapsed Time: 00:00:00.626588
-=======
-Finished Program: 2024-Jul-29 14:53:47.578184
-Elapsed Time: 00:00:00.538510
->>>>>>> ec9303472 (Revise platform/build matrix. [linux-gnu-64bit])
-=======
-Finished Program: 2024-Jul-29 14:55:02.419645
-Elapsed Time: 00:00:00.589947
->>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
-=======
-Finished Program: 2024-Jul-29 14:55:37.995436
-Elapsed Time: 00:00:00.532188
->>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
+Finished Program: 2024-Jul-29 15:04:41.407935
+Elapsed Time: 00:00:00.613279
