@@ -1,7 +1,7 @@
-kiva v0.6.6+reduce_boost.cf530894.22 (windows-msvc-64bit)
+kiva v0.6.6+reduce_boost.c06ad61b.23 (windows-msvc-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2024-Jul-29 14:49:08.500450
+Starting Program: 2024-Jul-29 14:56:28.160109
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,5 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2024-Jul-29 14:49:08.703569
-Elapsed Time: 00:00:00.203119
+Finished Program: 2024-Jul-29 14:56:28.363229
+Elapsed Time: 00:00:00.203120
