@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.6+reduce_boost.c06ad61b.23 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -13,6 +14,12 @@ Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2024-Jul-29 14:54:55.356577
 >>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
+=======
+kiva v0.6.6+reduce_boost.c522c49b.24 (linux-gnu-64bit)
+Copyright (C) 2012-2024 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2024-Jul-29 14:55:31.571659
+>>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 39
   Y Cells: 1
@@ -20,6 +27,7 @@ Creating Domain...
   Total Cells: 702
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Finished Program: 2024-Jul-29 14:52:33.945089
@@ -32,3 +40,7 @@ Elapsed Time: 00:00:00.158755
 Finished Program: 2024-Jul-29 14:54:55.517673
 Elapsed Time: 00:00:00.161096
 >>>>>>> 6ec30d147 (Fix coverage build. [linux-gnu-64bit])
+=======
+Finished Program: 2024-Jul-29 14:55:31.729460
+Elapsed Time: 00:00:00.157801
+>>>>>>> 2e968faaa (Fix coverage build. [linux-gnu-64bit])
