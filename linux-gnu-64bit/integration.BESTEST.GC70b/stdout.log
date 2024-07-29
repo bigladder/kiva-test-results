@@ -1,11 +1,7 @@
-kiva v0.6.6+reduce_boost.31fa7eb6.21 (linux-gnu-64bit)
+kiva v0.6.6+reduce_boost.cf530894.22 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2024-Jul-10 19:43:55.531641
-=======
-Starting Program: 2024-Jul-10 19:44:33.508271
->>>>>>> 5ec565351 (Change to File.exist. [linux-gnu-64bit])
+Starting Program: 2024-Jul-29 14:45:35.489196
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,14 +9,7 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
-  2100-Apr-04 00:00:00 (25.5%)
+  2100-May-23 13:00:00 (39.1%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2024-Jul-10 19:43:56.275314
-Elapsed Time: 00:00:00.743673
-=======
-  2100-Jun-25 05:00:00 (48%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2024-Jul-10 19:44:34.172051
-Elapsed Time: 00:00:00.663780
->>>>>>> 5ec565351 (Change to File.exist. [linux-gnu-64bit])
+Finished Program: 2024-Jul-29 14:45:36.228566
+Elapsed Time: 00:00:00.739370
