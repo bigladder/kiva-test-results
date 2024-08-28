@@ -1,13 +1,14 @@
-kiva v0.6.6+update_boost-2.ad037215.24 (mac-appleclang-64bit)
+kiva v0.6.6+update_boost-2.12975579.25 (mac-appleclang-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2024-Aug-28 22:39:32.945353
+Starting Program: 2024-Aug-28 22:51:36.819597
 Creating Domain...
   X Cells: 39
   Y Cells: 1
   Z Cells: 18
   Total Cells: 702
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2024-Aug-28 22:39:33.128293
-Elapsed Time: 00:00:00.182940
+Finished Program: 2024-Aug-28 22:51:37.052033
+Elapsed Time: 00:00:00.232436
