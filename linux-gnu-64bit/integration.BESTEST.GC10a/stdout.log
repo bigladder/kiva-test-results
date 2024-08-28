@@ -1,7 +1,11 @@
 kiva v0.6.6+update_boost-2.ad037215.24 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2024-Aug-28 22:39:12.399903
+=======
+Starting Program: 2024-Aug-28 22:39:54.799223
+>>>>>>> d9a867df8 (Disable boost quad math to avoid warnings. [linux-gnu-64bit])
 Creating Domain...
   X Cells: 41
   Y Cells: 1
@@ -9,5 +13,10 @@ Creating Domain...
   Total Cells: 779
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2024-Aug-28 22:39:12.549286
 Elapsed Time: 00:00:00.149383
+=======
+Finished Program: 2024-Aug-28 22:39:54.947796
+Elapsed Time: 00:00:00.148573
+>>>>>>> d9a867df8 (Disable boost quad math to avoid warnings. [linux-gnu-64bit])
