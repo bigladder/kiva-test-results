@@ -1,11 +1,7 @@
-kiva v0.6.6+update_boost-2.12975579.25 (linux-gnu-64bit)
+kiva v0.6.6+update_boost-2.f569512b.26 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2024-Aug-28 22:50:39.320495
-=======
-Starting Program: 2024-Aug-28 22:51:01.061881
->>>>>>> c0f49179e (Remove macos 11 runner. [linux-gnu-64bit])
+Starting Program: 2024-Aug-28 22:57:59.016238
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -14,10 +10,5 @@ Creating Domain...
 Initializing Temperatures...
 Beginning Simulation...
   2100-Dec-31 23:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2024-Aug-28 22:50:39.984736
-Elapsed Time: 00:00:00.664241
-=======
-Finished Program: 2024-Aug-28 22:51:01.714107
-Elapsed Time: 00:00:00.652226
->>>>>>> c0f49179e (Remove macos 11 runner. [linux-gnu-64bit])
+Finished Program: 2024-Aug-28 22:57:59.687061
+Elapsed Time: 00:00:00.670823
