@@ -1,11 +1,7 @@
-kiva v0.6.6+update_boost-2.ad037215.24 (linux-gnu-64bit)
+kiva v0.6.6+update_boost-2.12975579.25 (linux-gnu-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2024-Aug-28 22:39:13.153871
-=======
-Starting Program: 2024-Aug-28 22:39:55.525135
->>>>>>> d9a867df8 (Disable boost quad math to avoid warnings. [linux-gnu-64bit])
+Starting Program: 2024-Aug-28 22:50:31.992262
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 592
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2024-Aug-28 22:39:13.321210
-Elapsed Time: 00:00:00.167339
-=======
-Finished Program: 2024-Aug-28 22:39:55.689625
-Elapsed Time: 00:00:00.164490
->>>>>>> d9a867df8 (Disable boost quad math to avoid warnings. [linux-gnu-64bit])
+Finished Program: 2024-Aug-28 22:50:32.157694
+Elapsed Time: 00:00:00.165432
