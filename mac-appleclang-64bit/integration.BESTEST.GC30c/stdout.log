@@ -1,13 +1,14 @@
 kiva v0.6.6+develop.a4734fb2.27 (mac-appleclang-64bit)
 Copyright (C) 2012-2024 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2024-Sep-15 09:24:53.659051
+Starting Program: 2024-Sep-22 09:23:48.887377
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-Finished Program: 2024-Sep-15 09:24:53.853155
-Elapsed Time: 00:00:00.194104
+Finished Program: 2024-Sep-22 09:23:49.080293
+Elapsed Time: 00:00:00.192916
