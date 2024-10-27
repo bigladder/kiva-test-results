@@ -25,7 +25,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   1.82 sec
+=======
+Test time =   1.85 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Oct 27 09:25 UTC
@@ -249,7 +253,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.85 sec
+=======
+Test time =   0.84 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Oct 27 09:25 UTC
@@ -345,7 +353,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.74 sec
+Test time =   0.73 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Oct 27 09:25 UTC
@@ -377,7 +385,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.72 sec
+=======
+Test time =   0.71 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Oct 27 09:25 UTC
@@ -441,7 +453,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.57 sec
+=======
+Test time =   0.55 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Oct 27 09:25 UTC
@@ -473,7 +489,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.63 sec
+=======
+Test time =   0.62 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Oct 27 09:25 UTC
@@ -569,7 +589,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.76 sec
+Test time =   0.74 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Oct 27 09:25 UTC
@@ -601,7 +621,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.75 sec
+=======
+Test time =   0.74 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Oct 27 09:25 UTC
@@ -633,7 +657,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.74 sec
+=======
+Test time =   0.73 sec
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80c" end time: Oct 27 09:25 UTC
@@ -813,14 +841,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (175 ms)
 [----------] 1 test from GC10aFixture (175 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (175 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (171 ms)
+[----------] 1 test from GC10aFixture (171 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (171 ms total)
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.18 sec
+Test time =   0.17 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrix" end time: Oct 27 09:25 UTC
@@ -839,11 +875,19 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (193 ms)
 [----------] 1 test from GC10aFixture (193 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (193 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (191 ms)
+[----------] 1 test from GC10aFixture (191 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (191 ms total)
+>>>>>>> 831737b7e (Merge pull request #67 from bigladder/update_boost-2)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.20 sec
