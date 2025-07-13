@@ -1,29 +1,16 @@
 kiva v0.6.7 (linux-gnu-64bit)
 Copyright (C) 2012-2025 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2025-Jul-06 09:30:24.043903
-=======
-Starting Program: 2025-Jul-06 09:30:49.959071
->>>>>>> 237619c7f (Merge pull request #69 from bigladder/update-boost-1.88.0)
+Starting Program: 2025-Jul-13 09:33:38.154098
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
-<<<<<<< HEAD
-  2014-Nov-15 20:00:00
+  2014-Oct-07 04:00:00
 Beginning Simulation...
-  2015-Nov-03 02:00:00 (83.9%)
+  2015-Sep-20 23:00:00 (72%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2025-Jul-06 09:30:26.169663
-Elapsed Time: 00:00:02.125760
-=======
-  2014-Dec-17 02:00:00
-Beginning Simulation...
-  2015-Dec-02 19:00:00 (92%)
-  2015-Dec-31 23:00:00 (100%)
-Finished Program: 2025-Jul-06 09:30:52.085048
-Elapsed Time: 00:00:02.125977
->>>>>>> 237619c7f (Merge pull request #69 from bigladder/update-boost-1.88.0)
+Finished Program: 2025-Jul-13 09:33:40.298021
+Elapsed Time: 00:00:02.143923
