@@ -57,7 +57,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.39 sec
+=======
+Test time =   2.38 sec
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Jan 18 09:32 UTC
@@ -89,7 +93,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.20 sec
+=======
+Test time =   2.23 sec
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Jan 18 09:32 UTC
@@ -121,7 +129,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.22 sec
+Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC10a" end time: Jan 18 09:32 UTC
@@ -153,7 +161,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.22 sec
+Test time =   0.23 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30a" end time: Jan 18 09:32 UTC
@@ -281,7 +289,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.72 sec
+=======
+Test time =   0.74 sec
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40b" end time: Jan 18 09:32 UTC
@@ -313,7 +325,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.71 sec
+=======
+Test time =   0.72 sec
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40c" end time: Jan 18 09:32 UTC
@@ -345,7 +361,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.71 sec
+Test time =   0.72 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Jan 18 09:32 UTC
@@ -377,7 +393,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.69 sec
+Test time =   0.70 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Jan 18 09:32 UTC
@@ -473,7 +489,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.60 sec
+=======
+Test time =   0.61 sec
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55c" end time: Jan 18 09:32 UTC
@@ -569,7 +589,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.73 sec
+Test time =   0.74 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Jan 18 09:32 UTC
@@ -680,11 +700,19 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (179 ms)
 [----------] 1 test from GC10aFixture (179 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (179 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (177 ms)
+[----------] 1 test from GC10aFixture (177 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (177 ms total)
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.18 sec
@@ -707,14 +735,14 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
-[       OK ] GC10aFixture.calculateCrankN (172 ms)
-[----------] 1 test from GC10aFixture (172 ms total)
+[       OK ] GC10aFixture.calculateCrankN (173 ms)
+[----------] 1 test from GC10aFixture (173 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (172 ms total)
+[==========] 1 test from 1 test suite ran. (173 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.17 sec
+Test time =   0.18 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calculateCrankN" end time: Jan 18 09:32 UTC
@@ -761,11 +789,19 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (194 ms)
 [----------] 1 test from GC10aFixture (194 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (194 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (195 ms)
+[----------] 1 test from GC10aFixture (195 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (195 ms total)
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.20 sec
@@ -813,11 +849,19 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (174 ms)
 [----------] 1 test from GC10aFixture (174 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (174 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (175 ms)
+[----------] 1 test from GC10aFixture (175 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (175 ms total)
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.18 sec
@@ -839,11 +883,19 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (193 ms)
 [----------] 1 test from GC10aFixture (193 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (193 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (195 ms)
+[----------] 1 test from GC10aFixture (195 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (195 ms total)
+>>>>>>> ed8c0ae95 (Merge pull request #70 from mitchute/fix-boundingbox-init)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.20 sec
