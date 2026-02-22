@@ -1,16 +1,29 @@
 kiva v0.6.7+hdf5.f74eadd5.4 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2026-Feb-22 14:36:09.695016
+=======
+Starting Program: 2026-Feb-22 14:37:19.481327
+>>>>>>> e327b6e75 (Set up HDF5 and example [linux-gnu-64bit])
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 50
   Total Cells: 2050
 Initializing Temperatures...
+<<<<<<< HEAD
   2014-Mar-20 22:00:00
 Beginning Simulation...
   2015-Mar-26 16:00:00 (23.2%)
   2015-Dec-31 23:00:00 (100%)
 Finished Program: 2026-Feb-22 14:36:11.790146
 Elapsed Time: 00:00:02.095130
+=======
+  2014-Jun-04 22:00:00
+Beginning Simulation...
+  2015-May-31 14:00:00 (41.3%)
+  2015-Dec-31 23:00:00 (100%)
+Finished Program: 2026-Feb-22 14:37:21.615895
+Elapsed Time: 00:00:02.134568
+>>>>>>> e327b6e75 (Set up HDF5 and example [linux-gnu-64bit])
