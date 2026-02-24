@@ -1,13 +1,23 @@
 kiva v0.6.7+arrow.9ca475e9.5 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2026-Feb-24 23:30:43.105726
+=======
+Starting Program: 2026-Feb-24 23:31:44.904815
+>>>>>>> 597315291 (Set KIVA_ERROR to OFF in build-kiva action [linux-gnu-64bit])
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 19
   Total Cells: 779
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2026-Feb-24 23:30:43.261533
 Elapsed Time: 00:00:00.155807
+=======
+Finished Program: 2026-Feb-24 23:31:45.056871
+Elapsed Time: 00:00:00.152056
+>>>>>>> 597315291 (Set KIVA_ERROR to OFF in build-kiva action [linux-gnu-64bit])
