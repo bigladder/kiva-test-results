@@ -1,11 +1,7 @@
-kiva v0.6.7+hdf5.f74eadd5.4 (linux-gnu-64bit)
+kiva v0.6.7+hdf5.7aaf21b1.5 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2026-Feb-22 14:36:18.628910
-=======
-Starting Program: 2026-Feb-22 14:37:28.508949
->>>>>>> e327b6e75 (Set up HDF5 and example [linux-gnu-64bit])
+Starting Program: 2026-Feb-24 23:03:45.761902
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 608
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2026-Feb-22 14:36:18.800809
-Elapsed Time: 00:00:00.171899
-=======
-Finished Program: 2026-Feb-22 14:37:28.682047
-Elapsed Time: 00:00:00.173098
->>>>>>> e327b6e75 (Set up HDF5 and example [linux-gnu-64bit])
+Finished Program: 2026-Feb-24 23:03:45.936697
+Elapsed Time: 00:00:00.174795
