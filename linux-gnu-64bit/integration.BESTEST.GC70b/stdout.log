@@ -1,7 +1,11 @@
 kiva v0.6.7+hdf5.7aaf21b1.5 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2026-Feb-24 23:03:46.008337
+=======
+Starting Program: 2026-Feb-24 23:04:48.479980
+>>>>>>> 80442eed0 (Set KIVA_ERROR to OFF in build-kiva action [linux-gnu-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -9,6 +13,12 @@ Creating Domain...
   Total Cells: 608
 Initializing Temperatures...
 Beginning Simulation...
+  2100-Jul-23 07:00:00 (55.7%)
   2100-Dec-31 23:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2026-Feb-24 23:03:46.668524
 Elapsed Time: 00:00:00.660187
+=======
+Finished Program: 2026-Feb-24 23:04:49.144123
+Elapsed Time: 00:00:00.664143
+>>>>>>> 80442eed0 (Set KIVA_ERROR to OFF in build-kiva action [linux-gnu-64bit])
