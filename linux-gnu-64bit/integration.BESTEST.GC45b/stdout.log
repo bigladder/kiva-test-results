@@ -1,11 +1,7 @@
-kiva v0.6.7+develop.cea15551.3 (linux-gnu-64bit)
+kiva v0.6.7+arrow.9ca475e9.5 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2026-Feb-15 09:43:06.035621
-=======
-Starting Program: 2026-Feb-15 09:43:33.635775
->>>>>>> 516fdc64f (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Starting Program: 2026-Feb-24 23:30:46.325981
 Creating Domain...
   X Cells: 37
   Y Cells: 1
@@ -13,13 +9,6 @@ Creating Domain...
   Total Cells: 592
 Initializing Temperatures...
 Beginning Simulation...
-<<<<<<< HEAD
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2026-Feb-15 09:43:06.673861
-Elapsed Time: 00:00:00.638240
-=======
-  2100-Feb-05 05:00:00 (9.6%)
-  2100-Dec-31 23:00:00 (100%)
-Finished Program: 2026-Feb-15 09:43:34.287546
-Elapsed Time: 00:00:00.651771
->>>>>>> 516fdc64f (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Finished Program: 2026-Feb-24 23:30:46.987395
+Elapsed Time: 00:00:00.661414
