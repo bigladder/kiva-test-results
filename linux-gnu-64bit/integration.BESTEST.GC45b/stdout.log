@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kiva v0.6.7+cbor.cea15551.3 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -13,12 +14,19 @@ Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2026-Feb-27 19:48:02.929963
 >>>>>>> d10ccba17 (Install JSON/CBOR package [linux-gnu-64bit])
+=======
+kiva v0.6.7+cbor.d38cb2d6.4 (linux-gnu-64bit)
+Copyright (C) 2012-2026 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2026-Feb-27 19:48:42.728402
+>>>>>>> 4582d207a (Install JSON/CBOR package [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 16
   Total Cells: 592
 Initializing Temperatures...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Beginning Simulation...
@@ -39,3 +47,10 @@ Beginning Simulation...
 Finished Program: 2026-Feb-27 19:48:03.578428
 Elapsed Time: 00:00:00.648465
 >>>>>>> d10ccba17 (Install JSON/CBOR package [linux-gnu-64bit])
+=======
+  2099-Oct-16 04:00:00
+Beginning Simulation...
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2026-Feb-27 19:48:43.376495
+Elapsed Time: 00:00:00.648093
+>>>>>>> 4582d207a (Install JSON/CBOR package [linux-gnu-64bit])
