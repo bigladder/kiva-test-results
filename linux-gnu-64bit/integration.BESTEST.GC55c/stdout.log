@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kiva v0.6.7+cbor.cea15551.3 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
@@ -6,12 +7,19 @@ Starting Program: 2026-Feb-27 19:46:52.806799
 =======
 Starting Program: 2026-Feb-27 19:47:12.572237
 >>>>>>> 846e33c57 (Merge pull request #70 from mitchute/fix-boundingbox-init)
+=======
+kiva v0.6.7+cbor.d38cb2d6.4 (linux-gnu-64bit)
+Copyright (C) 2012-2026 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2026-Feb-27 19:48:05.656243
+>>>>>>> d10ccba17 (Install JSON/CBOR package [linux-gnu-64bit])
 Creating Domain...
   X Cells: 37
   Y Cells: 1
   Z Cells: 13
   Total Cells: 481
 Initializing Temperatures...
+<<<<<<< HEAD
 <<<<<<< HEAD
   2099-Aug-21 20:00:00
 Beginning Simulation...
@@ -25,3 +33,10 @@ Beginning Simulation...
 Finished Program: 2026-Feb-27 19:47:13.115916
 Elapsed Time: 00:00:00.543679
 >>>>>>> 846e33c57 (Merge pull request #70 from mitchute/fix-boundingbox-init)
+=======
+Beginning Simulation...
+  2100-Apr-13 16:00:00 (28.1%)
+  2100-Dec-31 23:00:00 (100%)
+Finished Program: 2026-Feb-27 19:48:06.184097
+Elapsed Time: 00:00:00.527854
+>>>>>>> d10ccba17 (Install JSON/CBOR package [linux-gnu-64bit])
