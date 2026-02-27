@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 kiva v0.6.7+cbor.cea15551.3 (windows-msvc-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
 Starting Program: 2026-Feb-27 19:48:40.887356
+=======
+kiva v0.6.7+cbor.d38cb2d6.4 (windows-msvc-64bit)
+Copyright (C) 2012-2026 Big Ladder Software LLC
+Web: bigladdersoftware.com
+Starting Program: 2026-Feb-27 19:49:12.963123
+>>>>>>> a7ed611a0 (Install JSON/CBOR package [windows-msvc-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -10,5 +17,10 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2026-Feb-27 19:48:41.106102
 Elapsed Time: 00:00:00.218746
+=======
+Finished Program: 2026-Feb-27 19:49:13.181880
+Elapsed Time: 00:00:00.218757
+>>>>>>> a7ed611a0 (Install JSON/CBOR package [windows-msvc-64bit])
