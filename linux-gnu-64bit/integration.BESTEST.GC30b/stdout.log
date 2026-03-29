@@ -1,22 +1,14 @@
 kiva v0.6.7+develop.cea15551.3 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2026-Mar-22 09:43:37.125197
-=======
-Starting Program: 2026-Mar-22 09:44:07.366860
->>>>>>> 18ff6317f (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Starting Program: 2026-Mar-29 09:48:57.890179
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
+  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2026-Mar-22 09:43:37.301059
-Elapsed Time: 00:00:00.175862
-=======
-Finished Program: 2026-Mar-22 09:44:07.529347
-Elapsed Time: 00:00:00.162487
->>>>>>> 18ff6317f (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Finished Program: 2026-Mar-29 09:48:58.066183
+Elapsed Time: 00:00:00.176004
