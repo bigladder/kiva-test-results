@@ -1,14 +1,22 @@
 kiva v0.6.7+perimeter-surface-width.47bb4a42.4 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
+<<<<<<< HEAD
 Starting Program: 2026-Apr-01 17:43:06.937488
+=======
+Starting Program: 2026-Apr-01 17:43:41.228513
+>>>>>>> 5d864bdd1 (Change default for xyNearMin to account for perimeter surface width [linux-gnu-64bit])
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Beginning Simulation...
-  2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
+<<<<<<< HEAD
 Finished Program: 2026-Apr-01 17:43:07.123327
 Elapsed Time: 00:00:00.185839
+=======
+Finished Program: 2026-Apr-01 17:43:41.402142
+Elapsed Time: 00:00:00.173629
+>>>>>>> 5d864bdd1 (Change default for xyNearMin to account for perimeter surface width [linux-gnu-64bit])
