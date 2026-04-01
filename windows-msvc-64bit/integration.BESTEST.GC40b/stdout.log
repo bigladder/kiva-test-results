@@ -1,15 +1,15 @@
-kiva v0.6.7+develop.cea15551.3 (windows-msvc-64bit)
+kiva v0.6.7+perimeter-surface-width.47bb4a42.4 (windows-msvc-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2026-Mar-29 09:49:22.208863
+Starting Program: 2026-Apr-01 17:43:59.761408
 Creating Domain...
   X Cells: 38
   Y Cells: 1
   Z Cells: 16
   Total Cells: 608
 Initializing Temperatures...
+  2099-May-21 09:00:00
 Beginning Simulation...
-  2100-Dec-22 07:00:00 (97.3%)
   2100-Dec-31 23:00:00 (100%)
-Finished Program: 2026-Mar-29 09:49:23.006160
-Elapsed Time: 00:00:00.797297
+Finished Program: 2026-Apr-01 17:44:00.684118
+Elapsed Time: 00:00:00.922710
