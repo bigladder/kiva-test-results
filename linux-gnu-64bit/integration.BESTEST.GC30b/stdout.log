@@ -1,11 +1,7 @@
-kiva v0.6.7+develop.cea15551.3 (linux-gnu-64bit)
+kiva v0.6.7+perimeter-surface-width.47bb4a42.4 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2026-Mar-29 09:48:49.625643
-=======
-Starting Program: 2026-Mar-29 09:48:57.890179
->>>>>>> f9a77c838 (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Starting Program: 2026-Apr-01 17:43:06.937488
 Creating Domain...
   X Cells: 38
   Y Cells: 1
@@ -14,10 +10,5 @@ Creating Domain...
 Beginning Simulation...
   2097-Jan-01 00:00:00 (0%)
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2026-Mar-29 09:48:49.802656
-Elapsed Time: 00:00:00.177013
-=======
-Finished Program: 2026-Mar-29 09:48:58.066183
-Elapsed Time: 00:00:00.176004
->>>>>>> f9a77c838 (Merge pull request #70 from mitchute/fix-boundingbox-init)
+Finished Program: 2026-Apr-01 17:43:07.123327
+Elapsed Time: 00:00:00.185839
