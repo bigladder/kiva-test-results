@@ -25,11 +25,19 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.01 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.example.slab" end time: Apr 19 09:57 UTC
 "integration.example.slab" time elapsed: 00:00:02
+=======
+Test time =   1.84 sec
+----------------------------------------------------------
+Test Passed.
+"integration.example.slab" end time: Apr 19 09:57 UTC
+"integration.example.slab" time elapsed: 00:00:01
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 
 2/44 Testing: integration.example.basement
@@ -57,7 +65,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.40 sec
+=======
+Test time =   2.37 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.basement" end time: Apr 19 09:57 UTC
@@ -89,7 +101,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   2.20 sec
+=======
+Test time =   2.18 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.example.crawlspace" end time: Apr 19 09:57 UTC
@@ -185,7 +201,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.25 sec
+=======
+Test time =   0.24 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC30b" end time: Apr 19 09:57 UTC
@@ -249,7 +269,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.82 sec
+=======
+Test time =   0.83 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC40a" end time: Apr 19 09:57 UTC
@@ -345,7 +369,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.72 sec
+=======
+Test time =   0.71 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45b" end time: Apr 19 09:57 UTC
@@ -377,7 +405,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.70 sec
+=======
+Test time =   0.69 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC45c" end time: Apr 19 09:57 UTC
@@ -441,7 +473,7 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
-Test time =   0.54 sec
+Test time =   0.53 sec
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC55b" end time: Apr 19 09:57 UTC
@@ -537,7 +569,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.25 sec
+=======
+Test time =   0.24 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC65b" end time: Apr 19 09:57 UTC
@@ -569,7 +605,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.74 sec
+=======
+Test time =   0.72 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC70b" end time: Apr 19 09:57 UTC
@@ -601,7 +641,11 @@ Evaluating contents of /home/runner/work/kiva/kiva/build
   ["/home/runner/work/kiva/kiva/build/CMakeCache.txt", "/home/runner/work/kiva/kiva/build/CMakeFiles", "/home/runner/work/kiva/kiva/build/CPackConfig.cmake", "/home/runner/work/kiva/kiva/build/CPackSourceConfig.cmake", "/home/runner/work/kiva/kiva/build/CTestTestfile.cmake", "/home/runner/work/kiva/kiva/build/Makefile", "/home/runner/work/kiva/kiva/build/Testing", "/home/runner/work/kiva/kiva/build/arch.c", "/home/runner/work/kiva/kiva/build/arch.txt", "/home/runner/work/kiva/kiva/build/bin", "/home/runner/work/kiva/kiva/build/cmake_install.cmake", "/home/runner/work/kiva/kiva/build/kiva", "/home/runner/work/kiva/kiva/build/kiva_tests", "/home/runner/work/kiva/kiva/build/lib", "/home/runner/work/kiva/kiva/build/libboost_program_options.a", "/home/runner/work/kiva/kiva/build/libfmt.a", "/home/runner/work/kiva/kiva/build/libgroundplot.a", "/home/runner/work/kiva/kiva/build/libkiva.a", "/home/runner/work/kiva/kiva/build/libmgl.a", "/home/runner/work/kiva/kiva/build/libpng16.a", "/home/runner/work/kiva/kiva/build/libyaml-cpp.a", "/home/runner/work/kiva/kiva/build/libz.a", "/home/runner/work/kiva/kiva/build/src", "/home/runner/work/kiva/kiva/build/test", "/home/runner/work/kiva/kiva/build/vendor"]
 run-kiva.rb completed!
 <end of output>
+<<<<<<< HEAD
 Test time =   0.73 sec
+=======
+Test time =   0.75 sec
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 ----------------------------------------------------------
 Test Passed.
 "integration.BESTEST.GC80b" end time: Apr 19 09:57 UTC
@@ -680,11 +724,19 @@ Note: Google Test filter = GC10aFixture.calculateImplicit
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateImplicit
 Note: 2601.25
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateImplicit (175 ms)
 [----------] 1 test from GC10aFixture (175 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (175 ms total)
+=======
+[       OK ] GC10aFixture.calculateImplicit (178 ms)
+[----------] 1 test from GC10aFixture (178 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (178 ms total)
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.18 sec
@@ -707,11 +759,19 @@ Note: Google Test filter = GC10aFixture.calculateCrankN
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calculateCrankN
 Note: 2600.87
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calculateCrankN (173 ms)
 [----------] 1 test from GC10aFixture (173 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (173 ms total)
+=======
+[       OK ] GC10aFixture.calculateCrankN (170 ms)
+[----------] 1 test from GC10aFixture (170 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (170 ms total)
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.18 sec
@@ -761,11 +821,19 @@ Note: Google Test filter = GC10aFixture.GC10a_calculateSteadyState
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.GC10a_calculateSteadyState
 Note: 3107.57
+<<<<<<< HEAD
 [       OK ] GC10aFixture.GC10a_calculateSteadyState (195 ms)
 [----------] 1 test from GC10aFixture (195 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (195 ms total)
+=======
+[       OK ] GC10aFixture.GC10a_calculateSteadyState (197 ms)
+[----------] 1 test from GC10aFixture (197 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (197 ms total)
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.20 sec
@@ -813,8 +881,13 @@ Note: Google Test filter = GC10aFixture.calcCellMatrix
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrix
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrix (177 ms)
 [----------] 1 test from GC10aFixture (177 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrix (175 ms)
+[----------] 1 test from GC10aFixture (175 ms total)
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (177 ms total)
@@ -839,14 +912,22 @@ Note: Google Test filter = GC10aFixture.calcCellMatrixSS
 [----------] Global test environment set-up.
 [----------] 1 test from GC10aFixture
 [ RUN      ] GC10aFixture.calcCellMatrixSS
+<<<<<<< HEAD
 [       OK ] GC10aFixture.calcCellMatrixSS (193 ms)
 [----------] 1 test from GC10aFixture (193 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (193 ms total)
+=======
+[       OK ] GC10aFixture.calcCellMatrixSS (191 ms)
+[----------] 1 test from GC10aFixture (191 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (192 ms total)
+>>>>>>> 2ba298e00 (Merge pull request #72 from bigladder/perimeter-surface-width)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.20 sec
+Test time =   0.19 sec
 ----------------------------------------------------------
 Test Passed.
 "unit.GC10aFixture.calcCellMatrixSS" end time: Apr 19 09:57 UTC
@@ -1175,7 +1256,7 @@ Warning: The weights of associated Kiva instances do not quite add to unity--che
 [----------] 1 test from AggregatorFixture (10 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (11 ms total)
+[==========] 1 test from 1 test suite ran. (10 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
