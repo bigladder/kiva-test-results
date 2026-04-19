@@ -1,11 +1,7 @@
 kiva v0.6.7+develop.05704fe8.5 (linux-gnu-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-<<<<<<< HEAD
-Starting Program: 2026-Apr-12 09:57:08.351411
-=======
-Starting Program: 2026-Apr-12 09:57:28.549409
->>>>>>> f3b302aee (Merge pull request #72 from bigladder/perimeter-surface-width)
+Starting Program: 2026-Apr-19 09:57:23.351721
 Creating Domain...
   X Cells: 41
   Y Cells: 1
@@ -13,10 +9,5 @@ Creating Domain...
   Total Cells: 779
 Beginning Simulation...
   2097-Jan-01 00:00:00 (100%)
-<<<<<<< HEAD
-Finished Program: 2026-Apr-12 09:57:08.507371
-Elapsed Time: 00:00:00.155960
-=======
-Finished Program: 2026-Apr-12 09:57:28.701208
-Elapsed Time: 00:00:00.151799
->>>>>>> f3b302aee (Merge pull request #72 from bigladder/perimeter-surface-width)
+Finished Program: 2026-Apr-19 09:57:23.504991
+Elapsed Time: 00:00:00.153270
