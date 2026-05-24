@@ -1,16 +1,17 @@
 kiva v0.6.7+develop.05704fe8.5 (windows-msvc-64bit)
 Copyright (C) 2012-2026 Big Ladder Software LLC
 Web: bigladdersoftware.com
-Starting Program: 2026-May-17 10:31:18.903770
+Starting Program: 2026-May-24 10:49:12.878054
 Creating Domain...
   X Cells: 41
   Y Cells: 1
   Z Cells: 55
   Total Cells: 2255
 Initializing Temperatures...
-  2014-Sep-10 05:00:00
+  2013-Dec-17 23:00:00
+  2014-Nov-28 23:00:00
 Beginning Simulation...
-  2015-May-17 08:00:00 (37.4%)
+  2015-Oct-02 04:00:00 (75.1%)
   2015-Dec-31 23:00:00 (100%)
-Finished Program: 2026-May-17 10:31:21.922538
-Elapsed Time: 00:00:03.018768
+Finished Program: 2026-May-24 10:49:15.301000
+Elapsed Time: 00:00:02.422946
